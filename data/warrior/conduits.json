@@ -1,0 +1,150 @@
+[
+  {
+    "id": "334993",
+    "name": "Stalwart Guardian",
+    "icon": "ability_warrior_shieldmastery",
+    "type": "endurance",
+    "specs": [
+      "arms", "fury", "protection"
+    ],
+    "notes": [],
+    "description": "The cooldown of <spec>Arms</spec><dynamic>Die by the Sword</dynamic><spec>Fury</spec><dynamic>Enraged Regeneration</dynamic><spec>Protection</spec><dynamic>Shield Wall</dynamic> is reduced by <dynamic>20 sec</dynamic>."
+  },
+  {
+    "id": "335010",
+    "name": "Brutal Vitality",
+    "icon": "ability_warrior_renewedvigor",
+    "type": "potency",
+    "specs": ["protection"],
+    "notes": [],
+    "description": "<dynamic>6.0%</dynamic> of damage you deal adds to your active Ignore Pain."
+  },
+  {
+    "id": "335034",
+    "name": "Inspiring Presence",
+    "icon": "ability_toughness",
+    "type": "finesse",
+    "specs": [
+      "arms", "fury", "protection"
+    ],
+    "notes": [],
+    "description": "Rallying Cry's duration and health granted are increased by <dynamic>20%</dynamic>."
+  },
+  {
+    "id": "335196",
+    "name": "Safeguard",
+    "icon": "ability_warrior_safeguard",
+    "type": "finesse",
+    "specs": ["protection"],
+    "notes": [],
+    "description": "Intervene reduces damage taken by the target by <dynamic>10%</dynamic>."
+  },
+  {
+    "id": "335225",
+    "name": "Iron Maiden",
+    "icon": "inv_titanium_shield_spike",
+    "type": "potency",
+    "specs": [
+      "arms", "fury", "protection"
+    ],
+    "notes": [],
+    "description": "<spec>Arms</spec><spec>Fury</spec><dynamic>Slam</dynamic><spec>Protection</spec><dynamic>Revenge</dynamic> has a <dynamic>4.0%</dynamic> chance to refund a charge of Shield Block."
+  },
+  {
+    "id": "335232",
+    "name": "Ashen Juggernaut",
+    "icon": "warrior_talent_icon_skirmisher",
+    "type": "potency",
+    "specs": [
+      "arms", "fury", "protection"
+    ],
+    "notes": [],
+    "description": "Execute increases the critical strike chance of Execute by 3% for 8 sec, stacking up to <dynamic>6</dynamic> times."
+  },
+  {
+    "id": "335242",
+    "name": "Crash the Ramparts",
+    "icon": "inv_mace_1h_draenorraid_d_04yellow",
+    "type": "potency",
+    "specs": [
+      "arms"
+    ],
+    "notes": [],
+    "description": "Overpower has a <dynamic>6.0%</dynamic> chance to apply Colossus Smash for 3 sec."
+  },
+  {
+    "id": "335250",
+    "name": "Cacophonous Roar",
+    "icon": "ability_fomor_boss_shout",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Intimidating Shout can withstand <dynamic>80%</dynamic> more damage before breaking."
+  },
+  {
+    "id": "335260",
+    "name": "Merciless Bonegrinder",
+    "icon": "ability_ironmaidens_whirlofblood",
+    "type": "potency",
+    "specs": [
+      "arms"
+    ],
+    "notes": [],
+    "description": "Slam critical strikes reduce the remaining cooldown of <condition>Ravager</condition><dynamic>Ravager</dynamic>Bladestorm by <dynamic>1.0 sec</dynamic>."
+  },
+  {
+    "id": "336191",
+    "name": "Indelible Victory",
+    "icon": "ability_warrior_secondwind",
+    "type": "endurance",
+    "specs": [
+      "arms", "fury", "protection"
+    ],
+    "notes": [],
+    "description": "<condition>Impending Victory</condition><dynamic>Impending Victory</dynamic>Victory Rush heals you for <dynamic>400%</dynamic> of the damage it dealt over 8 sec."
+  },
+  {
+    "id": "337154",
+    "name": "Unnerving Focus",
+    "icon": "rogue_shadowfocus",
+    "type": "potency",
+    "specs": [
+      "protection"
+    ],
+    "notes": [],
+    "description": "Last Stand increases your Rage generation by <dynamic>30%.</dynamic>"
+  },
+  {
+    "id": "337162",
+    "name": "Depths of Insanity",
+    "icon": "spell_shadow_summonimp",
+    "type": "potency",
+    "specs": [
+      "fury"
+    ],
+    "notes": [],
+    "description": "Recklessness lasts <dynamic>20%</dynamic> longer."
+  },
+  {
+    "id": "337214",
+    "name": "Hack and Slash",
+    "icon": "ability_rogue_rollthebones02",
+    "type": "potency",
+    "specs": [
+      "fury"
+    ],
+    "notes": [],
+    "description": "Rampage has a <dynamic>10.0%</dynamic> chance to refund a charge of Raging Blow."
+  },
+  {
+    "id": "337302",
+    "name": "Vicious Contempt",
+    "icon": "ability_ironmaidens_sorkasprey",
+    "type": "potency",
+    "specs": [
+      "fury"
+    ],
+    "notes": [],
+    "description": "Bloodthirst deals <dynamic>40%</dynamic> increased damage to enemies who are below 20% health."
+  }
+]

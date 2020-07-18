@@ -1,0 +1,225 @@
+[
+  {
+    "id": "337964",
+    "name": "Astral Protection",
+    "icon": "ability_hunter_mastertactitian",
+    "type": "endurance",
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Reincarnation's cooldown is reduced by 3.0 min, and reincarnating instantly grants you Astral Shift."
+  },
+  {
+    "id": "337974",
+    "name": "Refreshing Waters",
+    "icon": "ability_shaman_fortifyingwaters",
+    "type": "endurance",
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Your Healing Surge is 15% more effective on yourself."
+  },
+  {
+    "id": "337981",
+    "name": "Vital Accretion",
+    "icon": "ability_accretion",
+    "type": "endurance",
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Your Earth Elemental increases your maximum health by 20%."
+  },
+  {
+    "id": "338033",
+    "name": "Thunderous Paws",
+    "icon": "ability_hunter_longevity",
+    "type": "finesse",
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Ghost Wolf increases your movement speed by an additional 10% for the first 3 sec. May only occur once every 60 sec."
+  },
+  {
+    "id": "338042",
+    "name": "Totemic Surge",
+    "icon": "spell_shaman_dropall_03",
+    "type": "finesse",
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
+    "notes": [],
+    "description": "The cooldowns of Tremor Totem, Earthbind Totem, and Capacitor Totem are reduced by 1 sec."
+  },
+  {
+    "id": "338048",
+    "name": "Spiritual Resonance",
+    "icon": "spell_arcane_prismaticcloak",
+    "type": "finesse",
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
+    "notes": [],
+    "description": "<condition>Heroism</condition><dynamic>Heroism</dynamic>Bloodlust or any similar effects also grant you 4.0 sec of <spec>Enhancement</spec><dynamic>Spirit Walk</dynamic><spec>Elemental</spec><spec>Restoration</spec><dynamic>Spiritwalker's Grace</dynamic>"
+  },
+  {
+    "id": "338054",
+    "name": "Crippling Hex",
+    "icon": "spell_nature_removedisease",
+    "type": "finesse",
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Enemies affected by your Hex deal 8% reduced damage for 8 sec after Hex is removed."
+  },
+  {
+    "id": "338131",
+    "name": "High Voltage",
+    "icon": "ability_vehicle_electrocharge",
+    "type": "potency",
+    "specs": [
+      "elemental"
+    ],
+    "notes": [],
+    "description": "Lightning Bolt has a <dynamic>30%</dynamic> chance to generate an extra stack of Fulmination."
+  },
+  {
+    "id": "338252",
+    "name": "Shake the Foundations",
+    "icon": "spell_nature_unrelentingstorm",
+    "type": "potency",
+    "specs": [
+      "elemental"
+    ],
+    "notes": [],
+    "description": "Casting Earthquake has a 15% chance to instantly cast Chain Lightning at a random enemy in the Earthquake."
+  },
+  {
+    "id": "338303",
+    "name": "Call of Flame",
+    "icon": "item_sparkofragnoros",
+    "type": "potency",
+    "specs": [
+      "elemental"
+    ],
+    "notes": [],
+    "description": "<condition>Storm Elemental</condition><dynamic>Storm Elemental</dynamic>Fire Elemental lasts 15% longer."
+  },
+  {
+    "id": "338307",
+    "name": "Earth and Sky",
+    "icon": "inv_misc_stormlordsfavor",
+    "type": "potency",
+    "specs": [
+      "elemental"
+    ],
+    "notes": [],
+    "description": "Earth Shock and Elemental Blast's damage are increased by <dynamic>7.0%</dynamic> for each stack of Fulmination they discharge."
+  },
+  {
+    "id": "338318",
+    "name": "Unruly Winds",
+    "icon": "ability_skyreach_wind_wall",
+    "type": "potency",
+    "specs": [
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "Windfury Weapon has a <dynamic>40%</dynamic> chance to trigger a third attack."
+  },
+  {
+    "id": "338322",
+    "name": "Focused Lightning",
+    "icon": "ability_thunderking_balllightning",
+    "type": "potency",
+    "specs": [
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "Maelstrom Weapon increases the damage or healing of your next spell by an additional <dynamic>4.0%</dynamic> per stack."
+  },
+  {
+    "id": "338325",
+    "name": "Chilled to the Core",
+    "icon": "spell_frost_icefloes",
+    "type": "potency",
+    "specs": [
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "Frost Shock has a <dynamic>20%</dynamic> chance to grant 2 stack of Maelstrom Weapon."
+  },
+  {
+    "id": "338329",
+    "name": "Embrace of Earth",
+    "icon": "spell_shaman_improvedearthshield",
+    "type": "potency",
+    "specs": [
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Earth Shield increases your healing done to the target by an additional <dynamic>5.0%</dynamic>."
+  },
+  {
+    "id": "338331",
+    "name": "Magma Fist",
+    "icon": "spell_fire_soulburn",
+    "type": "potency",
+    "specs": [
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "Lava Lash has an additional <dynamic>25%</dynamic> critical strike chance against enemies affected by your Flame Shock."
+  },
+  {
+    "id": "338339",
+    "name": "Swirling Currents",
+    "icon": "spell_holy_serendipity",
+    "type": "potency",
+    "specs": [
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Using Healing Stream Totem increases the healing of your next 3 Healing Surge, Healing Wave, or Riptide spells by <dynamic>20%</dynamic>."
+  },
+  {
+    "id": "338343",
+    "name": "Heavy Rainfall",
+    "icon": "shaman_pvp_ripplingwaters",
+    "type": "potency",
+    "specs": [
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Using Healing Tide Totem increases the healing of your Healing Rain by <dynamic>150%</dynamic> for 20 sec."
+  },
+  {
+    "id": "338346",
+    "name": "Nature's Reach",
+    "icon": "spell_shaman_blessingofeternals",
+    "type": "potency",
+    "specs": [
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Chain Heal has a <dynamic>40%</dynamic> chance to jump to an additional ally."
+  }
+]

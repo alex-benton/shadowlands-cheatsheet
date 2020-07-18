@@ -1,0 +1,13 @@
+{
+  "name": "wcp-scripts",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "latest",
+    "cheerio": "^1.0.0-rc.3",
+    "htmlparser2": "latest"
+  }
+}
