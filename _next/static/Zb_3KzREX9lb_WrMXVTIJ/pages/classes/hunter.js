@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{otpH:function(n,t,e){"use strict";e.r(t),e.d(t,"__N_SSG",(function(){return c}));var o=e("q1tI"),u=e.n(o),i=e("O3rA"),r=u.a.createElement,c=!0;t.default=function(n){return r(i.a,n)}},vijU:function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/classes/hunter",function(){return e("otpH")}])}},[["vijU",0,2,4,1,3,5]]]);

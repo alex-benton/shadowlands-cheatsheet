@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{U0rg:function(n,r,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/classes/priest",function(){return e("erAO")}])},erAO:function(n,r,e){"use strict";e.r(r),e.d(r,"__N_SSG",(function(){return c}));var t=e("q1tI"),u=e.n(t),i=e("O3rA"),o=u.a.createElement,c=!0;r.default=function(n){return o(i.a,n)}}},[["U0rg",0,2,4,1,3,5]]]);
