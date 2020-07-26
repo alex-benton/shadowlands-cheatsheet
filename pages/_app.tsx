@@ -2,10 +2,8 @@ import {AppProps} from 'next/app';
 import * as React from 'react';
 import styled, {ThemeProvider, createGlobalStyle} from "styled-components";
 import Head from "next/head";
-
-const theme = {
-
-};
+import theme from "../components/theme";
+import {urlPrefix} from "../components/util";
 
 /**
  * Use the 'styled-components' global style mechanism to style the 'body' and default '__next' entrypoint div.
@@ -20,7 +18,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 400;
     
     background-color: #222;
-    background-image: url('/spooky.jpg');
+    background-image: url('${urlPrefix(`/spooky.jpg`)}');
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -52,12 +50,12 @@ const GlobalStyle = createGlobalStyle`
  * @param pageProps provided by nextjs. The props to be passed to the page.
  */
 const App = ({Component, pageProps}: AppProps) => (<ThemeProvider theme={theme}>
-    <GlobalStyle/>
+        <GlobalStyle/>
         <Head>
-            <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
-            <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
-            <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
-            <link rel="manifest" href="/site.webmanifest"/>
+            <link rel="apple-touch-icon" sizes="180x180" href={urlPrefix(`/apple-touch-icon.png`)}/>
+            <link rel="icon" type="image/png" sizes="32x32" href={urlPrefix(`/favicon-32x32.png`)}/>
+            <link rel="icon" type="image/png" sizes="16x16" href={urlPrefix(`/favicon-16x16.png`)}/>
+            <link rel="manifest" href={urlPrefix(`/site.webmanifest`)}/>
             <link
                 href="https://fonts.googleapis.com/css2?family=Bungee&family=Open+Sans:wght@300;400;600;700;800&family=Stalinist+One&display=swap"
                 rel="stylesheet"
@@ -68,7 +66,7 @@ const App = ({Component, pageProps}: AppProps) => (<ThemeProvider theme={theme}>
         <Content>
             <Component {...pageProps} />
         </Content>
-</ThemeProvider>);
+    </ThemeProvider>);
 
 export default App;
 

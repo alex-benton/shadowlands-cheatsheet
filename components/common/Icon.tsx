@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import React from "react";
 import theme, {ClassName, CovenantName} from "../theme";
+import {urlPrefix} from "../util";
 
 type Props = {
     icon?: string,
@@ -44,7 +45,7 @@ const Container = styled.div<{ color: string, padding: number }>`
 `;
 
 const Content = styled.div<{ icon: string, size: number }>`
-    background: url('${props => props.icon}');
+    background: url('${props => urlPrefix(props.icon)}');
     height: ${props => props.size}px;
     width: ${props => props.size}px;
     background-position: center;

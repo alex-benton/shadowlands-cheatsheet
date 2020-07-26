@@ -1,17 +1,16 @@
 import React from 'react';
 import styled from 'styled-components';
 import ClassTile from "../components/home/ClassTile";
-import CovenantTile from "../components/home/CovenantTile";
+// import CovenantTile from "../components/home/CovenantTile";
 import theme from "../components/theme";
-import Link from "next/link";
 import {CLASS_NAMES} from "../components/constants";
 import HomeHeader from "../components/common/HomeHeader";
+import AppLink from "../components/common/AppLink";
 
 const Home = () => (
     <Container>
         <HomeHeader/>
         <Classes/>
-        <Covenants/>
     </Container>
 );
 
@@ -42,14 +41,15 @@ const ClassContainer = styled.div`
 
 const Classes = () => <ClassContainer>
     <Content>
-        {CLASS_NAMES.map(name => <Link key={name} href={`/classes/${name}`}>
-            <div>
+        {CLASS_NAMES.map(name => <AppLink key={name} href={`/classes/${name}`}>
+            <a>
                 <ClassTile className={name} />
-            </div>
-        </Link>)}
+            </a>
+        </AppLink>)}
     </Content>
 </ClassContainer>
 
+/*
 const Covenants = () => <ClassContainer>
     <Content>
         <CovenantTile covenantName={"kyrian"}/>
@@ -58,3 +58,4 @@ const Covenants = () => <ClassContainer>
         <CovenantTile covenantName={"necrolord"}/>
     </Content>
 </ClassContainer>
+*/

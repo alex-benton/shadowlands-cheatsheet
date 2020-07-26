@@ -2,8 +2,8 @@ import React from "react";
 import styled from "styled-components";
 import theme, {ClassName} from "../theme";
 import Icon from "./Icon";
-import Link from "next/link";
 import {CLASS_DISPLAY_NAMES} from "../constants";
+import AppLink from "./AppLink";
 
 /**
  * Defines the props accepted by the PageHeader component.
@@ -21,14 +21,14 @@ type Props = {
 const PageHeader = (props: Props) => {
     return <>
         <Container>
-            <Link href={'/'}>
+            <AppLink href={'/'}>
                 <a>
                     <HomeContainer>
                         <Icon icon={'inv_revendreth'} color={'white'} size={36}/>
                         <Text color={'white'}>Home</Text>
                     </HomeContainer>
                 </a>
-            </Link>
+            </AppLink>
             <HomeContainer>
                 <Text color={'white'}> / </Text>
             </HomeContainer>

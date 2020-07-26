@@ -1,6 +1,7 @@
 import {ClassName} from "../theme";
 import styled from "styled-components";
 import React from "react";
+import Icon from "../common/Icon";
 
 
 const SPEC_ICONS: {[index: string]: {[index: string]: string}} = {
@@ -77,9 +78,7 @@ const SpecIcon = (props: Props) => {
     const specs = SPEC_ICONS[props.className];
     const spec = specs[props.spec]
 
-    return <IconContainer color={'black'}>
-        <Icon icon={spec} size={props.size}/>
-    </IconContainer>
+    return <StyledIcon color={'black'} icon={spec} size={props.size} />;
 }
 
 SpecIcon.defaultProps = {
@@ -88,19 +87,6 @@ SpecIcon.defaultProps = {
 
 export default SpecIcon;
 
-const IconContainer = styled.div<{ color: string }>`
+const StyledIcon = styled(Icon)`
     display: inline-flex;
-    background-color: ${props => props.color};
-    border-radius: 10%;
-    margin: 0px 4px;
-`;
-
-const Icon = styled.div<{ icon: string, size: number }>`
-    background: url('/assets/icons/${props => props.icon}');
-    height: ${props => props.size}px;
-    width: ${props => props.size}px;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    border-radius: 25%;
 `;

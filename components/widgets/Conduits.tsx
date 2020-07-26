@@ -106,9 +106,7 @@ const Category = (props: CategoryProps) => {
     const category = CONDUIT_CATEGORIES[props.category];
     return <CategoryContainer>
         <CategoryHeader background={category.color}>
-            <IconContainer color={category.color}>
-                <CategoryIcon icon={category.icon}/>
-            </IconContainer>
+            <Icon color={category.color} icon={category.icon} />
             <CategoryHeaderText>{category.name}</CategoryHeaderText>
         </CategoryHeader>
         <CategoryContent>
@@ -144,22 +142,6 @@ const CategoryHeaderText = styled.div`
     margin-left: 8px;
     font-family: ${theme.font.title};
     font-size: 1.75em;
-`;
-
-const IconContainer = styled.div<{ color: string }>`
-    background-color: ${props => props.color};
-    border-radius: 10%;
-    padding: 2px;
-`;
-
-const CategoryIcon = styled.div<{ icon: string }>`
-    background: url('/assets/icons/${props => props.icon}');
-    height: 50px;
-    width: 50px;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    border-radius: 25%;
 `;
 
 const CategoryContent = styled.div`

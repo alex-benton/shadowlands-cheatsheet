@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import theme, {CovenantName} from "../theme";
+import {CovenantName} from "../theme";
+import Icon from "../common/Icon";
 
 type Props = {
     covenantName: CovenantName,
@@ -25,26 +26,8 @@ const Container = styled.div`
     }
 `;
 
-type IconProps = {
-    covenantName: CovenantName,
-};
+const CovenantIcon = (props: Props) => <StyledIcon covenantName={props.covenantName} size={130} />
 
-const CovenantIcon = (props: IconProps) => <IconContainer covenantName={props.covenantName}>
-    <IconImage covenantName={props.covenantName}/>
-</IconContainer>
-
-const IconContainer = styled.div<IconProps>`
-    background-color: ${props => theme.color.covenants[props.covenantName]};
+const StyledIcon = styled(Icon)`
     border-radius: 50%;
-    padding: 4px;
-
-`;
-
-const IconImage = styled.div<IconProps>`
-    background-image: url('/assets/${props => props.covenantName}.png');
-    height: 130px;
-    width: 130px;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
 `;
