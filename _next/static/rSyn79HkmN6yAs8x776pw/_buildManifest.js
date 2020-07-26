@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a,b){return {"/classes/[className]":[a,b],"/classes/deathknight":[a,b]}}("static\u002Fchunks\u002F29107295.2c0239431bc779e86617.js","static\u002Fchunks\u002F14af0952d4cc9ccf23a1cac18a63140ce1e02a40.f9a0693ae5fa9693bd74.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST = {"/classes/[className]":["static\u002Fchunks\u002F29107295.86eb407586830904b05a.js"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
