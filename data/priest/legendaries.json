@@ -1,0 +1,170 @@
+[
+  {
+    "id": "336011",
+    "name": "The Penitent One",
+    "icon": "spell_holy_penance",
+    "slots": [
+      "Feet",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Power Word: Radiance has a 50% chance to cause your next Penance to be free and fire 3 extra bolts."
+  },
+  {
+    "id": "336067",
+    "name": "Clarity of Mind",
+    "icon": "spell_holy_spiritualguidence",
+    "slots": [
+      "Chest",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "During Rapture, Power Word: Shield costs 20% less mana and applies 6 second longer Atonements."
+  },
+  {
+    "id": "336133",
+    "name": "Kiss of Death",
+    "icon": "inv_offhand_1h_zuldazarraid_d_02",
+    "slots": [
+      "Legs",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Reduces Shadow Word: Death's cooldown by 8 sec and causes its damage to trigger Atonement."
+  },
+  {
+    "id": "336143",
+    "name": "Shadowflame Prism",
+    "icon": "inv_jewelcrafting_shadowsongamethyst_02",
+    "slots": [
+      "Head",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Shadowfiend or Mindbender deals 20% additional damage as Shadowflame damage, and the cooldown on Shadowfiend and Mindbender is reduced by 40%."
+  },
+  {
+    "id": "336165",
+    "name": "Painbreaker Psalm",
+    "icon": "inv_misc_scrollunrolled01d",
+    "slots": [
+      "Chest",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Shadow Word: Death consumes 6 sec of Shadow Word: Pain and Vampiric Touch, instantly dealing that damage to the target and generating 10 Insanity."
+  },
+  {
+    "id": "336214",
+    "name": "Eternal Call to the Void",
+    "icon": "achievement_boss_yoggsaron_01",
+    "slots": [
+      "Wrist",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Mind Flay has a chance to spawn a Void Tendril that channels Mind Flay at your target for 15 sec, generating 3 insanity when it deals damage."
+  },
+  {
+    "id": "336266",
+    "name": "Flash Concentration",
+    "icon": "ability_priest_flashoflight",
+    "slots": [
+      "Neck",
+      "Wrist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Each time you cast Flash Heal, your next Heal cast within 15 sec has its casting time reduced by 0.5 sec and healing increased by 15%, stacking up to 3 times."
+  },
+  {
+    "id": "336314",
+    "name": "Harmonious Apparatus",
+    "icon": "spell_holy_serendipity",
+    "slots": [
+      "Shoulder",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Circle of Healing reduces the cooldown of Holy Word: Sanctify, Prayer of Mending reduces the cooldown of Holy Word: Serenity, and Holy Fire reduces the cooldown of Holy Word: Chastise by 4 sec."
+  },
+  {
+    "id": "336370",
+    "name": "Cauterizing Shadows",
+    "icon": "spell_shadow_twistedfaith",
+    "slots": [
+      "Waist",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When Shadow Word: Pain expires on a target, 5 allies within 30 yds of the target are healed for 3% of their maximum health."
+  },
+  {
+    "id": "336400",
+    "name": "Divine Image",
+    "icon": "inv_pet_naaru",
+    "slots": [
+      "Head",
+      "Waist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When you use a Holy Word spell, you have a chance to summon an image of a Naaru at your side. For 15 sec, whenever you cast a spell, the Naaru will cast a similar spell."
+  },
+  {
+    "id": "336470",
+    "name": "Vault of Heavens",
+    "icon": "priest_spell_leapoffaith_b",
+    "slots": [
+      "Wrist",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Leap of Faith instead causes you to leap to your target, and has 2 charges."
+  },
+  {
+    "id": "336507",
+    "name": "Crystalline Reflection",
+    "icon": "ability_priest_reflectiveshield",
+    "slots": [
+      "Shoulder",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Power Word: Shield instantly heals the target for (30% of Spell power) and reflects 30% of damage absorbed."
+  },
+  {
+    "id": "336897",
+    "name": "Twins of the Sun Priestess",
+    "icon": "spell_fire_felflamering_red",
+    "slots": [
+      "Head",
+      "Shoulder"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Power Infusion also grants you 100% of its effects when used on an ally."
+  },
+  {
+    "id": "337477",
+    "name": "X'anshi, Return of Archbishop Benedictus",
+    "icon": "inv_cape_mail_legiondungeon_c_03",
+    "slots": [
+      "Legs",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "After Spirit of Redemption expires, you will revive at up to 100% health, based on your effectiveness during Spirit of Redemption. After reviving, you cannot benefit from Spirit of Redemption for 10 min."
+  }
+]

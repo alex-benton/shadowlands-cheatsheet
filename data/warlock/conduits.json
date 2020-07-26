@@ -1,0 +1,47 @@
+[
+  {
+    "id": "339130",
+    "name": "Fel Celerity",
+    "icon": "spell_shadow_felmending",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Reduces the cooldown of Fel Domination by 45 sec."
+  },
+  {
+    "id": "339272",
+    "name": "Resolute Barrier",
+    "icon": "spell_shadow_felarmour",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Attacks received that deal at least 5% of your health decrease Unending Resolve's cooldown by 10 seconds. Cannot occur more than once every 30 sec."
+  },
+  {
+    "id": "339282",
+    "name": "Accrued Vitality",
+    "icon": "spell_shadow_lifedrain",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Drain Life heals for 0% of the amount drained over 10 sec."
+  },
+  {
+    "id": "339379",
+    "name": "Shade of Terror",
+    "icon": "spell_shadow_possession",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Damage required to break your Fear effects is increased by 0%."
+  },
+  {
+    "id": "339411",
+    "name": "Demonic Momentum",
+    "icon": "warrior_doubletime",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Demonic Circle increases movement speed by 0% for 5 sec."
+  }
+]

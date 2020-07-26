@@ -3,6 +3,8 @@ import styled from "styled-components";
 import theme, {ClassName} from "../theme";
 import {ConduitType} from "../types";
 import Conduit from "./Conduit";
+import Icon from "../common/Icon";
+import {isEmpty} from "lodash";
 
 type Props = {
     data: ConduitType[],
@@ -46,30 +48,53 @@ const Conduits = (props: Props) => {
     });
 
     return <Container>
-        <Category
-            category={CONDUIT_CATEGORY_POTENCY}
-            data={categorized[CONDUIT_CATEGORY_POTENCY]}
-            className={props.className}
-        />
-        <Category
-            category={CONDUIT_CATEGORY_ENDURANCE}
-            data={categorized[CONDUIT_CATEGORY_ENDURANCE]}
-            className={props.className}
-        />
-        <Category
-            category={CONDUIT_CATEGORY_FINESSE}
-            data={categorized[CONDUIT_CATEGORY_FINESSE]}
-            className={props.className}
-        />
+        <Header>
+            <CategoryHeader background={'#222'}>
+                <Icon icon={'covenant_abilities.jpg'} color={'#222'}/>
+                <HeaderText>Conduits</HeaderText>
+            </CategoryHeader>
+        </Header>
+        <Content>
+            {!isEmpty(categorized[CONDUIT_CATEGORY_POTENCY]) && <Category
+                category={CONDUIT_CATEGORY_POTENCY}
+                data={categorized[CONDUIT_CATEGORY_POTENCY]}
+                className={props.className}
+            />}
+            {!isEmpty(categorized[CONDUIT_CATEGORY_ENDURANCE]) && <Category
+                category={CONDUIT_CATEGORY_ENDURANCE}
+                data={categorized[CONDUIT_CATEGORY_ENDURANCE]}
+                className={props.className}
+            />}
+            {!isEmpty(categorized[CONDUIT_CATEGORY_FINESSE]) && <Category
+                category={CONDUIT_CATEGORY_FINESSE}
+                data={categorized[CONDUIT_CATEGORY_FINESSE]}
+                className={props.className}
+            />}
+        </Content>
     </Container>;
 }
 
 export default Conduits;
 
 const Container = styled.div`
-    background: ${theme.color.background};
     max-width: 1024px;
 `;
+
+const Header = styled.div`
+    margin-top: 8px;
+`;
+
+const HeaderText = styled.div`
+    margin-left: 8px;
+    font-family: ${theme.font.title};
+    font-size: 2em;
+    color: white;
+`;
+
+const Content = styled.div`
+    padding: 8px;
+`;
+
 
 type CategoryProps = {
     category: 'potency' | 'endurance' | 'finesse',
@@ -101,6 +126,9 @@ const CategoryContainer = styled.div`
     padding: 8px;
     display: flex;
     flex-direction: column;
+    background: ${theme.color.background};
+    margin-bottom: 8px;
+
 `;
 
 const CategoryHeader = styled.div<{ background: string }>`

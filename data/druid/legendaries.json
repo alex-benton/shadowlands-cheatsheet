@@ -1,0 +1,194 @@
+[
+  {
+    "id": "338608",
+    "name": "Druid Runecarve 1",
+    "icon": "spell_holy_blessingofagility",
+    "slots": [
+      "Wrist",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Effects of Thick Hide, Astral Influence, Feline Swiftness, and Ysera's Gift increased by 100%.\n\nWhen you shift into your Affinity's form, you gain Heart of the Wild for 15 sec, once every 1 min."
+  },
+  {
+    "id": "338657",
+    "name": "Druid Runecarve 3",
+    "icon": "classicon_druid",
+    "slots": [
+      "Head",
+      "Shoulder"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your damage over time effects occur 25% more quickly and your healing over time effects occur 10% more quickly."
+  },
+  {
+    "id": "338658",
+    "name": "Druid Runecarve 4",
+    "icon": "classicon_druid",
+    "slots": [
+      "Neck",
+      "Chest"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When Moonfire, Rake, Rip, or Rejuvenation are on a single target, their effects are increased 30%"
+  },
+  {
+    "id": "338661",
+    "name": "Oneth's Clear Vision",
+    "icon": "spell_arcane_invocation",
+    "slots": [
+      "Feet",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Starsurge and Starfall each have a 15% chance to make the other free."
+  },
+  {
+    "id": "338668",
+    "name": "Primordial Arcanic Pulsar",
+    "icon": "spell_arcane_arcane03",
+    "slots": [
+      "Shoulder",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Every 400 Astral Power spent grants Celestial Alignment for 9 sec."
+  },
+  {
+    "id": "338829",
+    "name": "Druid Resto Runecarve 3",
+    "icon": "classicon_druid",
+    "slots": [
+      "Shoulder",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Swiftmend no longer consumes a heal over time effect, and extends the duration of your heal over time effects on the target by 10 sec."
+  },
+  {
+    "id": "338831",
+    "name": "The Dark Titan's Lesson",
+    "icon": "spell_druid_germination_rejuvenation",
+    "slots": [
+      "Neck",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "You may Lifebloom two targets at once, and Lifebloom's final healing is increased by 200%."
+  },
+  {
+    "id": "338832",
+    "name": "Druid Resto Runecarve 4",
+    "icon": "classicon_druid",
+    "slots": [
+      "Head",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Rejuvenation healing has a 2% chance to create a new Rejuvenation on a nearby target."
+  },
+  {
+    "id": "339056",
+    "name": "Druid Guardian Runecarve 3",
+    "icon": "classicon_druid",
+    "slots": [
+      "Legs",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Thrash has a 15% chance to trigger an additional Thrash."
+  },
+  {
+    "id": "339060",
+    "name": "Druid Guardian Runecarve 1",
+    "icon": "classicon_druid",
+    "slots": [
+      "Chest",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Thrash has 20% increased damage, 30% increased radius, and can stack 1 additional time."
+  },
+  {
+    "id": "339062",
+    "name": "Legacy of the Sleeper",
+    "icon": "inv_hand_1h_artifactursoc_d_01",
+    "slots": [
+      "Waist",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Berserk in Bear Form grants 25% increased damage, 25% Leech, and immunity to effects that cause loss of control of your character."
+  },
+  {
+    "id": "339063",
+    "name": "Druid Guardian Runecarve 2",
+    "icon": "classicon_druid",
+    "slots": [
+      "Head",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Barkskin reduces damage by an additional 15%. When it begins and ends, you gain Ironfur and Frenzied Regeneration."
+  },
+  {
+    "id": "339064",
+    "name": "Memory of the Mother Tree",
+    "icon": "spell_druid_rampantgrowth",
+    "slots": [
+      "Legs",
+      "Wrist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Wild Growth has a 25% chance to cause your next Rejuvenation or Regrowth to apply to 2 additional allies within 20 yards of the target."
+  },
+  {
+    "id": "339139",
+    "name": "Apex Predator's Craving",
+    "icon": "ability_druid_primaltenacity",
+    "slots": [
+      "Shoulder",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Rip damage has a 4% chance to make your next Ferocious Bite free and deal the maximum damage."
+  },
+  {
+    "id": "339141",
+    "name": "Druid Feral Runecarve 2",
+    "icon": "ability_druid_kingofthejungle",
+    "slots": [
+      "Neck",
+      "Wrist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Tiger's Fury causes your next finishing move to restore 3 combo points."
+  },
+  {
+    "id": "339144",
+    "name": "Druid Feral Runecarve 1",
+    "icon": "classicon_druid",
+    "slots": [
+      "Head",
+      "Waist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Clearcast abilities generate 25% of their Energy cost, and your maximum energy is increased by 60."
+  }
+]

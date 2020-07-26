@@ -5,24 +5,24 @@ import React from "react";
 
 const SPEC_ICONS: {[index: string]: {[index: string]: string}} = {
     deathknight: {
-        blood: '',
-        frost: '',
-        unholy: '',
+        blood: 'spell_deathknight_bloodpresence.jpg',
+        frost: 'spell_deathknight_frostpresence.jpg',
+        unholy: 'spell_deathknight_unholypresence.jpg',
     },
     demonhunter: {
-        havoc: '',
-        vengeance: '',
+        havoc: 'ability_demonhunter_specdps.jpg',
+        vengeance: 'ability_demonhunter_spectank.jpg',
     },
     druid: {
-        feral: '',
-        restoration: '',
-        balance: '',
-        guardian: '',
+        feral: 'ability_druid_catform.jpg',
+        restoration: 'spell_nature_healingtouch.jpg',
+        balance: 'spell_nature_starfall.jpg',
+        guardian: 'ability_racial_bearform.jpg',
     },
     hunter: {
-        survival: '',
-        marksmanship: '',
-        beastmastery: '',
+        survival: 'ability_hunter_camouflage.jpg',
+        marksmanship: 'ability_hunter_focusedaim.jpg',
+        beastmastery: 'ability_hunter_bestialdiscipline.jpg',
     },
     mage: {
         arcane: '',
@@ -51,13 +51,13 @@ const SPEC_ICONS: {[index: string]: {[index: string]: string}} = {
     },
     shaman: {
         restoration: 'spell_nature_magicimmunity.jpg',
-        enhancement: 'spell_nature_lightningshield.jpg',
+        enhancement: 'ability_shaman_stormstrike.jpg',
         elemental: 'spell_nature_lightning.jpg',
     },
     warlock: {
-        destruction: '',
-        demonology: '',
-        affliction: '',
+        destruction: 'spell_shadow_rainoffire.jpg',
+        demonology: 'spell_shadow_metamorphosis.jpg',
+        affliction: 'spell_shadow_deathcoil.jpg',
     },
     warrior: {
         protection: 'inv_shield_06.jpg',

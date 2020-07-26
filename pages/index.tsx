@@ -5,9 +5,11 @@ import CovenantTile from "../components/home/CovenantTile";
 import theme from "../components/theme";
 import Link from "next/link";
 import {CLASS_NAMES} from "../components/constants";
+import HomeHeader from "../components/common/HomeHeader";
 
 const Home = () => (
     <Container>
+        <HomeHeader/>
         <Classes/>
         <Covenants/>
     </Container>

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "335214",
+    "name": "Leaper",
+    "icon": "ability_creature_cursed_04",
+    "slots": [
+      "Waist",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Heroic Leap gains 2 additional charge."
+  },
+  {
+    "id": "335229",
+    "name": "Thunderlord",
+    "icon": "ability_warrior_unrelentingassault",
+    "slots": [
+      "Feet",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Each enemy you hit with Thunder Clap reduces the remaining cooldown on Demoralizing Shout by 3 sec."
+  },
+  {
+    "id": "335239",
+    "name": "The Wall",
+    "icon": "ability_warrior_unrelentingassault",
+    "slots": [
+      "Shoulder",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Shield Slam generates an additional 2 Rage and reduces the remaining cooldown of Shield Wall by 4 sec."
+  },
+  {
+    "id": "335253",
+    "name": "Misshapen Mirror",
+    "icon": "inv_spiritshard_02",
+    "slots": [
+      "Neck",
+      "Chest"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Spell Reflection lasts 200% longer, and applies to your party."
+  },
+  {
+    "id": "335266",
+    "name": "Signet of Tormented Kings",
+    "icon": "inv_60crafted_ring4b",
+    "slots": [
+      "Wrist",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Activating &nbsp;\n\n<condition>Ravager</condition>\n<dynamic>Ravager</dynamic>\n\nBladestorm, Recklessness, or Avatar randomly casts one of the other two abilities at reduced effectiveness."
+  },
+  {
+    "id": "335274",
+    "name": "Battlelord",
+    "icon": "trade_engineering",
+    "slots": [
+      "Neck",
+      "Wrist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Slam has a 30% chance to reset the cooldown of Mortal Strike."
+  },
+  {
+    "id": "335282",
+    "name": "Unhinged",
+    "icon": "ability_warrior_savageblow",
+    "slots": [
+      "Wrist",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "While \n\n<condition>Ravager</condition>\n<dynamic>Ravager</dynamic>\n\nBladestorm is active, you automatically cast a total of \n\n<condition>Ravager</condition>\n<dynamic>1</dynamic>\n\n2 Mortal Strikes at random nearby enemies."
+  },
+  {
+    "id": "335451",
+    "name": "Exploiter",
+    "icon": "inv_sword_48",
+    "slots": [
+      "Shoulder",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Execute causes the target to take 25% more damage from your next Mortal Strike, stacking up to 2 times."
+  },
+  {
+    "id": "335458",
+    "name": "Enduring Blow",
+    "icon": "trade_engineering",
+    "slots": [
+      "Head",
+      "Waist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Mortal Strike has a 15% chance to apply the Colossus Smash effect to your target for 5 sec."
+  },
+  {
+    "id": "335555",
+    "name": "Cadence of Fujieda",
+    "icon": "ability_creature_cursed_04",
+    "slots": [
+      "Waist",
+      "Legs"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Bloodthirst increases your Haste by2% for 5 sec, stacking up to 4 times."
+  },
+  {
+    "id": "335567",
+    "name": "Deathmaker",
+    "icon": "trade_engineering",
+    "slots": [
+      "Legs",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Rampage has a 25% chance to apply the Siegebreaker effect to your target for 5 sec."
+  },
+  {
+    "id": "335582",
+    "name": "Reckless Defense",
+    "icon": "trade_engineering",
+    "slots": [
+      "Head",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Rampage critical strikes reduce your Recklessness and Enraged Regeneration cooldown by 3 sec."
+  },
+  {
+    "id": "335629",
+    "name": "Unbreakable Will",
+    "icon": "trade_engineering",
+    "slots": [
+      "Legs",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Shield Wall ability now grants 50% of its effect to all party members."
+  },
+  {
+    "id": "335718",
+    "name": "Reprisal",
+    "icon": "ability_warrior_unrelentingassault",
+    "slots": [
+      "Chest",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "The first Intercepted attack granst you Ignore Pain and make your next Revenge cost no Rage."
+  },
+  {
+    "id": "335758",
+    "name": "Seismic Reverberation",
+    "icon": "ability_warrior_unrelentingassault",
+    "slots": [
+      "Head",
+      "Shoulder"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "If Whirlwind \n\n<spec>Protection</spec>\n<dynamic>or Revenge</dynamic>\n\nhits 3 or more enemies, it hits them 1 additional time."
+  }
+]

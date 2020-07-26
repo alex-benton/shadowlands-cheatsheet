@@ -1,0 +1,65 @@
+[
+  {
+    "id": "339018",
+    "name": "Enfeebled Mark",
+    "icon": "ability_blackhand_marked4death",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Your attacks and abilities deal <dynamic> 5.0%</dynamic> increased damage to enemies inside Resonating Arrow."
+  },
+  {
+    "id": "339059",
+    "name": "Empowered Release",
+    "icon": "buff_epichunter",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Flayed Shot has an additional 5% chance to proc Flayer's Mark and it increases the damage of your next Kill Shot by <dynamic> 5.0%</dynamic>."
+  },
+  {
+    "id": "339109",
+    "name": "Spirit Attunement",
+    "icon": "inv_archaeology_70_spiritofechero",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Wild Spirits duration is increased by 3 sec and the damage dealt is increased by <dynamic> 10.0%</dynamic>."
+  },
+  {
+    "id": "339129",
+    "name": "Necrotic Barrage",
+    "icon": "spell_necro_voodooblast",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Death Chakram generates an additional 2 Focus and the damage is increased by <dynamic>5.0%</dynamic>."
+  },
+  {
+    "id": "339264",
+    "name": "Markman's Advantage",
+    "icon": "ability_argus_soulbombdebuffsmall",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Hunter's Mark decreases the damage the target deals to you by<dynamic> 3.0%</dynamic>."
+  },
+  {
+    "id": "339377",
+    "name": "Harmony of the Tortollan",
+    "icon": "inv_shield_21",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Aspect of the Turtle cooldown reduced by<dynamic> 10.0</dynamic> sec."
+  },
+  {
+    "id": "339399",
+    "name": "Rejuvenating Wind",
+    "icon": "ability_druid_galewinds",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Exhilaration heals you for an additional<dynamic> 10.0%</dynamic> of your maximum health over 8 sec."
+  }
+]

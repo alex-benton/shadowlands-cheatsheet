@@ -1,12 +1,13 @@
 import React from "react";
 import styled from "styled-components";
-import theme, {ClassName} from "../theme";
+import {ClassName} from "../theme";
+import Icon from "../common/Icon";
 
 type Props = {
     className: ClassName,
 }
 const ClassTile = (props: Props) => <Container>
-    <ClassIcon className={props.className}/>
+    <Icon wowClassName={props.className} size={130}/>
 </Container>;
 
 export default ClassTile;
@@ -23,25 +24,4 @@ const Container = styled.div`
     :active {
         filter: brightness(.8);
     }
-`;
-
-type IconProps = {
-    className: ClassName,
-};
-
-const ClassIcon = (props: IconProps) => <IconContainer className={props.className}>
-    <IconImage className={props.className}/>
-</IconContainer>
-
-const IconContainer = styled.div<IconProps>`
-    background-color: ${props => theme.color.classes[props.className]};
-    border-radius: 10%;
-    padding: 4px;
-`;
-
-const IconImage = styled.div<IconProps>`
-    background-image: url('/assets/${props => props.className}.png');
-    height: 130px;
-    width: 130px;
-    border-radius: 25%;
 `;

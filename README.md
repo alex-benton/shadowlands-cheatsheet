@@ -1,1 +1,1 @@
-# wcp
+# shadowlands cheatsheet

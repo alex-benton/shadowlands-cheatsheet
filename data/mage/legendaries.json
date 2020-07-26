@@ -1,0 +1,170 @@
+[
+  {
+    "id": "327284",
+    "name": "Cold Front",
+    "icon": "trade_engineering",
+    "slots": [
+      "Chest",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Casting 15 Frostbolts or Flurries calls down a Frozen Orb on your target. Hitting an enemy player counts as double."
+  },
+  {
+    "id": "327364",
+    "name": "Freezing Winds",
+    "icon": "trade_engineering",
+    "slots": [
+      "Head",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "While Frozen Orb is active, you gain Fingers of Frost every 5 sec. While Frozen Orb is not active, each Frostbolt reduces the cooldown of Frozen Orb by 2.5 sec."
+  },
+  {
+    "id": "327489",
+    "name": "Expanded Potential",
+    "icon": "trade_engineering",
+    "slots": [
+      "Waist",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Fireball, Frostbolt and Arcane Blast have a chance to give you Expanded Potential, which causes your next Hot Streak, Brain Freeze or Clearcasting to not be consumed."
+  },
+  {
+    "id": "327492",
+    "name": "Glacial Fragments",
+    "icon": "trade_engineering",
+    "slots": [
+      "Legs",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Ice Lance has a 15% chance to explode into shards of ice when it hits a target, dealing (40% of Spell power) Frost damage to up to 5 enemies near your target. This chance is increased to 50% if your target is standing in a Blizzard."
+  },
+  {
+    "id": "327508",
+    "name": "Slick Ice",
+    "icon": "trade_engineering",
+    "slots": [
+      "Waist",
+      "Legs"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "While Icy Veins is active, each Frostbolt you cast reduces the cast time of Frostbolt by 5%, stacking up to 10 times."
+  },
+  {
+    "id": "332769",
+    "name": "Arcane Harmony",
+    "icon": "ability_creature_cursed_04",
+    "slots": [
+      "Shoulder",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Increases the damage done by Arcane Missiles by 10%. \n\nEach time Arcane Missiles hits an enemy, the damage of your next Arcane Barrage is increased by 2%. This effect stacks."
+  },
+  {
+    "id": "332892",
+    "name": "Arcane Bombardment",
+    "icon": "ability_mage_arcanebarrage",
+    "slots": [
+      "Feet",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Arcane Barrage deals an additional 40% damage against targets below 35% health."
+  },
+  {
+    "id": "332928",
+    "name": "Siphon Storm",
+    "icon": "ability_monk_forcesphere_arcane",
+    "slots": [
+      "Legs",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Evocation grants 2 Arcane Charges, and while channeling Evocation, your Intellect is increased by 2% every 1 sec. Lasts 30 sec."
+  },
+  {
+    "id": "333030",
+    "name": "Fevered Incantation",
+    "icon": "inv_misc_enchantedpearld",
+    "slots": [
+      "Head",
+      "Waist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Each consecutive critical strike you deal increases critical strike damage you deal by 2%."
+  },
+  {
+    "id": "333097",
+    "name": "Firestorm",
+    "icon": "spell_fire_burnout",
+    "slots": [
+      "Shoulder",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When Hot Streak activates, you have a low chance to cause all Pyroblasts and Flamestrikes to have no cast time and be guaranteed critical strikes for 5 sec."
+  },
+  {
+    "id": "333167",
+    "name": "Molten Skyfall",
+    "icon": "spell_mage_meteor",
+    "slots": [
+      "Neck",
+      "Wrist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Casting 30 Fireballs or Pyroblasts calls down a Meteor on your target. Hitting an enemy player counts as double."
+  },
+  {
+    "id": "333313",
+    "name": "Sun King's Blessing",
+    "icon": "ability_mage_firestarter",
+    "slots": [
+      "Wrist",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "After consuming 6 Hot Streaks, your next non-instant Pyroblast cast within 15 sec grants you Combustion for 6 sec."
+  },
+  {
+    "id": "333373",
+    "name": "Triune Ward",
+    "icon": "inv_jewelry_amulet_01",
+    "slots": [
+      "Neck",
+      "Chest"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Casting any Barrier spell grants the effects of Blazing Barrier, Ice Barrier, and Prismatic Barrier. Each absorb shield has 40% effectiveness."
+  },
+  {
+    "id": "333393",
+    "name": "Grisly Icicle",
+    "icon": "inv_weapon_shortblade_84",
+    "slots": [
+      "Head",
+      "Shoulder"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Frost, Fire, and Arcane damage against enemies affected by Frost Nova is increased by 10% and no longer breaks it."
+  }
+]

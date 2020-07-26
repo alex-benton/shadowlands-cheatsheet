@@ -1,0 +1,182 @@
+[
+  {
+    "id": "337247",
+    "name": "Final Verdict",
+    "icon": "spell_paladin_templarsverdict",
+    "slots": [
+      "Chest",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Replaces Templar's Verdict with Final Verdict, a devastating strike that deals (194% of Attack power) Holy damage. Has a 50% chance to activate Hammer of Wrath and reset its cooldown."
+  },
+  {
+    "id": "337257",
+    "name": "Tempest of the Lightbringer",
+    "icon": "ability_paladin_divinestorm",
+    "slots": [
+      "Waist",
+      "Legs"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Projects Divine Storm forward 20 yds, damaging all enemies in its path.\n\nAlso increases damage dealt by Divine Storm by 20%."
+  },
+  {
+    "id": "337297",
+    "name": "Relentless Inquisitor",
+    "icon": "spell_holy_divinepurpose",
+    "slots": [
+      "Legs",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Spending Holy Power grants you 20 haste per Holy Power spent for 12 sec, stacking up to 20 times."
+  },
+  {
+    "id": "337594",
+    "name": "Badge of the Mad Paragon",
+    "icon": "inv_jewelry_talisman_08",
+    "slots": [
+      "Head",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Hammer of Wrath extends Avenging Wrath by 2 sec and deals 20% additional damage."
+  },
+  {
+    "id": "337600",
+    "name": "Uther's Guard",
+    "icon": "inv_shield_1h_alliance_d_02",
+    "slots": [
+      "Wrist",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Blessing of Freedom\n\n<condition>Blessing of Sacrifice</condition>\n<dynamic> Blessing of Sacrifice</dynamic>\n\n and \n\n<condition>Blessing of Spellwarding</condition>\n<dynamic>Blessing of Spellwarding</dynamic>\n\nBlessing of Protection cooldowns are reduced by 1 sec per Holy Power spent."
+  },
+  {
+    "id": "337638",
+    "name": "Liadrin's Fury Reborn",
+    "icon": "inv_jewelry_ring_61",
+    "slots": [
+      "Waist",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Casting Avenging Wrath or any Forbearance ability grants 5 Holy Power."
+  },
+  {
+    "id": "337681",
+    "name": "The Arbiter's Judgment",
+    "icon": "ability_paladin_conviction",
+    "slots": [
+      "Neck",
+      "Chest"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Judgment has a 50% chance to reduce the cost of your next Holy Power spender by 1."
+  },
+  {
+    "id": "337746",
+    "name": "From Dusk till Dawn",
+    "icon": "spell_paladin_lightofdawn",
+    "slots": [
+      "Head",
+      "Shoulder"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When you reach 5 Holy Power, you gain Blessing of Dawn. When you reach 0 Holy Power, you gain Blessing of Dusk.\n\n<dynamic>Blessing of Dawn</dynamic>\n<dynamic>Damage and healing increased by 6% for 10 sec.</dynamic>\n\n<dynamic>Blessing of Dusk</dynamic>\n<dynamic>Damage taken reduced by 6% for 10 sec.</dynamic>"
+  },
+  {
+    "id": "337777",
+    "name": "Inflorescence of the Sunwell",
+    "icon": "spell_lfieblood",
+    "slots": [
+      "Feet",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Infusion of Light has 1 additional charge and its effects are increased by 20%."
+  },
+  {
+    "id": "337812",
+    "name": "Shadowbreaker, Dawn of the Sun",
+    "icon": "spell_lfieblood",
+    "slots": [
+      "Shoulder",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Light of Dawn's range is increased to 40 yards, and all allies inside your Light of Dawn receive 10% increased healing from your spells for 6 sec."
+  },
+  {
+    "id": "337825",
+    "name": "Shock Barrier",
+    "icon": "spell_lfieblood",
+    "slots": [
+      "Legs",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Holy Shock protects the target with a shield of Holy Light for 18 sec, absorbing up to (0.8 * Spell power) damage every 6 sec."
+  },
+  {
+    "id": "337831",
+    "name": "Holy Avenger's Engraved Sigil",
+    "icon": "ability_bossfelmagnaron_runeempowered",
+    "slots": [
+      "Head",
+      "Waist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Avenger's Shield has a 50% chance to have its cooldown instantly reset when used."
+  },
+  {
+    "id": "337838",
+    "name": "The Ardent Protector's Sanctum",
+    "icon": "spell_holy_ardentdefender",
+    "slots": [
+      "Neck",
+      "Wrist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Reduces damage taken while Ardent Defender is active by an additional 10%, and when you activate Ardent Defender, it will also apply to the nearest ally within 15 yards."
+  },
+  {
+    "id": "337847",
+    "name": "Bulwark of Righteous Fury",
+    "icon": "spell_holy_sealofrighteousness",
+    "slots": [
+      "Shoulder",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Each target hit by Avenger's Shield increases the damage of your next Shield of the Righteous by 40%."
+  },
+  {
+    "id": "337850",
+    "name": "Reign of Endless Kings",
+    "icon": "ability_paladin_holyavenger",
+    "slots": [
+      "Wrist",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When you drop below 20% health, you become infused with the Guardian of the Ancient Kings for 4 sec. This cannot occur again for 45 sec."
+  }
+]

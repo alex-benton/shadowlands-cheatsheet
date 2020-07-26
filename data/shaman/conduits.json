@@ -9,8 +9,10 @@
       "enhancement",
       "restoration"
     ],
-    "notes": [],
-    "description": "Reincarnation's cooldown is reduced by 3.0 min, and reincarnating instantly grants you Astral Shift."
+    "notes": [
+      "Doesn't currently scale with rank."
+    ],
+    "description": "Reincarnation's cooldown is reduced by <dynamic>3.0</dynamic> min, and reincarnating instantly grants you Astral Shift."
   },
   {
     "id": "337974",
@@ -22,8 +24,10 @@
       "enhancement",
       "restoration"
     ],
-    "notes": [],
-    "description": "Your Healing Surge is 15% more effective on yourself."
+    "notes": [
+      "+1%/rank, 30% at rank 15."
+    ],
+    "description": "Your Healing Surge is <dynamic>15%</dynamic> more effective on yourself."
   },
   {
     "id": "337981",
@@ -35,8 +39,10 @@
       "enhancement",
       "restoration"
     ],
-    "notes": [],
-    "description": "Your Earth Elemental increases your maximum health by 20%."
+    "notes": [
+      "+1.5%/rank, 40% at rank 15."
+    ],
+    "description": "Your Earth Elemental increases your maximum health by <dynamic>20%</dynamic>."
   },
   {
     "id": "338033",
@@ -48,8 +54,10 @@
       "enhancement",
       "restoration"
     ],
-    "notes": [],
-    "description": "Ghost Wolf increases your movement speed by an additional 10% for the first 3 sec. May only occur once every 60 sec."
+    "notes": [
+      "+2%/rank, 40% at rank 15."
+    ],
+    "description": "Ghost Wolf increases your movement speed by an additional <dynamic>10%</dynamic> for the first 3 sec. May only occur once every 60 sec."
   },
   {
     "id": "338042",
@@ -61,8 +69,10 @@
       "enhancement",
       "restoration"
     ],
-    "notes": [],
-    "description": "The cooldowns of Tremor Totem, Earthbind Totem, and Capacitor Totem are reduced by 1 sec."
+    "notes": [
+      "+1 second/rank, 15 seconds at rank 15."
+    ],
+    "description": "The cooldowns of Tremor Totem, Earthbind Totem, and Capacitor Totem are reduced by <dynamic>1 sec</dynamic>."
   },
   {
     "id": "338048",
@@ -74,8 +84,10 @@
       "enhancement",
       "restoration"
     ],
-    "notes": [],
-    "description": "<condition>Heroism</condition><dynamic>Heroism</dynamic>Bloodlust or any similar effects also grant you 4.0 sec of <spec>Enhancement</spec><dynamic>Spirit Walk</dynamic><spec>Elemental</spec><spec>Restoration</spec><dynamic>Spiritwalker's Grace</dynamic>"
+    "notes": [
+      "+1 second/rank, 18 seconds at rank 15."
+    ],
+    "description": "<condition>Heroism</condition>\n<dynamic>Heroism</dynamic>\n\nBloodlust or any similar effects also grant you <dynamic>4.0 sec</dynamic> of \n\n<spec>Enhancement</spec>\n<dynamic>Spirit Walk</dynamic>\n\n<spec>Elemental</spec><spec>Restoration</spec>\n<dynamic>Spiritwalker's Grace</dynamic>"
   },
   {
     "id": "338054",
@@ -87,8 +99,10 @@
       "enhancement",
       "restoration"
     ],
-    "notes": [],
-    "description": "Enemies affected by your Hex deal 8% reduced damage for 8 sec after Hex is removed."
+    "notes": [
+      ".5%/rank, 15% at rank 15."
+    ],
+    "description": "Enemies affected by your Hex deal <dynamic>8%</dynamic> reduced damage for 8 sec after Hex is removed."
   },
   {
     "id": "338131",
@@ -98,7 +112,9 @@
     "specs": [
       "elemental"
     ],
-    "notes": [],
+    "notes": [
+      "+2%/rank, 60% at rank 15."
+    ],
     "description": "Lightning Bolt has a <dynamic>30%</dynamic> chance to generate an extra stack of Fulmination."
   },
   {
@@ -109,8 +125,10 @@
     "specs": [
       "elemental"
     ],
-    "notes": [],
-    "description": "Casting Earthquake has a 15% chance to instantly cast Chain Lightning at a random enemy in the Earthquake."
+    "notes": [
+      "+1%/rank, 30% at rank 15."
+    ],
+    "description": "Casting Earthquake has a <dynamic>15%</dynamic> chance to instantly cast Chain Lightning at a random enemy in the Earthquake."
   },
   {
     "id": "338303",
@@ -120,8 +138,10 @@
     "specs": [
       "elemental"
     ],
-    "notes": [],
-    "description": "<condition>Storm Elemental</condition><dynamic>Storm Elemental</dynamic>Fire Elemental lasts 15% longer."
+    "notes": [
+      "+1%/rank, 30% at rank 15."
+    ],
+    "description": "<condition>Storm Elemental</condition>\n<dynamic>Storm Elemental</dynamic>\n\nFire Elemental lasts <dynamic>15%</dynamic> longer."
   },
   {
     "id": "338307",
@@ -131,7 +151,9 @@
     "specs": [
       "elemental"
     ],
-    "notes": [],
+    "notes": [
+      "+.5%/rank, 14% at rank 15."
+    ],
     "description": "Earth Shock and Elemental Blast's damage are increased by <dynamic>7.0%</dynamic> for each stack of Fulmination they discharge."
   },
   {
@@ -142,7 +164,9 @@
     "specs": [
       "enhancement"
     ],
-    "notes": [],
+    "notes": [
+      "+3%/rank, 80% at rank 15."
+    ],
     "description": "Windfury Weapon has a <dynamic>40%</dynamic> chance to trigger a third attack."
   },
   {
@@ -153,7 +177,9 @@
     "specs": [
       "enhancement"
     ],
-    "notes": [],
+    "notes": [
+      "+.4%/rank, 10% at rank 15."
+    ],
     "description": "Maelstrom Weapon increases the damage or healing of your next spell by an additional <dynamic>4.0%</dynamic> per stack."
   },
   {
@@ -164,7 +190,9 @@
     "specs": [
       "enhancement"
     ],
-    "notes": [],
+    "notes": [
+      "+1%/rank, 35% at rank 15."
+    ],
     "description": "Frost Shock has a <dynamic>20%</dynamic> chance to grant 2 stack of Maelstrom Weapon."
   },
   {
@@ -175,7 +203,9 @@
     "specs": [
       "restoration"
     ],
-    "notes": [],
+    "notes": [
+      "+.5%/rank, 12% at rank 15."
+    ],
     "description": "Earth Shield increases your healing done to the target by an additional <dynamic>5.0%</dynamic>."
   },
   {
@@ -186,7 +216,9 @@
     "specs": [
       "enhancement"
     ],
-    "notes": [],
+    "notes": [
+      "+1.6%/rank, 50% at rank 15."
+    ],
     "description": "Lava Lash has an additional <dynamic>25%</dynamic> critical strike chance against enemies affected by your Flame Shock."
   },
   {
@@ -197,7 +229,9 @@
     "specs": [
       "restoration"
     ],
-    "notes": [],
+    "notes": [
+      "+1.3%/rank, 40% at rank 15."
+    ],
     "description": "Using Healing Stream Totem increases the healing of your next 3 Healing Surge, Healing Wave, or Riptide spells by <dynamic>20%</dynamic>."
   },
   {
@@ -208,7 +242,9 @@
     "specs": [
       "restoration"
     ],
-    "notes": [],
+    "notes": [
+      "+10%/rank, 300% at rank 15."
+    ],
     "description": "Using Healing Tide Totem increases the healing of your Healing Rain by <dynamic>150%</dynamic> for 20 sec."
   },
   {
@@ -219,7 +255,45 @@
     "specs": [
       "restoration"
     ],
-    "notes": [],
+    "notes": [
+      "Approx. +3%/rank, 80% at rank 15."
+    ],
     "description": "Chain Heal has a <dynamic>40%</dynamic> chance to jump to an additional ally."
+  },
+  {
+    "id": "339182",
+    "name": "Elysian Dirge",
+    "icon": "ability_monk_forcesphere",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Vesper Totem is <dynamic>100%</dynamic> more effective against the target nearest to it."
+  },
+  {
+    "id": "339183",
+    "name": "Essential Extraction",
+    "icon": "spell_animaardenweald_debuff",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Fae Transfusion deals <dynamic>10%</dynamic> increased damage, and channels <dynamic>10%</dynamic> faster."
+  },
+  {
+    "id": "339185",
+    "name": "Lavish Harvest",
+    "icon": "warlock_charredremains",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "The critical strike chance of Chain Harvest is increased by <dynamic>10.0%</dynamic>."
+  },
+  {
+    "id": "339186",
+    "name": "Tumbling Waves",
+    "icon": "spell_animamaldraxxus_wave",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Primordial Wave has a <dynamic>20%</dynamic> chance to not incur its cooldown."
   }
 ]

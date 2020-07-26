@@ -1,0 +1,194 @@
+[
+  {
+    "id": "334501",
+    "name": "Bryndaor's Might",
+    "icon": "ability_creature_cursed_04",
+    "slots": [
+      "Feet",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Death Strike refunds 15% of Runic Power spent if it heals you for more than 10% of your maximum health."
+  },
+  {
+    "id": "334525",
+    "name": "Crimson Rune Weapon",
+    "icon": "70_inscription_vantus_rune_nightmare",
+    "slots": [
+      "Shoulder",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When a charge of Bone Shield is consumed, the cooldown of Dancing Rune Weapon is reduced by 30 sec. Additionally, when Dancing Rune Weapon fades, your Rune regeneration rate is increased by 40% for 10 sec."
+  },
+  {
+    "id": "334547",
+    "name": "Vampiric Aura",
+    "icon": "spell_shadow_lifedrain",
+    "slots": [
+      "Chest",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Vampiric Blood ability also affects all party members for 50% of the effect it has on you."
+  },
+  {
+    "id": "334580",
+    "name": "Gorefiend's Domination",
+    "icon": "ability_warrior_unrelentingassault",
+    "slots": [
+      "Legs",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Heart Strike reduces the remaining cooldown on Vampiric Blood by 2 seconds."
+  },
+  {
+    "id": "334583",
+    "name": "Koltira's Favor",
+    "icon": "ability_warrior_unrelentingassault",
+    "slots": [
+      "Shoulder",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Obliterate deals 10% increased damage and has a 15% chance to refund 2 runes."
+  },
+  {
+    "id": "334678",
+    "name": "Biting Cold",
+    "icon": "ability_deathknight_remorselesswinters2",
+    "slots": [
+      "Head",
+      "Waist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Remorseless Winter damage is increased byy 15%. The first time Remorseless Winter deals damage to 3 different enemies, you gain Rime."
+  },
+  {
+    "id": "334692",
+    "name": "Absolute Zero",
+    "icon": "ability_warrior_unrelentingassault",
+    "slots": [
+      "Neck",
+      "Wrist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Frostwyrm's Fury has 50% reduced cooldown and Freezes all enemies hit for 3 sec."
+  },
+  {
+    "id": "334724",
+    "name": "Grip of the Everlasting",
+    "icon": "ability_deathknight_icygrip",
+    "slots": [
+      "Waist",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "For 3 sec after casting Death Grip, you may cast the spell a second time without regard for its cooldown."
+  },
+  {
+    "id": "334728",
+    "name": "Death's Embrace",
+    "icon": "ability_deathknight_deathsiphon2",
+    "slots": [
+      "Wrist",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Increases the duration of Anti-Magic Shell by 100% and any damage it absorbs heals you."
+  },
+  {
+    "id": "334836",
+    "name": "Reanimated Shambler",
+    "icon": "spell_deathknight_explode_ghoul",
+    "slots": [
+      "Waist",
+      "Legs"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your attacks have a chance to summon a Super Zombie that shambles forward and explodes, dealing (124% of Attack power) Shadow damage and applying a Festering Wound to 8 nearby enemies."
+  },
+  {
+    "id": "334888",
+    "name": "Frenzied Monstrosity",
+    "icon": "ability_warlock_baneofhavoc",
+    "slots": [
+      "Legs",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Dark Transformation also increases the attack speed and damage of you and your Monstrosity by 20%."
+  },
+  {
+    "id": "334898",
+    "name": "Death's Certainty",
+    "icon": "ability_warrior_unrelentingassault",
+    "slots": [
+      "Head",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Death Strike and Death Coil deal 10% increased damage and reduce the remaining cooldown of \n\n<condition>Defile</condition>\n<dynamic>Defile</dynamic>\n\nDeath and Decay by 2.0 sec."
+  },
+  {
+    "id": "334949",
+    "name": "Deadliest Coil",
+    "icon": "spell_shadow_deathcoil",
+    "slots": [
+      "Chest",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Reduces the Runic Power cost of Death Coil by 10 and Death Coil increases the duration of Dark Transformation by 2 sec."
+  },
+  {
+    "id": "334974",
+    "name": "Superstrain",
+    "icon": "spell_deathknight_explode_ghoul",
+    "slots": [
+      "Neck",
+      "Chest"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Frost Fever, Blood Plague, and Virulent Plague also apply the other two diseases."
+  },
+  {
+    "id": "335177",
+    "name": "Phearomones",
+    "icon": "spell_shadow_auraofdarkness",
+    "slots": [
+      "Head",
+      "Shoulder"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "You and your minions gain 10% Haste while you are inside your Death and Decay and enemies damaged by your Death and Decay have a chance to cower in place for 3 sec."
+  },
+  {
+    "id": "335594",
+    "name": "Will of the Berserker",
+    "icon": "warrior_talent_icon_innerrage",
+    "slots": [
+      "Chest",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When Recklessness expires, your Critical Strike is increased by 5% for 5 sec. Your Raging Blow will refresh the duration of this effect."
+  }
+]

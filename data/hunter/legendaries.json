@@ -1,0 +1,194 @@
+[
+  {
+    "id": "336742",
+    "name": "Call of the Wild",
+    "icon": "ability_hunter_invigeration",
+    "slots": [
+      "Wrist",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "The cooldown of all of your Aspects\n\n<spec>Marksmanship</spec>\n<dynamic>and Trueshot</dynamic>\n\n<spec>Survival</spec>\n<dynamic>and Coordinated Assault</dynamic>\n\n is reduced by 25%."
+  },
+  {
+    "id": "336743",
+    "name": "Nessingwary's Trapping Apparatus",
+    "icon": "ability_hunter_invigeration",
+    "slots": [
+      "Waist",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Whenever a trap is triggered, gain 25 Focus."
+  },
+  {
+    "id": "336745",
+    "name": "Soulforge Embers",
+    "icon": "ability_warlock_burningembers",
+    "slots": [
+      "Head",
+      "Shoulder"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Launching a Flare into your Tar Trap causes all enemies inside of the Tar Trap to burn for (900% of Attack power) Fire damage over 12 sec."
+  },
+  {
+    "id": "336747",
+    "name": "Craven Strategem",
+    "icon": "ability_rogue_feigndeath",
+    "slots": [
+      "Neck",
+      "Chest"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Feign Death cooldown reduced by 15.0 sec, and Feign Death now removes most negative status effects from yourself."
+  },
+  {
+    "id": "336819",
+    "name": "Dire Command",
+    "icon": "ability_hunter_sickem",
+    "slots": [
+      "Chest",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Kill Command has a 10% chance to also summon a Dire Beast to attack your target."
+  },
+  {
+    "id": "336822",
+    "name": "Flamewaker's Cobra Sting",
+    "icon": "ability_hunter_cobrashot",
+    "slots": [
+      "Legs",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Cobra Shot has a 10% chance to make your next Kill Command consume no Focus."
+  },
+  {
+    "id": "336830",
+    "name": "Qa'pla, Eredun War Order",
+    "icon": "ability_hunter_barbedshot",
+    "slots": [
+      "Shoulder",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Barbed Shot reduces the cooldown of Kill Command by 4.0 sec."
+  },
+  {
+    "id": "336844",
+    "name": "Rylakstalker's Piercing Fangs",
+    "icon": "inv_misc_monsterfang_02",
+    "slots": [
+      "Feet",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "While Bestial Wrath is active, your pet's critical damage dealt is increased by 30%."
+  },
+  {
+    "id": "336849",
+    "name": "Eagletalon's True Focus",
+    "icon": "ability_trueshot",
+    "slots": [
+      "Head",
+      "Waist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Trueshot also reduces the Focus cost of all of your abilities by 30%."
+  },
+  {
+    "id": "336867",
+    "name": "Surging Shots",
+    "icon": "ability_hunter_resistanceisfutile",
+    "slots": [
+      "Neck",
+      "Wrist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Rapid Fire deals 15% additional damage, and Aimed Shot has a 15% chance to reset the cooldown of Rapid Fire."
+  },
+  {
+    "id": "336870",
+    "name": "Serpentstalker's Trickery",
+    "icon": "inv_spear_07",
+    "slots": [
+      "Shoulder",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When Aimed Shot hits multiple targets from the Trick Shots effect, 3 enemies struck by the Aimed Shot also get hit by an Arcane Shot."
+  },
+  {
+    "id": "336878",
+    "name": "Secrets of the Unblinking Vigil",
+    "icon": "inv_trickshot",
+    "slots": [
+      "Wrist",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When you gain the Trick Shots effect, you have a 50% chance for it to not be consumed by your next Aimed Shot or Rapid Fire."
+  },
+  {
+    "id": "336895",
+    "name": "Wildfire Cluster",
+    "icon": "inv_trickshot",
+    "slots": [
+      "Waist",
+      "Legs"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Wildfire Bomb drops an additional cluster of bombs around the target, each exploding for (33% of Attack power) Fire damage."
+  },
+  {
+    "id": "336901",
+    "name": "Rylakstalker's Confounding Strikes",
+    "icon": "ability_searingarrow",
+    "slots": [
+      "Legs",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "<condition>Mongoose Bite</condition>\n<dynamic>Mongoose Bite</dynamic>\n\nRaptor Strike has a 10% chance to reset the cooldown of Wildfire Bomb."
+  },
+  {
+    "id": "336902",
+    "name": "Latent Poison Injectors",
+    "icon": "ability_poisonarrow",
+    "slots": [
+      "Head",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Serpent Sting's damage applies Latent Poison to the target, stacking up to 10 times. \n\n<condition>Mongoose Bite</condition>\n<dynamic>Mongoose Bite</dynamic>\n\nRaptor Strike consumes all stacks of Latent Poison, dealing (10% of Attack power) Nature damage to the target per stack consumed."
+  },
+  {
+    "id": "336907",
+    "name": "Butcher's Bone Fragments",
+    "icon": "inv_skinning_80_bloodsoakedbone",
+    "slots": [
+      "Chest",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "<condition>Mongoose Bite</condition>\n<dynamic>Mongoose Bite</dynamic>\n\nRaptor Strike increases the damage of your next \n\n<condition>Butchery</condition>\n<dynamic>Butchery</dynamic>\n\nCarve by 10%, stacking up to 10 times."
+  }
+]

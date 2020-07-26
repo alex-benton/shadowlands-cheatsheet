@@ -6,7 +6,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "For the first 2 sec of Fade, you take <dynamic>5%</dynamic>% less damage."
+    "description": "For the first 2 sec of Fade, you take <dynamic>5</dynamic>% less damage."
   },
   {
     "id": "337678",
@@ -25,6 +25,15 @@
     "specs": [],
     "notes": [],
     "description": "Dispel Magic, Purify, and Mass Dispel cost <dynamic>20</dynamic>% less mana."
+  },
+  {
+    "id": "337715",
+    "name": "Charitable Soul",
+    "icon": "ability_priest_clarityofwill",
+    "type": "unknown",
+    "specs": [],
+    "notes": [],
+    "description": "Casting Power Word: Shield on an ally also shields you for <dynamic>10</dynamic>% of the amount for 10 sec."
   },
   {
     "id": "337748",
@@ -105,7 +114,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Guardian Spirit's duration is increased 5 sec, and it increases healing received by an additional <dynamic>10</dynamic>%."
+    "description": "Casting a Holy Word spell increases the healing of your next Heal or Flash Heal by <dynamic>10</dynamic>%."
   },
   {
     "id": "337954",
@@ -187,5 +196,14 @@
     "specs": [],
     "notes": [],
     "description": "Void Bolt has a <dynamic>5</dynamic>% chance to reset the cooldown on Void Bolt."
+  },
+  {
+    "id": "338345",
+    "name": "Holy Oration",
+    "icon": "ability_priest_bindingprayers",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Spells that reduce the cooldowns of your Holy Words reduce them by &nbsp;<dynamic>5</dynamic>% more."
   }
 ]

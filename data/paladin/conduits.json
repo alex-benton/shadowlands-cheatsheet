@@ -1,0 +1,83 @@
+[
+  {
+    "id": "338741",
+    "name": "Divine Call",
+    "icon": "ability_racial_holyresistance",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Divine Shield's cooldown is reduced by 5 sec when you take damage. This effect can only trigger once every <dynamic>30</dynamic> sec."
+  },
+  {
+    "id": "338787",
+    "name": "Shielding Words",
+    "icon": "ability_vehicle_sonicshockwave",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Word of Glory applies absorb shield that lasts 10 sec for <dynamic>15</dynamic>% healing on the Paladin when used."
+  },
+  {
+    "id": "339114",
+    "name": "Golden Path",
+    "icon": "ability_priest_cascade",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Consecration heals you for <dynamic>50</dynamic>% of Consecration's damage every sec while standing within it."
+  },
+  {
+    "id": "339124",
+    "name": "Stalwart as a Crusader",
+    "icon": "achievement_guildperk_everyones-a-hero",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Crusader Aura reduces all allies' Fear duration by <dynamic>30</dynamic>%."
+  },
+  {
+    "id": "339268",
+    "name": "Light's Barding",
+    "icon": "inv_lightforgedmatrixability_lightsjudgment",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Divine Steed's duration is increased by <dynamic>50</dynamic>%."
+  },
+  {
+    "id": "339292",
+    "name": "Wrench Evil",
+    "icon": "spell_holy_painsupression",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Turn Evil's cast time is reduced by <dynamic>50</dynamic>% and its range is increased by 10 yds."
+  },
+  {
+    "id": "339316",
+    "name": "Echoing Blessings",
+    "icon": "achievement_dungeon_heroic_gloryoftheraider",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "After it ends, Blessing of Freedom increases the target's movement speed by <dynamic>15</dynamic>% for 8 sec. After Blessing of Protection or Blessing of Sacrifice ends, the target takes cFFFFFFFF15"
+  },
+  {
+    "id": "339371",
+    "name": "Light's Reach",
+    "icon": "ability_priest_flashoflight",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Blade of Justice's range is increased by 2 yds and deals <dynamic>20</dynamic>% more damage."
+  },
+  {
+    "id": "339374",
+    "name": "Truth's Wake",
+    "icon": "inv_mace_104",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Wake of Ashes burns the target for an additional <dynamic>10</dynamic>% damage over 6 sec."
+  }
+]

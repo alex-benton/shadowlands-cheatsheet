@@ -32,7 +32,14 @@ const GlobalStyle = createGlobalStyle`
     overflow: auto;
     height: 100vh;
   }
-
+  
+  a {
+    text-decoration: inherit;
+  }
+  
+  a:-webkit-any-link {
+    color: inherit;
+  }
 `;
 
 /**

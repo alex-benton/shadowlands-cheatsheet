@@ -1,0 +1,101 @@
+[
+  {
+    "id": "338671",
+    "name": "Fel Defender",
+    "icon": "inv_armor_shield_naxxramas_d_01",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "The cooldown of \n\n<spec>Havoc</spec>\n<dynamic>Blur</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Fiery Brand</dynamic>\n\n is reduced by <dynamic>10 sec</dynamic>."
+  },
+  {
+    "id": "338682",
+    "name": "Viscous Ink",
+    "icon": "inv_archaeology_orcclans_tattooknife",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Demonic Wards [an additional]<dynamic>8%</dynamic>."
+  },
+  {
+    "id": "338793",
+    "name": "Shattered Restoration",
+    "icon": "ability_warlock_soulsiphon",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "The healing of Shattered Souls is increased by <dynamic>10%</dynamic>."
+  },
+  {
+    "id": "338799",
+    "name": "Felfire Haste",
+    "icon": "inv_boots_cloth_35v4",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Your movement speed is increased by <dynamic>5%</dynamic> after casting \n\n<spec>Havoc</spec>\n<dynamic>Fel Rush</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Infernal Strike</dynamic>"
+  },
+  {
+    "id": "338835",
+    "name": "Ravenous Consumption",
+    "icon": "inv_lightforgedmatrixability_shroudofarchaneechoes",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Your movement speed is increased by <dynamic>15%</dynamic> after casting \n\n<spec>Havoc</spec>\n<dynamic>Fel Rush</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Infernal Strike</dynamic>"
+  },
+  {
+    "id": "339048",
+    "name": "Demonic Parole",
+    "icon": "inv_misc_codexofxerrath_chains",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Enemies that leave your Imprison are snared by 50% for <dynamic>10 sec</dynamic>."
+  },
+  {
+    "id": "339149",
+    "name": "Lost in Darkness",
+    "icon": "inv_pet_inquisitoreye",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Increases the duration of Spectral Sight by <dynamic>3 sec</dynamic>."
+  },
+  {
+    "id": "339151",
+    "name": "Demon's Touch",
+    "icon": "ability_demonhunter_soulcleave2",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Demon's Bite increases the damage of other abilities by <dynamic>5%</dynamic>."
+  },
+  {
+    "id": "339228",
+    "name": "Dancing with Fate",
+    "icon": "inv_polearm_1h_felfireraid_d_02",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Blade Dance has a <dynamic>5%</dynamic> chance to apply Essence Break."
+  },
+  {
+    "id": "339230",
+    "name": "Serrated Glaive",
+    "icon": "inv_glaive_1h_artifactaldrochi_d_03dual",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Spending <dynamic>8</dynamic> Fury buffs the damage of Eye Beam by 8%."
+  },
+  {
+    "id": "339231",
+    "name": "Growing Inferno",
+    "icon": "spell_fel_incinerate",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Immolation Aura's damage is increases by an additional <dynamic>5%</dynamic> each time it deals damage."
+  }
+]

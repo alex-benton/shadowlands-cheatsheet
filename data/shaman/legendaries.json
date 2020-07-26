@@ -1,0 +1,234 @@
+[
+  {
+    "id": "335886",
+    "name": "Earthen Harmony",
+    "icon": "item_earthenmight",
+    "slots": [
+      "Chest",
+      "Back"
+    ],
+    "specs": [
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Earth Shield healing is increased by 300% if your Earth Shield target is below 50% health, and Healing Wave adds a stack of Earth Shield to your target, up to 9 maximum stacks."
+  },
+  {
+    "id": "335889",
+    "name": "Primal Tide Core",
+    "icon": "inv_misc_questionmark",
+    "slots": [
+      "Head",
+      "Hands"
+    ],
+    "specs": [
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Every 4 casts of Riptide also applies Riptide to another friendly target near your Riptide target."
+  },
+  {
+    "id": "335891",
+    "name": "Spiritwalker's Tidal Totem",
+    "icon": "spell_frost_summonwaterelemental",
+    "slots": [
+      "Legs",
+      "Back"
+    ],
+    "specs": [
+      "restoration"
+    ],
+    "notes": [],
+    "description": "After using Mana Tide Totem, the cast time of Healing Wave and Chain Heal is reduced by 50%, and the mana cost of Chain Heal and Healing Wave is reduced by 100% for 10 sec."
+  },
+  {
+    "id": "335893",
+    "name": "Jonat's Natural Focus",
+    "icon": "spell_nature_healingwavegreater",
+    "slots": [
+      "Waist",
+      "Legs"
+    ],
+    "specs": [
+      "restoration"
+    ],
+    "notes": [],
+    "description": "Healing Wave and Healing Surge increase the healing done by your next Chain Heal by 0%, stacking up to 0 times."
+  },
+  {
+    "id": "335895",
+    "name": "Primal Lava Actuators",
+    "icon": "inv_misc_questionmark",
+    "slots": [
+      "Wrist",
+      "Hands"
+    ],
+    "specs": [
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "Each time Flame Shock deals Periodic damage, increase the damage of your next Lava Lash by 10% and reduce the cooldown of Lava Lash by 0.5 sec."
+  },
+  {
+    "id": "335897",
+    "name": "Witch Doctor's Wolf Bones",
+    "icon": "inv_misc_questionmark",
+    "slots": [
+      "Shoulder",
+      "Finger"
+    ],
+    "specs": [
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "Increases the chance to gain a stack of Maelstrom Weapon by 5%, and whenever you gain a stack of Maelstrom Weapon, the cooldown of Feral Spirits is reduced by 2.0 sec."
+  },
+  {
+    "id": "335899",
+    "name": "Legacy of the Frost Witch",
+    "icon": "inv_misc_questionmark",
+    "slots": [
+      "Neck",
+      "Wrist"
+    ],
+    "specs": [
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "Consuming 5 stacks of Maelstrom Weapon will reset the cooldown of Stormstrike and cause your next Stormstrike to deal 100% increased damage."
+  },
+  {
+    "id": "335902",
+    "name": "Doom Winds",
+    "icon": "ability_ironmaidens_swirlingvortex",
+    "slots": [
+      "Head",
+      "Waist"
+    ],
+    "specs": [
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "Dropping Windfury Totem grants you 100% inceased chance to gain Windfury Weapon for 8 sec. \n\nThis can only occur once every 1 min."
+  },
+  {
+    "id": "336063",
+    "name": "Windspeaker's Lava Resurgence",
+    "icon": "spell_shaman_lavaburst",
+    "slots": [
+      "Feet",
+      "Back"
+    ],
+    "specs": [
+      "elemental"
+    ],
+    "notes": [],
+    "description": "When you consume 6 or more stacks of Fulmination with Earth Shock, gain Lava Surge and increase the damage of your next Lava Burst by 6%."
+  },
+  {
+    "id": "336215",
+    "name": "Echoes of Great Sundering",
+    "icon": "spell_shaman_earthquake",
+    "slots": [
+      "Shoulder",
+      "Hands"
+    ],
+    "specs": [
+      "elemental"
+    ],
+    "notes": [],
+    "description": "When you consume 6 or more stacks of Fulmination with Earth Shock, your next Earthquake will be instant cast and deal 6% additional damage."
+  },
+  {
+    "id": "336730",
+    "name": "Elemental Equilibrium",
+    "icon": "ability_shaman_ascendance",
+    "slots": [
+      "Legs",
+      "Feet"
+    ],
+    "specs": [
+      "elemental"
+    ],
+    "notes": [],
+    "description": "Dealing direct Fire damage increases the damage of your next Frost spell by 30%. Dealing Frost damage increases the damage of your next Nature spell by 25%. Dealing Nature damage increases the damage of your next Fire spell by 20%."
+  },
+  {
+    "id": "336734",
+    "name": "Skybreaker's Fiery Demise",
+    "icon": "spell_fire_elemental_totem",
+    "slots": [
+      "Chest",
+      "Finger"
+    ],
+    "specs": [
+      "elemental"
+    ],
+    "notes": [],
+    "description": "Flame Shock damage over time critical strikes reduce the cooldown of \n\n<condition>Storm Elemental</condition>\n<dynamic>Storm Elemental</dynamic>\n\nFire Elemental by \n\n<condition>Storm Elemental</condition>\n<dynamic>1.0</dynamic>\n\n1.0 sec, and Flame Shock has a 30% increased critical strike chance."
+  },
+  {
+    "id": "336735",
+    "name": "Chains of Devastation",
+    "icon": "spell_nature_chainlightning",
+    "slots": [
+      "Neck",
+      "Chest"
+    ],
+    "specs": [
+      "elemental",
+      "restoration",
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "Casting Chain Heal makes your next Chain Lightning instant cast. Casting Chain Lightning makes your next Chain Heal instant cast."
+  },
+  {
+    "id": "336738",
+    "name": "Deeply Rooted Elements",
+    "icon": "spell_nature_chainlightning",
+    "slots": [
+      "Head",
+      "Shoulder"
+    ],
+    "specs": [
+      "elemental",
+      "restoration",
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "<spec>Enhancement</spec>\n<dynamic>Using</dynamic>\n\n<spec>Elemental</spec><spec>Restoration</spec>\n<dynamic>Casting</dynamic>\n\n \n\n<spec>Restoration</spec>\n<dynamic>Riptide</dynamic>\n\n<spec>Elemental</spec>\n<dynamic>Lava Burst</dynamic>\n\n<spec>Enhancement</spec>\n<dynamic>Stormstrike</dynamic>\n\n has a 5% chance to activate Ascendance for 6.0 sec."
+  },
+  {
+    "id": "336739",
+    "name": "Deeptremor Stone",
+    "icon": "spell_nature_earthelemental_totem",
+    "slots": [
+      "Waist",
+      "Feet"
+    ],
+    "specs": [
+      "elemental",
+      "restoration",
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "Earth Elemental has a permanent Earthquake attached to it."
+  },
+  {
+    "id": "336741",
+    "name": "Ancestral Reminder",
+    "icon": "spell_shaman_ancestralawakening",
+    "slots": [
+      "Wrist",
+      "Finger"
+    ],
+    "specs": [
+      "elemental",
+      "restoration",
+      "enhancement"
+    ],
+    "notes": [],
+    "description": "<condition>Heroism</condition>\n<dynamic>Heroism</dynamic>\n\nBloodlust or any similar effects last an additional 20.0 sec on you, and you gain an extra 10% Haste from any \n\n<condition>Heroism</condition>\n<dynamic>Heroism</dynamic>\n\nBloodlust type effect."
+  }
+]

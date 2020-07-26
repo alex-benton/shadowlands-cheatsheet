@@ -1,0 +1,200 @@
+[
+  {
+    "id": "337381",
+    "name": "Eternal Hunger",
+    "icon": "spell_animamaw_groundstate",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Dark Transformation's duration is increased by <dynamic>5 sec</dynamic>."
+  },
+  {
+    "id": "337704",
+    "name": "Chilled Resilience",
+    "icon": "ability_deathknight_heartstopaura",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Icebound Fortitude's cooldown is reduced by <dynamic>15.0 sec</dynamic>."
+  },
+  {
+    "id": "337705",
+    "name": "Spirit Drain",
+    "icon": "spell_deathknight_mindfreeze",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Successfully interrupting an enemy with Mind Freeze grants <dynamic>10</dynamic> Runic Power."
+  },
+  {
+    "id": "337764",
+    "name": "Reinforced Shell",
+    "icon": "spell_deathknight_antimagiczone",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Anti-Magic Zone's radius is increased by 10% and the duration is increased by <dynamic>1.0 sec</dynamic>."
+  },
+  {
+    "id": "337822",
+    "name": "Accelerated Cold",
+    "icon": "ability_deathknight_frozencenter",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Empower Rune Weapon recharges 5% faster and the Haste amount is increased by <dynamic>10.0%</dynamic>."
+  },
+  {
+    "id": "337884",
+    "name": "Withering Plague",
+    "icon": "spell_holiday_tow_spicecloud",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Heart Strike deals <dynamic>10.0%</dynamic> increased damage to enemies infected by Blood Plague."
+  },
+  {
+    "id": "337934",
+    "name": "Eradicating Blow",
+    "icon": "inv_7af_deathknight_frostmournefragment",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Obliterate increases the damage of your next Frost Strike by <dynamic>10.0%</dynamic>, stacks up to 2 times."
+  },
+  {
+    "id": "337957",
+    "name": "Blood Bond",
+    "icon": "ability_warrior_bloodnova",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Rune Tap heals you and your party for <dynamic>5.0%</dynamic> of your maximum health."
+  },
+  {
+    "id": "337972",
+    "name": "Hardened Bones",
+    "icon": "spell_deathknight_subversion",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "While Lichborne is active the damage you take is reduced by <dynamic>5.0%</dynamic>."
+  },
+  {
+    "id": "337980",
+    "name": "Embrace Death",
+    "icon": "ability_creature_cursed_03",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Sudden Doom increases the damage of your next Death Coil by <dynamic>40.0%</dynamic>."
+  },
+  {
+    "id": "337988",
+    "name": "Biting Cold",
+    "icon": "ability_mage_deepfreeze",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Remorseless Winter deals <dynamic>2.0%</dynamic> increased damage to enemies it hits, stacking up to 10 times."
+  },
+  {
+    "id": "338093",
+    "name": "Fleeting Wind",
+    "icon": "spell_lifegivingspeed",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": ""
+  },
+  {
+    "id": "338311",
+    "name": "Unending Grip",
+    "icon": "ability_deathknight_icygrip",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Death Grip slows enemy movement speed by <dynamic>25.0%</dynamic> for until cancelled."
+  },
+  {
+    "id": "338330",
+    "name": "Insatiable Appetite",
+    "icon": "ability_ironmaidens_bloodritual",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Death Strike's minimum healing is increased by <dynamic>1.0%</dynamic>."
+  },
+  {
+    "id": "338435",
+    "name": "Meat Shield",
+    "icon": "ability_deathwing_bloodcorruption_death",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Increases the duration of Dancing Rune Weapon by 3 sec and while active, your parries increase your maximum health by <dynamic>1.0%</dynamic>, stacking up to 2 times for 15 sec."
+  },
+  {
+    "id": "338501",
+    "name": "Unleashed Frenzy",
+    "icon": "spell_deathknight_icetouch",
+    "type": "unknown",
+    "specs": [],
+    "notes": [],
+    "description": ""
+  },
+  {
+    "id": "338516",
+    "name": "Debilitating Malady",
+    "icon": "ability_creature_disease_03",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Blood Boil increases the damage enemies take from your Blood Plague by <dynamic>1.0%</dynamic> for 6 sec, stacks up to 3 times."
+  },
+  {
+    "id": "338553",
+    "name": "Convocation of the Dead",
+    "icon": "ability_deathknight_deathsiphon2",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "When a Festering Wound bursts the cooldown of Apocalypse is reduced by <dynamic>0.5 sec</dynamic>."
+  },
+  {
+    "id": "338566",
+    "name": "Lingering Plague",
+    "icon": "ability_creature_disease_02",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Scourge Strike extends the duration of your Virulent plague by <dynamic>0.3 sec</dynamic>."
+  },
+  {
+    "id": "338628",
+    "name": "Impenetrable Gloom",
+    "icon": "ability_revendreth_deathknight",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Swarming Mist's damage and dodge chance is increased by <dynamic>5.0%</dynamic> &nbsp;for the first 4 sec."
+  },
+  {
+    "id": "338651",
+    "name": "Brutal Grasp",
+    "icon": "ability_maldraxxus_deathknight",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Abomination Limb deals <dynamic>50.0%</dynamic> increased damage to enemies it pulls to you."
+  },
+  {
+    "id": "338664",
+    "name": "Proliferation",
+    "icon": "ability_bastion_deathknight",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Shackle the Unworth has a <dynamic>100.0%</dynamic> chance to spread to a nearby enemy each time it deals damage."
+  }
+]

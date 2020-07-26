@@ -1,0 +1,200 @@
+[
+  {
+    "id": "336460",
+    "name": "Unrelenting Cold",
+    "icon": "spell_fire_blueflamering",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Frozen Orb damage is increased by <dynamic>10.0%</dynamic>."
+  },
+  {
+    "id": "336472",
+    "name": "Shivering Core",
+    "icon": "spell_fire_blueflamestrike",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Blizzard damage and snare increased by <dynamic>5.0%</dynamic>."
+  },
+  {
+    "id": "336522",
+    "name": "Icy Propulsion",
+    "icon": "spell_frost_coldhearted",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "While Icy Veins is active, your critical hits reduce it's cooldown by <dynamic>0.3 sec</dynamic>."
+  },
+  {
+    "id": "336569",
+    "name": "Ice Bite",
+    "icon": "spell_frost_frostblast",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Increases the damage of Ice Lance against frozen enemies by <dynamic>10%</dynamic>."
+  },
+  {
+    "id": "336613",
+    "name": "Winter's Protection",
+    "icon": "spell_ice_rune",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "The cooldown of Ice Block is reduced by <dynamic>30 sec</dynamic>."
+  },
+  {
+    "id": "336636",
+    "name": "Flow of Time",
+    "icon": "spell_arcane_blink",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "The cooldown of Blink is reduced by <dynamic>1 sec</dynamic>."
+  },
+  {
+    "id": "336777",
+    "name": "Grounding Surge",
+    "icon": "ability_priest_surgeofdarkness",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Successfully interrupting an enemy with Counterspell reduces its cooldown by <dynamic>1.0 sec</dynamic>."
+  },
+  {
+    "id": "336821",
+    "name": "Infernal Cascade",
+    "icon": "ability_rhyolith_immolation",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "While Combustion is active, your Fire Blast grants you <dynamic>3%</dynamic> increased Fire Damage for 5 sec, stacking up to 3 times."
+  },
+  {
+    "id": "336852",
+    "name": "Master Flame",
+    "icon": "inv_elemental_primal_fire",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Flamestrike damage and radius is increased by <dynamic>8.0%</dynamic>."
+  },
+  {
+    "id": "336873",
+    "name": "Arcane Prodigy",
+    "icon": "spell_nature_moonglow",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Arcane Missiles reduce the cooldown of Arcane Power by <dynamic>0.1 sec</dynamic>."
+  },
+  {
+    "id": "336886",
+    "name": "Nether Precision",
+    "icon": "spell_arcane_blast_nightborne",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Consuming Clearcasting increases the damage of your next 2 Arcane Blasts by <dynamic>10%</dynamic>."
+  },
+  {
+    "id": "336992",
+    "name": "Discipline of the Grove",
+    "icon": "achievement_bg_wineos",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Shifting Power channels <dynamic>5%</dynamic> faster."
+  },
+  {
+    "id": "336999",
+    "name": "Gift of the Lich",
+    "icon": "spell_holy_turnundead",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Deathborne's duration is increased by<dynamic> 3.0 sec</dynamic>."
+  },
+  {
+    "id": "337058",
+    "name": "Ire of the Ascended",
+    "icon": "paladin_holy",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Radiant Spark increases the damage your spells deal to the target by an additional <dynamic>2%</dynamic>."
+  },
+  {
+    "id": "337087",
+    "name": "Siphoned Malice",
+    "icon": "inv_artifact_stolenpower",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Each time a Mirror of Torment is consumed your Spell Damage is increased by <dynamic>10%</dynamic> for 10 seconds, stacking 3 times."
+  },
+  {
+    "id": "337123",
+    "name": "Cryo-Freeze",
+    "icon": "spell_frost_icefloes",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "While inside Ice Block, you heal for <dynamic>20%</dynamic> of your maximum health over the duration."
+  },
+  {
+    "id": "337136",
+    "name": "Diverted Energy",
+    "icon": "inv_soulbarrier",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Your Barriers heal you for <dynamic>20%</dynamic> of the damage absorbed."
+  },
+  {
+    "id": "337192",
+    "name": "Magi's Brand",
+    "icon": "spell_arcane_arcane01_nightborne",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Touch of Magi accumulates an additional <dynamic>5%</dynamic> of the damage you deal."
+  },
+  {
+    "id": "337224",
+    "name": "Flame Accretion",
+    "icon": "ability_mage_firestarter",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Fireball grants <dynamic>5%</dynamic> Mastery when it fails to critically strike."
+  },
+  {
+    "id": "337240",
+    "name": "Artifice of the Archmage",
+    "icon": "spell_druid_swarm",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Your Arcane Barrage has a <dynamic>10%</dynamic> chance to grant 2 Arcane Charges."
+  },
+  {
+    "id": "337275",
+    "name": "Incantation of Swiftness",
+    "icon": "rogue_burstofspeed",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Invisibility increases your movement speed by <dynamic>20%</dynamic> for 6 sec."
+  },
+  {
+    "id": "337293",
+    "name": "Tempest Barrier",
+    "icon": "inv_shield_1h_artifactstormfist_d_04",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Gain a shield that absorbs <dynamic>5%</dynamic> of your maximum health for 15 sec after you Blink."
+  }
+]
