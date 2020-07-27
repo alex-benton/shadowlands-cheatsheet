@@ -6,7 +6,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "The cooldown of \n\n<spec>Havoc</spec>\n<dynamic>Blur</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Fiery Brand</dynamic>\n\n is reduced by <dynamic>10 sec</dynamic>."
+    "description": "The cooldown of \n\n<spec>Havoc</spec>\n<dynamic>Blur - Blur</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Fiery Brand</dynamic>\n\n is reduced by <dynamic>10 sec</dynamic>."
   },
   {
     "id": "338682",
@@ -15,7 +15,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "Demonic Wards [an additional]<dynamic>8%</dynamic>."
+    "description": "Demonic Wards [an additional]<dynamic>8% - 8%</dynamic>."
   },
   {
     "id": "338793",
@@ -24,7 +24,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "The healing of Shattered Souls is increased by <dynamic>10%</dynamic>."
+    "description": "The healing of Shattered Souls is increased by <dynamic>10% - 25%</dynamic>."
   },
   {
     "id": "338799",
@@ -33,7 +33,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "Your movement speed is increased by <dynamic>5%</dynamic> after casting \n\n<spec>Havoc</spec>\n<dynamic>Fel Rush</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Infernal Strike</dynamic>"
+    "description": "Your movement speed is increased by <dynamic>5% - 20%</dynamic> after casting \n\n<spec>Havoc</spec>\n<dynamic>Fel Rush</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Infernal Strike</dynamic>"
   },
   {
     "id": "338835",
@@ -42,7 +42,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "Your movement speed is increased by <dynamic>15%</dynamic> after casting \n\n<spec>Havoc</spec>\n<dynamic>Fel Rush</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Infernal Strike</dynamic>"
+    "description": "Your movement speed is increased by <dynamic>15% - 30%</dynamic> after casting \n\n<spec>Havoc</spec>\n<dynamic>Fel Rush</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Infernal Strike</dynamic>"
   },
   {
     "id": "339048",
@@ -51,7 +51,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "Enemies that leave your Imprison are snared by 50% for <dynamic>10 sec</dynamic>."
+    "description": "Enemies that leave your Imprison are snared by 50% for <dynamic>10 sec - 40 sec</dynamic>."
   },
   {
     "id": "339149",
@@ -60,7 +60,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "Increases the duration of Spectral Sight by <dynamic>3 sec</dynamic>."
+    "description": "Increases the duration of Spectral Sight by <dynamic>3 sec - 10 sec</dynamic>."
   },
   {
     "id": "339151",
@@ -69,7 +69,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Demon's Bite increases the damage of other abilities by <dynamic>5%</dynamic>."
+    "description": "Demon's Bite increases the damage of other abilities by <dynamic>5% - 16.67%</dynamic>."
   },
   {
     "id": "339228",
@@ -78,7 +78,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Blade Dance has a <dynamic>5%</dynamic> chance to apply Essence Break."
+    "description": "Blade Dance has a <dynamic>5% - 20%</dynamic> chance to apply Essence Break."
   },
   {
     "id": "339230",
@@ -87,7 +87,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Spending <dynamic>8</dynamic> Fury buffs the damage of Eye Beam by 8%."
+    "description": "Spending <dynamic>8 - 15</dynamic> Fury buffs the damage of Eye Beam by 8%."
   },
   {
     "id": "339231",
@@ -96,6 +96,6 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Immolation Aura's damage is increases by an additional <dynamic>5%</dynamic> each time it deals damage."
+    "description": "Immolation Aura's damage is increases by an additional <dynamic>5% - 12.5%</dynamic> each time it deals damage."
   }
 ]

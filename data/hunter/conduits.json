@@ -6,7 +6,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Your attacks and abilities deal <dynamic> 5.0%</dynamic> increased damage to enemies inside Resonating Arrow."
+    "description": "Your attacks and abilities deal <dynamic> 5.0% - 15%</dynamic> increased damage to enemies inside Resonating Arrow."
   },
   {
     "id": "339059",
@@ -15,7 +15,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Flayed Shot has an additional 5% chance to proc Flayer's Mark and it increases the damage of your next Kill Shot by <dynamic> 5.0%</dynamic>."
+    "description": "Flayed Shot has an additional 5% chance to proc Flayer's Mark and it increases the damage of your next Kill Shot by <dynamic> 5.0% - 20%</dynamic>."
   },
   {
     "id": "339109",
@@ -24,7 +24,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Wild Spirits duration is increased by 3 sec and the damage dealt is increased by <dynamic> 10.0%</dynamic>."
+    "description": "Wild Spirits duration is increased by 3 sec and the damage dealt is increased by <dynamic> 10.0% - 25%</dynamic>."
   },
   {
     "id": "339129",
@@ -33,7 +33,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Death Chakram generates an additional 2 Focus and the damage is increased by <dynamic>5.0%</dynamic>."
+    "description": "Death Chakram generates an additional 2 Focus and the damage is increased by <dynamic>5.0% - 20%</dynamic>."
   },
   {
     "id": "339264",
@@ -42,7 +42,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "Hunter's Mark decreases the damage the target deals to you by<dynamic> 3.0%</dynamic>."
+    "description": "Hunter's Mark decreases the damage the target deals to you by<dynamic> 3.0% - 10%</dynamic>."
   },
   {
     "id": "339377",
@@ -51,7 +51,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "Aspect of the Turtle cooldown reduced by<dynamic> 10.0</dynamic> sec."
+    "description": "Aspect of the Turtle cooldown reduced by<dynamic> 10.0 - 32</dynamic> sec."
   },
   {
     "id": "339399",
@@ -60,6 +60,6 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "Exhilaration heals you for an additional<dynamic> 10.0%</dynamic> of your maximum health over 8 sec."
+    "description": "Exhilaration heals you for an additional<dynamic> 10.0% - 30%</dynamic> of your maximum health over 8 sec."
   }
 ]

@@ -64,9 +64,6 @@ export const formatDescription = (
     currentTag: string | null = null,
     lineBreak = false,
 ): { items: JSX.Element[], offset: number } => {
-    console.log('---')
-    console.log(filter);
-    console.log('---')
     let stuff = [];
     let current = '';
 

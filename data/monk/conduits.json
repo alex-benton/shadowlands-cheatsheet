@@ -6,7 +6,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "Expel Harm's healing is increased by <dynamic>20%</dynamic>."
+    "description": "Expel Harm's healing is increased by <dynamic>20% - 35%</dynamic>."
   },
   {
     "id": "336452",
@@ -15,7 +15,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Fists of Fury's damage is increased by <dynamic>20%</dynamic>."
+    "description": "Fists of Fury's damage is increased by <dynamic>20% - 35%</dynamic>."
   },
   {
     "id": "336526",
@@ -24,7 +24,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Spinning Crane Kick's bonus from striking a unique target with Tiger Palm, Blackout Kick, or Rising Sun Kick is increased by an additional <dynamic>10%</dynamic>."
+    "description": "Spinning Crane Kick's bonus from striking a unique target with Tiger Palm, Blackout Kick, or Rising Sun Kick is increased by an additional <dynamic>10% - 25%</dynamic>."
   },
   {
     "id": "336598",
@@ -33,7 +33,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "When Storm, Earth, and Fire spirits fixate on the same target, they deal <dynamic>10%</dynamic> additional damage."
+    "description": "When Storm, Earth, and Fire spirits fixate on the same target, they deal <dynamic>10% - 25%</dynamic> additional damage."
   },
   {
     "id": "336616",
@@ -42,7 +42,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Abilities that activate Combo Strikes reduce the cooldown of Invoke Xuen, the White Tiger by 0.5 sec, and Xuen's damage is increased by <dynamic>10%</dynamic>."
+    "description": "Abilities that activate Combo Strikes reduce the cooldown of Invoke Xuen, the White Tiger by 0.5 sec, and Xuen's damage is increased by <dynamic>10% - 25%</dynamic>."
   },
   {
     "id": "336632",
@@ -51,7 +51,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "When casting Vivify on yourself, its heal is increased by <dynamic>10%</dynamic>, and it has a chance to refund its cost."
+    "description": "When casting Vivify on yourself, its heal is increased by <dynamic>10% - 25%</dynamic>, and it has a chance to refund its cost."
   },
   {
     "id": "336773",
@@ -60,7 +60,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Abilities that activate Gust of Mist reduce the cooldown on Invoke Yul'on, the Jade Serpent by 0.5 sec, and Yu'lon's Celestial Breath healing is increased by <dynamic>10%</dynamic>."
+    "description": "Abilities that activate Gust of Mist reduce the cooldown on Invoke Yul'on, the Jade Serpent by 0.5 sec, and Yu'lon's Celestial Breath healing is increased by <dynamic>10% - 25%</dynamic>."
   },
   {
     "id": "336812",
@@ -69,7 +69,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Gust of Mists has a 30% chance to do <dynamic>25%</dynamic> more healing."
+    "description": "Gust of Mists has a 30% chance to do <dynamic>25% - 40%</dynamic> more healing."
   },
   {
     "id": "336853",
@@ -78,7 +78,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "Fortifying Brew grants you a shield equal to <dynamic>5%</dynamic> of your health for 15 sec."
+    "description": "Fortifying Brew grants you a shield equal to <dynamic>5% - 20%</dynamic> of your health for 15 sec."
   },
   {
     "id": "336884",
@@ -87,7 +87,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "When Paralysis ends, your target's movement speed is reduced by <dynamic>60%</dynamic> for 5 sec."
+    "description": "When Paralysis ends, your target's movement speed is reduced by <dynamic>60% - 90%</dynamic> for 5 sec."
   },
   {
     "id": "336890",
@@ -96,7 +96,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "Targets affected by your Leg Sweep deal <dynamic>5%</dynamic> less damage for 5 sec."
+    "description": "Targets affected by your Leg Sweep deal <dynamic>5% - 20%</dynamic> less damage for 5 sec."
   },
   {
     "id": "337078",
@@ -105,7 +105,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "Transcendence: Transfer increases your movement speed by <dynamic>10%</dynamic>."
+    "description": "Transcendence: Transfer increases your movement speed by <dynamic>10% - 25%</dynamic>."
   },
   {
     "id": "337084",
@@ -114,7 +114,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "Blackout Kick has a <dynamic>5%</dynamic> chance to grant a charge of Roll."
+    "description": "Blackout Kick has a <dynamic>5% - 20%</dynamic> chance to grant a charge of Roll."
   },
   {
     "id": "337099",
@@ -123,7 +123,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Rising Sun Kick reduces the remaining cooldown on Revival by 1 sec, and Revival heals targets for <dynamic>10%</dynamic> of Revival's heal over 10 sec."
+    "description": "Rising Sun Kick reduces the remaining cooldown on Revival by 1 sec, and Revival heals targets for <dynamic>10% - 25%</dynamic> of Revival's heal over 10 sec."
   },
   {
     "id": "337119",
@@ -132,7 +132,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Keg Smash deals an additional <dynamic>20%</dynamic> damage to targets affected by Breath of Fire."
+    "description": "Keg Smash deals an additional <dynamic>20% - 50%</dynamic> damage to targets affected by Breath of Fire."
   },
   {
     "id": "337134",
@@ -141,7 +141,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "While under the effects of Celestial Brew, your effects that heal you are increased by <dynamic>20%</dynamic>."
+    "description": "While under the effects of Celestial Brew, your effects that heal you are increased by <dynamic>20% - 35%</dynamic>."
   },
   {
     "id": "337241",
@@ -150,7 +150,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Life Cocoon increases healing over time received by an additional <dynamic>15%</dynamic>, and this bonus lingers for an additional 6 sec after the shield is broken."
+    "description": "Life Cocoon increases healing over time received by an additional <dynamic>15% - 30%</dynamic>, and this bonus lingers for an additional 6 sec after the shield is broken."
   },
   {
     "id": "337250",
@@ -159,7 +159,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "Shuffle grants your Stagger <dynamic>5%</dynamic> additional effectiveness."
+    "description": "Shuffle grants your Stagger <dynamic>5% - 20%</dynamic> additional effectiveness."
   },
   {
     "id": "337264",
@@ -168,7 +168,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Abilities that grant Shuffle reduce the cooldown on Invoke Niuzao, the Black Ox by 0.5 sec, and Niuzao's Stomp deals an additional <dynamic>10%</dynamic> damage."
+    "description": "Abilities that grant Shuffle reduce the cooldown on Invoke Niuzao, the Black Ox by 0.5 sec, and Niuzao's Stomp deals an additional <dynamic>10% - 25%</dynamic> damage."
   },
   {
     "id": "337286",
@@ -177,7 +177,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Weapons of Order's duration is increased by 5 sec, and the Mastery bonus is increased by <dynamic>5%</dynamic>."
+    "description": "Weapons of Order's duration is increased by 5 sec, and the Mastery bonus is increased by <dynamic>5% - 20%</dynamic>."
   },
   {
     "id": "337295",
@@ -186,7 +186,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Bonedust Brew's Shadow damage or healing is increased by <dynamic>20%</dynamic>, and when Bonedust Brew deals Shadow damage or healing, it reduces its cooldown by 0.5 sec."
+    "description": "Bonedust Brew's Shadow damage or healing is increased by <dynamic>20% - 50%</dynamic>, and when Bonedust Brew deals Shadow damage or healing, it reduces its cooldown by 0.5 sec."
   },
   {
     "id": "337301",
@@ -195,7 +195,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Fallen Order monks deal <dynamic>20%</dynamic> more damage and healing."
+    "description": "Fallen Order monks deal <dynamic>20% - 50%</dynamic> more damage and healing."
   },
   {
     "id": "337303",
@@ -204,6 +204,6 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Faeline Stomp deals <dynamic>10%</dynamic> additional damage per target, up to a maximum of <dynamic>50%</dynamic> additional damage."
+    "description": "Faeline Stomp deals <dynamic>10% - 25%</dynamic> additional damage per target, up to a maximum of <dynamic>50%</dynamic> additional damage."
   }
 ]

@@ -6,7 +6,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "For the first 2 sec of Fade, you take <dynamic>5</dynamic>% less damage."
+    "description": "For the first 2 sec of Fade, you take <dynamic>5 - 15</dynamic>% less damage."
   },
   {
     "id": "337678",
@@ -15,7 +15,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "Levitate grants <dynamic>20</dynamic>% increased movement speed."
+    "description": "Levitate grants <dynamic>20 - 35</dynamic>% increased movement speed."
   },
   {
     "id": "337707",
@@ -24,16 +24,16 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "Dispel Magic, Purify, and Mass Dispel cost <dynamic>20</dynamic>% less mana."
+    "description": "Dispel Magic, Purify, and Mass Dispel cost <dynamic>20 - 35</dynamic>% less mana."
   },
   {
     "id": "337715",
     "name": "Charitable Soul",
     "icon": "ability_priest_clarityofwill",
-    "type": "unknown",
+    "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "Casting Power Word: Shield on an ally also shields you for <dynamic>10</dynamic>% of the amount for 10 sec."
+    "description": "Casting Power Word: Shield on an ally also shields you for <dynamic>10 - 25</dynamic>% of the amount for 10 sec."
   },
   {
     "id": "337748",
@@ -42,7 +42,7 @@
     "type": "endurance",
     "specs": [],
     "notes": [],
-    "description": "Desperate Prayer heals you for an additional <dynamic>10</dynamic>% of your maximum health over 5 sec."
+    "description": "Desperate Prayer heals you for an additional <dynamic>10 - 40</dynamic>% of your maximum health over 5 sec."
   },
   {
     "id": "337762",
@@ -51,7 +51,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "Casting Power Infusion on an ally reduces its cooldown by <dynamic>5</dynamic> sec."
+    "description": "Casting Power Infusion on an ally reduces its cooldown by <dynamic>5 - 20</dynamic> sec."
   },
   {
     "id": "337778",
@@ -60,7 +60,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Power Word: Radiance healing is increased by <dynamic>10</dynamic>%."
+    "description": "Power Word: Radiance healing is increased by <dynamic>10 - 40</dynamic>%."
   },
   {
     "id": "337786",
@@ -69,7 +69,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Pain Suppression also heals your target for <dynamic>10</dynamic>% of their maximum health."
+    "description": "Pain Suppression also heals your target for <dynamic>10 - 25</dynamic>% of their maximum health."
   },
   {
     "id": "337790",
@@ -78,7 +78,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Rapture's duration is increased by 2 sec, and its Power Word: Shield enhancement is increased by <dynamic>10</dynamic> %."
+    "description": "Rapture's duration is increased by 2 sec, and its Power Word: Shield enhancement is increased by <dynamic>10 - 25</dynamic> %."
   },
   {
     "id": "337811",
@@ -87,7 +87,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Guardian Spirit's duration is increased 5 sec, and it increases healing received by an additional <dynamic>10</dynamic>%."
+    "description": "Guardian Spirit's duration is increased 5 sec, and it increases healing received by an additional <dynamic>10 - 25</dynamic>%."
   },
   {
     "id": "337891",
@@ -96,7 +96,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "The damage or healing of your first bolt of Penance is increased by <dynamic>15</dynamic> %."
+    "description": "The damage or healing of your first bolt of Penance is increased by <dynamic>15 - 30</dynamic> %."
   },
   {
     "id": "337914",
@@ -105,7 +105,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Prayer of Mending's first target is healed by an additional <dynamic>15</dynamic> %."
+    "description": "Prayer of Mending's first target is healed by an additional <dynamic>15 - 37.5</dynamic> %."
   },
   {
     "id": "337947",
@@ -114,7 +114,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Casting a Holy Word spell increases the healing of your next Heal or Flash Heal by <dynamic>10</dynamic>%."
+    "description": "Casting a Holy Word spell increases the healing of your next Heal or Flash Heal by <dynamic>10 - 25</dynamic>%."
   },
   {
     "id": "337954",
@@ -123,7 +123,7 @@
     "type": "finesse",
     "specs": [],
     "notes": [],
-    "description": "After Psychic Scream ends, affected targets' movement speed is reduced by <dynamic>40</dynamic>% for 5 sec."
+    "description": "After Psychic Scream ends, affected targets' movement speed is reduced by <dynamic>40 - 70</dynamic>% for 5 sec."
   },
   {
     "id": "337966",
@@ -132,7 +132,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Ascended Blast deals an additional <dynamic>20</dynamic>% damage, and Ascended Eruption deals an additional 1% damage per stack of Boon of the Ascended."
+    "description": "Ascended Blast deals an additional <dynamic>20 - 50</dynamic>% damage, and Ascended Eruption deals an additional 1% damage per stack of Boon of the Ascended."
   },
   {
     "id": "337979",
@@ -141,7 +141,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Unholy Transfusion's duration is increased by 5 sec and deals <dynamic>10</dynamic>% more damage and healing."
+    "description": "Unholy Transfusion's duration is increased by 5 sec and deals <dynamic>10 - 25</dynamic>% more damage and healing."
   },
   {
     "id": "338305",
@@ -150,7 +150,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Fae Blessings affects 2 additional spells, and enhanced casts of Power Word: Shield, Shadow Mend, or Void Bolt have a <dynamic>15</dynamic>% chance to reduce Fae Blessings's cooldown by 5 sec."
+    "description": "Fae Blessings affects 2 additional spells, and enhanced casts of Power Word: Shield, Shadow Mend, or Void Bolt have a <dynamic>15 - 30</dynamic>% chance to reduce Fae Blessings's cooldown by 5 sec."
   },
   {
     "id": "338315",
@@ -159,7 +159,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Mindgames lasts an additional 15 sec and deals an additional <dynamic>15</dynamic>% damage or healing."
+    "description": "Mindgames lasts an additional 15 sec and deals an additional <dynamic>15 - 26.25</dynamic>% damage or healing."
   },
   {
     "id": "338319",
@@ -168,7 +168,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "When your Shadow Word: Pain deals non-critical damage, you have a &nbsp;<dynamic>5</dynamic>% chance to create a Shadowy Apparition."
+    "description": "When your Shadow Word: Pain deals non-critical damage, you have a &nbsp;<dynamic>5 - 20</dynamic>% chance to create a Shadowy Apparition."
   },
   {
     "id": "338332",
@@ -177,7 +177,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Mind Blast deals an additional <dynamic>5</dynamic>% damage and has a 10% chance to make your next Devouring Plague cost no insanity."
+    "description": "Mind Blast deals an additional <dynamic>5 - 20</dynamic>% damage and has a 10% chance to make your next Devouring Plague cost no insanity."
   },
   {
     "id": "338338",
@@ -186,7 +186,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Shadowfiend attack speed is increased by 20%, and it deals <dynamic>10</dynamic>% more damage."
+    "description": "Shadowfiend attack speed is increased by 20%, and it deals <dynamic>10 - 25</dynamic>% more damage."
   },
   {
     "id": "338342",
@@ -195,7 +195,7 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Void Bolt has a <dynamic>5</dynamic>% chance to reset the cooldown on Void Bolt."
+    "description": "Void Bolt has a <dynamic>5 - 20</dynamic>% chance to reset the cooldown on Void Bolt."
   },
   {
     "id": "338345",
@@ -204,6 +204,6 @@
     "type": "potency",
     "specs": [],
     "notes": [],
-    "description": "Spells that reduce the cooldowns of your Holy Words reduce them by &nbsp;<dynamic>5</dynamic>% more."
+    "description": "Spells that reduce the cooldowns of your Holy Words reduce them by &nbsp;<dynamic>5 - 20</dynamic>% more."
   }
 ]
