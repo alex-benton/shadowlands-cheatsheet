@@ -4,7 +4,9 @@
     "name": "Eternal Hunger",
     "icon": "spell_animamaw_groundstate",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "unholy"
+    ],
     "notes": [],
     "description": "Dark Transformation's duration is increased by <dynamic>5 sec - 15 sec</dynamic>."
   },
@@ -13,7 +15,11 @@
     "name": "Chilled Resilience",
     "icon": "ability_deathknight_heartstopaura",
     "type": "finesse",
-    "specs": [],
+    "specs": [
+      "blood",
+      "unholy",
+      "frost"
+    ],
     "notes": [],
     "description": "Icebound Fortitude's cooldown is reduced by <dynamic>15.0 sec - 60 sec</dynamic>."
   },
@@ -22,7 +28,11 @@
     "name": "Spirit Drain",
     "icon": "spell_deathknight_mindfreeze",
     "type": "finesse",
-    "specs": [],
+    "specs": [
+      "blood",
+      "unholy",
+      "frost"
+    ],
     "notes": [],
     "description": "Successfully interrupting an enemy with Mind Freeze grants <dynamic>10 - 40</dynamic> Runic Power."
   },
@@ -31,7 +41,11 @@
     "name": "Reinforced Shell",
     "icon": "spell_deathknight_antimagiczone",
     "type": "endurance",
-    "specs": [],
+    "specs": [
+      "blood",
+      "unholy",
+      "frost"
+    ],
     "notes": [],
     "description": "Anti-Magic Zone's radius is increased by 10% and the duration is increased by <dynamic>1.0 sec - 8 sec</dynamic>."
   },
@@ -40,7 +54,9 @@
     "name": "Accelerated Cold",
     "icon": "ability_deathknight_frozencenter",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "frost"
+    ],
     "notes": [],
     "description": "Empower Rune Weapon recharges 5% faster and the Haste amount is increased by <dynamic>10.0% - 30%</dynamic>."
   },
@@ -49,7 +65,9 @@
     "name": "Withering Plague",
     "icon": "spell_holiday_tow_spicecloud",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "blood"
+    ],
     "notes": [],
     "description": "Heart Strike deals <dynamic>10.0% - 35%</dynamic> increased damage to enemies infected by Blood Plague."
   },
@@ -58,7 +76,9 @@
     "name": "Eradicating Blow",
     "icon": "inv_7af_deathknight_frostmournefragment",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "frost"
+    ],
     "notes": [],
     "description": "Obliterate increases the damage of your next Frost Strike by <dynamic>10.0% - 25%</dynamic>, stacks up to 2 times."
   },
@@ -67,7 +87,9 @@
     "name": "Blood Bond",
     "icon": "ability_warrior_bloodnova",
     "type": "endurance",
-    "specs": [],
+    "specs": [
+      "blood"
+    ],
     "notes": [],
     "description": "Rune Tap heals you and your party for <dynamic>5.0% - 15%</dynamic> of your maximum health."
   },
@@ -76,7 +98,11 @@
     "name": "Hardened Bones",
     "icon": "spell_deathknight_subversion",
     "type": "endurance",
-    "specs": [],
+    "specs": [
+      "frost",
+      "unholy",
+      "blood"
+    ],
     "notes": [],
     "description": "While Lichborne is active the damage you take is reduced by <dynamic>5.0% - 15%</dynamic>."
   },
@@ -85,7 +111,9 @@
     "name": "Embrace Death",
     "icon": "ability_creature_cursed_03",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "unholy"
+    ],
     "notes": [],
     "description": "Sudden Doom increases the damage of your next Death Coil by <dynamic>40.0% - 100%</dynamic>."
   },
@@ -94,7 +122,9 @@
     "name": "Biting Cold",
     "icon": "ability_mage_deepfreeze",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "frost"
+    ],
     "notes": [],
     "description": "Remorseless Winter deals <dynamic>2.0% - 9%</dynamic> increased damage to enemies it hits, stacking up to 10 times."
   },
@@ -103,16 +133,24 @@
     "name": "Fleeting Wind",
     "icon": "spell_lifegivingspeed",
     "type": "finesse",
-    "specs": [],
+    "specs": [
+      "blood",
+      "frost",
+      "unholy"
+    ],
     "notes": [],
-    "description": ""
+    "description": "Death's Advance grants an additional <dynamic>10% - 30%</dynamic> movement speed over the first 3 sec."
   },
   {
     "id": "338311",
     "name": "Unending Grip",
     "icon": "ability_deathknight_icygrip",
     "type": "finesse",
-    "specs": [],
+    "specs": [
+      "blood",
+      "frost",
+      "unholy"
+    ],
     "notes": [],
     "description": "Death Grip slows enemy movement speed by <dynamic>25.0% - 60%</dynamic> for until cancelled."
   },
@@ -121,7 +159,11 @@
     "name": "Insatiable Appetite",
     "icon": "ability_ironmaidens_bloodritual",
     "type": "endurance",
-    "specs": [],
+    "specs": [
+      "blood",
+      "frost",
+      "unholy"
+    ],
     "notes": [],
     "description": "Death Strike's minimum healing is increased by <dynamic>1.0% - 8%</dynamic>."
   },
@@ -130,7 +172,9 @@
     "name": "Meat Shield",
     "icon": "ability_deathwing_bloodcorruption_death",
     "type": "endurance",
-    "specs": [],
+    "specs": [
+      "blood"
+    ],
     "notes": [],
     "description": "Increases the duration of Dancing Rune Weapon by 3 sec and while active, your parries increase your maximum health by <dynamic>1.0% - 8%</dynamic>, stacking up to 2 times for 15 sec."
   },
@@ -139,16 +183,20 @@
     "name": "Unleashed Frenzy",
     "icon": "spell_deathknight_icetouch",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "frost"
+    ],
     "notes": [],
-    "description": ""
+    "description": "Frost Strike increases your strength by <dynamic>1.0% - 4.5%</dynamic> for 6 seconds, stacks up to 5 times."
   },
   {
     "id": "338516",
     "name": "Debilitating Malady",
     "icon": "ability_creature_disease_03",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "blood"
+    ],
     "notes": [],
     "description": "Blood Boil increases the damage enemies take from your Blood Plague by <dynamic>1.0% - 10%</dynamic> for 6 sec, stacks up to 3 times."
   },
@@ -157,7 +205,9 @@
     "name": "Convocation of the Dead",
     "icon": "ability_deathknight_deathsiphon2",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "unholy"
+    ],
     "notes": [],
     "description": "When a Festering Wound bursts the cooldown of Apocalypse is reduced by <dynamic>0.5 sec - 3.5 sec</dynamic>."
   },
@@ -166,7 +216,9 @@
     "name": "Lingering Plague",
     "icon": "ability_creature_disease_02",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "unholy"
+    ],
     "notes": [],
     "description": "Scourge Strike extends the duration of your Virulent plague by <dynamic>0.3 sec - 4.5 sec</dynamic>."
   },
@@ -175,7 +227,11 @@
     "name": "Impenetrable Gloom",
     "icon": "ability_revendreth_deathknight",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "blood",
+      "frost",
+      "unholy"
+    ],
     "notes": [],
     "description": "Swarming Mist's damage and dodge chance is increased by <dynamic>5.0% - 30%</dynamic> &nbsp;for the first 4 sec."
   },
@@ -184,7 +240,11 @@
     "name": "Brutal Grasp",
     "icon": "ability_maldraxxus_deathknight",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "blood",
+      "frost",
+      "unholy"
+    ],
     "notes": [],
     "description": "Abomination Limb deals <dynamic>50.0% - 125%</dynamic> increased damage to enemies it pulls to you."
   },
@@ -193,7 +253,11 @@
     "name": "Proliferation",
     "icon": "ability_bastion_deathknight",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "blood",
+      "frost",
+      "unholy"
+    ],
     "notes": [],
     "description": "Shackle the Unworth has a <dynamic>100.0% - 500%</dynamic> chance to spread to a nearby enemy each time it deals damage."
   }

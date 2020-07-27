@@ -38,12 +38,12 @@ const PageHeader = (props: Props) => {
     return <>
         <Container>
             <AppLink href={'/'}>
-                <a>
+                <A>
                     <HomeContainer>
                         <Icon icon={'inv_revendreth'} color={'white'} size={36}/>
                         <Text color={'white'}>Home</Text>
                     </HomeContainer>
-                </a>
+                </A>
             </AppLink>
             <HomeContainer>
                 <Text color={'white'}> / </Text>
@@ -101,4 +101,8 @@ const Text = styled.div<{ color: string }>`
     font-family: ${theme.font.title};
     color: ${props => props.color};
     font-size: 2em;
+`;
+
+const A = styled.a`
+    display: flex;
 `;

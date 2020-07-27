@@ -7,7 +7,9 @@
       "Feet",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "discipline"
+    ],
     "notes": [],
     "description": "Power Word: Radiance has a 50% chance to cause your next Penance to be free and fire 3 extra bolts."
   },
@@ -19,7 +21,9 @@
       "Chest",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "discipline"
+    ],
     "notes": [],
     "description": "During Rapture, Power Word: Shield costs 20% less mana and applies 6 second longer Atonements."
   },
@@ -31,7 +35,9 @@
       "Legs",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "discipline"
+    ],
     "notes": [],
     "description": "Reduces Shadow Word: Death's cooldown by 8 sec and causes its damage to trigger Atonement."
   },
@@ -43,7 +49,9 @@
       "Head",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "shadow"
+    ],
     "notes": [],
     "description": "Your Shadowfiend or Mindbender deals 20% additional damage as Shadowflame damage, and the cooldown on Shadowfiend and Mindbender is reduced by 40%."
   },
@@ -55,7 +63,9 @@
       "Chest",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "shadow"
+    ],
     "notes": [],
     "description": "Shadow Word: Death consumes 6 sec of Shadow Word: Pain and Vampiric Touch, instantly dealing that damage to the target and generating 10 Insanity."
   },
@@ -67,7 +77,9 @@
       "Wrist",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "shadow"
+    ],
     "notes": [],
     "description": "Mind Flay has a chance to spawn a Void Tendril that channels Mind Flay at your target for 15 sec, generating 3 insanity when it deals damage."
   },
@@ -79,7 +91,9 @@
       "Neck",
       "Wrist"
     ],
-    "specs": [],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "Each time you cast Flash Heal, your next Heal cast within 15 sec has its casting time reduced by 0.5 sec and healing increased by 15%, stacking up to 3 times."
   },
@@ -91,7 +105,9 @@
       "Shoulder",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "Circle of Healing reduces the cooldown of Holy Word: Sanctify, Prayer of Mending reduces the cooldown of Holy Word: Serenity, and Holy Fire reduces the cooldown of Holy Word: Chastise by 4 sec."
   },
@@ -103,7 +119,9 @@
       "Waist",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "discipline"
+    ],
     "notes": [],
     "description": "When Shadow Word: Pain expires on a target, 5 allies within 30 yds of the target are healed for 3% of their maximum health."
   },
@@ -115,7 +133,9 @@
       "Head",
       "Waist"
     ],
-    "specs": [],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "When you use a Holy Word spell, you have a chance to summon an image of a Naaru at your side. For 15 sec, whenever you cast a spell, the Naaru will cast a similar spell."
   },
@@ -127,7 +147,11 @@
       "Wrist",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Leap of Faith instead causes you to leap to your target, and has 2 charges."
   },
@@ -139,7 +163,11 @@
       "Shoulder",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Power Word: Shield instantly heals the target for (30% of Spell power) and reflects 30% of damage absorbed."
   },
@@ -151,7 +179,11 @@
       "Head",
       "Shoulder"
     ],
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Power Infusion also grants you 100% of its effects when used on an ally."
   },
@@ -163,7 +195,9 @@
       "Legs",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "After Spirit of Redemption expires, you will revive at up to 100% health, based on your effectiveness during Spirit of Redemption. After reviving, you cannot benefit from Spirit of Redemption for 10 min."
   }

@@ -7,7 +7,9 @@
       "Chest",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "retribution"
+    ],
     "notes": [],
     "description": "Replaces Templar's Verdict with Final Verdict, a devastating strike that deals (194% of Attack power) Holy damage. Has a 50% chance to activate Hammer of Wrath and reset its cooldown."
   },
@@ -19,7 +21,9 @@
       "Waist",
       "Legs"
     ],
-    "specs": [],
+    "specs": [
+      "retribution"
+    ],
     "notes": [],
     "description": "Projects Divine Storm forward 20 yds, damaging all enemies in its path.\n\nAlso increases damage dealt by Divine Storm by 20%."
   },
@@ -31,7 +35,11 @@
       "Legs",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "retribution",
+      "holy",
+      "protection"
+    ],
     "notes": [],
     "description": "Spending Holy Power grants you 20 haste per Holy Power spent for 12 sec, stacking up to 20 times."
   },
@@ -43,7 +51,9 @@
       "Head",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "retribution"
+    ],
     "notes": [],
     "description": "Hammer of Wrath extends Avenging Wrath by 2 sec and deals 20% additional damage."
   },
@@ -55,7 +65,11 @@
       "Wrist",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "retribution",
+      "holy",
+      "protection"
+    ],
     "notes": [],
     "description": "Your Blessing of Freedom\n\n<condition>Blessing of Sacrifice</condition>\n<dynamic> Blessing of Sacrifice</dynamic>\n\n and \n\n<condition>Blessing of Spellwarding</condition>\n<dynamic>Blessing of Spellwarding</dynamic>\n\nBlessing of Protection cooldowns are reduced by 1 sec per Holy Power spent."
   },
@@ -67,7 +81,11 @@
       "Waist",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "retribution",
+      "holy",
+      "protection"
+    ],
     "notes": [],
     "description": "Casting Avenging Wrath or any Forbearance ability grants 5 Holy Power."
   },
@@ -79,7 +97,11 @@
       "Neck",
       "Chest"
     ],
-    "specs": [],
+    "specs": [
+      "retribution",
+      "holy",
+      "protection"
+    ],
     "notes": [],
     "description": "Judgment has a 50% chance to reduce the cost of your next Holy Power spender by 1."
   },
@@ -91,7 +113,11 @@
       "Head",
       "Shoulder"
     ],
-    "specs": [],
+    "specs": [
+      "retribution",
+      "holy",
+      "protection"
+    ],
     "notes": [],
     "description": "When you reach 5 Holy Power, you gain Blessing of Dawn. When you reach 0 Holy Power, you gain Blessing of Dusk.\n\n<dynamic>Blessing of Dawn</dynamic>\n<dynamic>Damage and healing increased by 6% for 10 sec.</dynamic>\n\n<dynamic>Blessing of Dusk</dynamic>\n<dynamic>Damage taken reduced by 6% for 10 sec.</dynamic>"
   },
@@ -103,7 +129,9 @@
       "Feet",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "Infusion of Light has 1 additional charge and its effects are increased by 20%."
   },
@@ -115,7 +143,9 @@
       "Shoulder",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "Light of Dawn's range is increased to 40 yards, and all allies inside your Light of Dawn receive 10% increased healing from your spells for 6 sec."
   },
@@ -127,7 +157,9 @@
       "Legs",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "Holy Shock protects the target with a shield of Holy Light for 18 sec, absorbing up to (0.8 * Spell power) damage every 6 sec."
   },
@@ -139,7 +171,9 @@
       "Head",
       "Waist"
     ],
-    "specs": [],
+    "specs": [
+      "protection"
+    ],
     "notes": [],
     "description": "Your Avenger's Shield has a 50% chance to have its cooldown instantly reset when used."
   },
@@ -151,7 +185,9 @@
       "Neck",
       "Wrist"
     ],
-    "specs": [],
+    "specs": [
+      "protection"
+    ],
     "notes": [],
     "description": "Reduces damage taken while Ardent Defender is active by an additional 10%, and when you activate Ardent Defender, it will also apply to the nearest ally within 15 yards."
   },
@@ -163,7 +199,9 @@
       "Shoulder",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "protection"
+    ],
     "notes": [],
     "description": "Each target hit by Avenger's Shield increases the damage of your next Shield of the Righteous by 40%."
   },
@@ -175,7 +213,9 @@
       "Wrist",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "protection"
+    ],
     "notes": [],
     "description": "When you drop below 20% health, you become infused with the Guardian of the Ancient Kings for 4 sec. This cannot occur again for 45 sec."
   }

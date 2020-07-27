@@ -7,7 +7,9 @@
       "Wrist",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "mistweaver"
+    ],
     "notes": [],
     "description": "Your Tiger Palm, Blackout Kick and Rising Sun Kick heal for 50% of the damage done to an injured ally within 20 yards."
   },
@@ -19,7 +21,9 @@
       "Shoulder",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "mistweaver"
+    ],
     "notes": [],
     "description": "Activating Thunder Focus Tea causes you to exhale the breath of Yu'lon, healing up to 6 allies within 15 yards for [(40% of Spell power) * 3] over 2 sec."
   },
@@ -31,7 +35,9 @@
       "Shoulder",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "brewmaster"
+    ],
     "notes": [],
     "description": "Keg Smash deals 30% additional damage, and has 1 additional charges."
   },
@@ -43,7 +49,9 @@
       "Legs",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "brewmaster"
+    ],
     "notes": [],
     "description": "Celestial Brew increases your Armor by 15% for 7 sec, and Purifying Brew has a 15% chance to not consume a charge."
   },
@@ -55,7 +63,9 @@
       "Waist",
       "Legs"
     ],
-    "specs": [],
+    "specs": [
+      "windwalker"
+    ],
     "notes": [],
     "description": "Chi spenders increase the damage of your next Crackling Jade Lightning by 100% and reduce its cost by 5%, stacking up to 20 times."
   },
@@ -67,7 +77,11 @@
       "Waist",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "brewmaster",
+      "mistweaver",
+      "windwalker"
+    ],
     "notes": [],
     "description": "Roll has 1 additional"
   },
@@ -79,7 +93,11 @@
       "Wrist",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "brewmaster",
+      "mistweaver",
+      "windwalker"
+    ],
     "notes": [],
     "description": "Touch of Death cooldown reduced by 60."
   },
@@ -91,7 +109,11 @@
       "Head",
       "Shoulder"
     ],
-    "specs": [],
+    "specs": [
+      "brewmaster",
+      "mistweaver",
+      "windwalker"
+    ],
     "notes": [],
     "description": "You gain 12% haste for 338321until cancelled after summoning your Celestial."
   },
@@ -103,7 +125,9 @@
       "Head",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "windwalker"
+    ],
     "notes": [],
     "description": "Tiger Palm now has a 10 yard range, and increases your critical strike chance for 25% for 6 sec on the target. When used, you instantly dash to the target.\n\nThe increased critical strike effect cannot occur more than once every 30 sec per target."
   },
@@ -115,7 +139,9 @@
       "Neck",
       "Wrist"
     ],
-    "specs": [],
+    "specs": [
+      "mistweaver"
+    ],
     "notes": [],
     "description": "Healing with Enveloping Mists or Vivify while channeling Soothing Mists increases their healing done by 6% and reduces their mana cost by 10%. Stacks up to 3 times.\n\nWhen your Soothing Mists channel ends, this effect is cancelled."
   },
@@ -127,7 +153,9 @@
       "Head",
       "Waist"
     ],
-    "specs": [],
+    "specs": [
+      "mistweaver"
+    ],
     "notes": [],
     "description": "Renewing Mists applies Extend Life to the initial target, instantly healing them for 50 and increasing all healing done to them by 15% for 12 sec. \n\nWhen you heal with Enveloping Mist or Vivify, 50% of the heal is also applied to targets with your Extend Life effect."
   },
@@ -139,7 +167,9 @@
       "Chest",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "windwalker"
+    ],
     "notes": [],
     "description": "When Fists of Fury ends, the critical strike chance of Rising Sun Kick is increased by 30% for 5 sec.\n\nRising Sun Kick critical strikes reduce the cooldown of Fists of Fury by 1.5 sec."
   },
@@ -151,7 +181,9 @@
       "Legs",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "windwalker"
+    ],
     "notes": [],
     "description": "Whenever you deal damage to a target with Fists of Fury, you gain a stack of Chi Energy up to a maximum of 20 stacks.\n\nUsing Expel Harm will cause the energy to detonate in a Chi Explosion, dealing (40% of Attack power) damage to all enemies within 8 yards. The damage is increased by 5% for each stack of Chi Energy."
   },
@@ -163,7 +195,9 @@
       "Chest",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "brewmaster"
+    ],
     "notes": [],
     "description": "Tiger Palm has a 10% chance to deal 300% of normal damage and reduce the remaining cooldown of your Brews by 1 additional sec."
   },
@@ -175,7 +209,9 @@
       "Feet",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "brewmaster"
+    ],
     "notes": [],
     "description": "Your Breath of Fire ignites your right leg in flame for 8 sec, causing your Blackout Kick and Spinning Crane Kick to deal 30% additional damage as Fire damage and refresh the duration of your Breath of Flame on the target."
   }

@@ -7,7 +7,9 @@
       "Chest",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "frost"
+    ],
     "notes": [],
     "description": "Casting 15 Frostbolts or Flurries calls down a Frozen Orb on your target. Hitting an enemy player counts as double."
   },
@@ -19,7 +21,9 @@
       "Head",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "frost"
+    ],
     "notes": [],
     "description": "While Frozen Orb is active, you gain Fingers of Frost every 5 sec. While Frozen Orb is not active, each Frostbolt reduces the cooldown of Frozen Orb by 2.5 sec."
   },
@@ -31,7 +35,11 @@
       "Waist",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "frost",
+      "fire",
+      "arcane"
+    ],
     "notes": [],
     "description": "Your Fireball, Frostbolt and Arcane Blast have a chance to give you Expanded Potential, which causes your next Hot Streak, Brain Freeze or Clearcasting to not be consumed."
   },
@@ -43,7 +51,9 @@
       "Legs",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "frost"
+    ],
     "notes": [],
     "description": "Ice Lance has a 15% chance to explode into shards of ice when it hits a target, dealing (40% of Spell power) Frost damage to up to 5 enemies near your target. This chance is increased to 50% if your target is standing in a Blizzard."
   },
@@ -55,7 +65,9 @@
       "Waist",
       "Legs"
     ],
-    "specs": [],
+    "specs": [
+      "frost"
+    ],
     "notes": [],
     "description": "While Icy Veins is active, each Frostbolt you cast reduces the cast time of Frostbolt by 5%, stacking up to 10 times."
   },
@@ -67,7 +79,9 @@
       "Shoulder",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "arcane"
+    ],
     "notes": [],
     "description": "Increases the damage done by Arcane Missiles by 10%. \n\nEach time Arcane Missiles hits an enemy, the damage of your next Arcane Barrage is increased by 2%. This effect stacks."
   },
@@ -79,7 +93,9 @@
       "Feet",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "arcane"
+    ],
     "notes": [],
     "description": "Arcane Barrage deals an additional 40% damage against targets below 35% health."
   },
@@ -91,7 +107,9 @@
       "Legs",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "arcane"
+    ],
     "notes": [],
     "description": "Evocation grants 2 Arcane Charges, and while channeling Evocation, your Intellect is increased by 2% every 1 sec. Lasts 30 sec."
   },
@@ -103,7 +121,9 @@
       "Head",
       "Waist"
     ],
-    "specs": [],
+    "specs": [
+      "fire"
+    ],
     "notes": [],
     "description": "Each consecutive critical strike you deal increases critical strike damage you deal by 2%."
   },
@@ -115,7 +135,9 @@
       "Shoulder",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "fire"
+    ],
     "notes": [],
     "description": "When Hot Streak activates, you have a low chance to cause all Pyroblasts and Flamestrikes to have no cast time and be guaranteed critical strikes for 5 sec."
   },
@@ -127,7 +149,9 @@
       "Neck",
       "Wrist"
     ],
-    "specs": [],
+    "specs": [
+      "fire"
+    ],
     "notes": [],
     "description": "Casting 30 Fireballs or Pyroblasts calls down a Meteor on your target. Hitting an enemy player counts as double."
   },
@@ -139,7 +163,9 @@
       "Wrist",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "fire"
+    ],
     "notes": [],
     "description": "After consuming 6 Hot Streaks, your next non-instant Pyroblast cast within 15 sec grants you Combustion for 6 sec."
   },
@@ -151,7 +177,11 @@
       "Neck",
       "Chest"
     ],
-    "specs": [],
+    "specs": [
+      "frost",
+      "fire",
+      "arcane"
+    ],
     "notes": [],
     "description": "Casting any Barrier spell grants the effects of Blazing Barrier, Ice Barrier, and Prismatic Barrier. Each absorb shield has 40% effectiveness."
   },
@@ -163,7 +193,11 @@
       "Head",
       "Shoulder"
     ],
-    "specs": [],
+    "specs": [
+      "frost",
+      "fire",
+      "arcane"
+    ],
     "notes": [],
     "description": "Your Frost, Fire, and Arcane damage against enemies affected by Frost Nova is increased by 10% and no longer breaks it."
   }

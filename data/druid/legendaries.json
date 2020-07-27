@@ -7,7 +7,12 @@
       "Wrist",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "balance",
+      "restoration",
+      "guardian",
+      "feral"
+    ],
     "notes": [],
     "description": "Effects of Thick Hide, Astral Influence, Feline Swiftness, and Ysera's Gift increased by 100%.\n\nWhen you shift into your Affinity's form, you gain Heart of the Wild for 15 sec, once every 1 min."
   },
@@ -19,7 +24,12 @@
       "Head",
       "Shoulder"
     ],
-    "specs": [],
+    "specs": [
+      "balance",
+      "restoration",
+      "guardian",
+      "feral"
+    ],
     "notes": [],
     "description": "Your damage over time effects occur 25% more quickly and your healing over time effects occur 10% more quickly."
   },
@@ -31,7 +41,11 @@
       "Neck",
       "Chest"
     ],
-    "specs": [],
+    "specs": [
+      "balance",
+      "restoration",
+      "feral"
+    ],
     "notes": [],
     "description": "When Moonfire, Rake, Rip, or Rejuvenation are on a single target, their effects are increased 30%"
   },
@@ -43,7 +57,9 @@
       "Feet",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "balance"
+    ],
     "notes": [],
     "description": "Starsurge and Starfall each have a 15% chance to make the other free."
   },
@@ -55,7 +71,9 @@
       "Shoulder",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "balance"
+    ],
     "notes": [],
     "description": "Every 400 Astral Power spent grants Celestial Alignment for 9 sec."
   },
@@ -67,7 +85,9 @@
       "Shoulder",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "restoration"
+    ],
     "notes": [],
     "description": "Swiftmend no longer consumes a heal over time effect, and extends the duration of your heal over time effects on the target by 10 sec."
   },
@@ -79,7 +99,9 @@
       "Neck",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "restoration"
+    ],
     "notes": [],
     "description": "You may Lifebloom two targets at once, and Lifebloom's final healing is increased by 200%."
   },
@@ -91,7 +113,9 @@
       "Head",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "restoration"
+    ],
     "notes": [],
     "description": "Rejuvenation healing has a 2% chance to create a new Rejuvenation on a nearby target."
   },
@@ -103,7 +127,9 @@
       "Legs",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "guardian"
+    ],
     "notes": [],
     "description": "Thrash has a 15% chance to trigger an additional Thrash."
   },
@@ -115,7 +141,9 @@
       "Chest",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "guardian"
+    ],
     "notes": [],
     "description": "Thrash has 20% increased damage, 30% increased radius, and can stack 1 additional time."
   },
@@ -127,7 +155,9 @@
       "Waist",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "guardian"
+    ],
     "notes": [],
     "description": "Berserk in Bear Form grants 25% increased damage, 25% Leech, and immunity to effects that cause loss of control of your character."
   },
@@ -139,7 +169,9 @@
       "Head",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "guardian"
+    ],
     "notes": [],
     "description": "Barkskin reduces damage by an additional 15%. When it begins and ends, you gain Ironfur and Frenzied Regeneration."
   },
@@ -151,7 +183,9 @@
       "Legs",
       "Wrist"
     ],
-    "specs": [],
+    "specs": [
+      "restoration"
+    ],
     "notes": [],
     "description": "Wild Growth has a 25% chance to cause your next Rejuvenation or Regrowth to apply to 2 additional allies within 20 yards of the target."
   },
@@ -163,7 +197,9 @@
       "Shoulder",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "feral"
+    ],
     "notes": [],
     "description": "Rip damage has a 4% chance to make your next Ferocious Bite free and deal the maximum damage."
   },
@@ -175,7 +211,9 @@
       "Neck",
       "Wrist"
     ],
-    "specs": [],
+    "specs": [
+      "feral"
+    ],
     "notes": [],
     "description": "Tiger's Fury causes your next finishing move to restore 3 combo points."
   },
@@ -187,7 +225,9 @@
       "Head",
       "Waist"
     ],
-    "specs": [],
+    "specs": [
+      "feral"
+    ],
     "notes": [],
     "description": "Clearcast abilities generate 25% of their Energy cost, and your maximum energy is increased by 60."
   }

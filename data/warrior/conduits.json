@@ -206,7 +206,7 @@
     "icon": "warrior_talent_icon_igniteweapon",
     "type": "potency",
     "specs": [
-      "arms",
+      "arms"
     ],
     "notes": [],
     "description": "Mortal Strike has a <dynamic>15%</dynamic> chance to hit an additional time."

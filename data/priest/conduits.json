@@ -4,7 +4,11 @@
     "name": "Translucent Image",
     "icon": "spell_nature_invisibilty",
     "type": "endurance",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "For the first 2 sec of Fade, you take <dynamic>5 - 15</dynamic>% less damage."
   },
@@ -13,7 +17,11 @@
     "name": "Move with Grace",
     "icon": "ability_priest_savinggrace",
     "type": "finesse",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Levitate grants <dynamic>20 - 35</dynamic>% increased movement speed."
   },
@@ -22,7 +30,11 @@
     "name": "Clear Mind",
     "icon": "ability_pvp_innerrenewal",
     "type": "finesse",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Dispel Magic, Purify, and Mass Dispel cost <dynamic>20 - 35</dynamic>% less mana."
   },
@@ -31,7 +43,11 @@
     "name": "Charitable Soul",
     "icon": "ability_priest_clarityofwill",
     "type": "endurance",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Casting Power Word: Shield on an ally also shields you for <dynamic>10 - 25</dynamic>% of the amount for 10 sec."
   },
@@ -40,7 +56,11 @@
     "name": "Light's Inspiration",
     "icon": "spell_holy_restoration",
     "type": "endurance",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Desperate Prayer heals you for an additional <dynamic>10 - 40</dynamic>% of your maximum health over 5 sec."
   },
@@ -49,7 +69,11 @@
     "name": "Power Unto Others",
     "icon": "ability_priest_wordsofmeaning",
     "type": "finesse",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Casting Power Infusion on an ally reduces its cooldown by <dynamic>5 - 20</dynamic> sec."
   },
@@ -58,7 +82,9 @@
     "name": "Shining Radiance",
     "icon": "ability_priest_spiritoftheredeemer",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "discipline"
+    ],
     "notes": [],
     "description": "Power Word: Radiance healing is increased by <dynamic>10 - 40</dynamic>%."
   },
@@ -67,7 +93,9 @@
     "name": "Pain Transformation",
     "icon": "spell_holy_blessedrecovery",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "discipline"
+    ],
     "notes": [],
     "description": "Pain Suppression also heals your target for <dynamic>10 - 25</dynamic>% of their maximum health."
   },
@@ -76,7 +104,9 @@
     "name": "Exaltation",
     "icon": "spell_holy_spiritualguidence",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "discipline"
+    ],
     "notes": [],
     "description": "Rapture's duration is increased by 2 sec, and its Power Word: Shield enhancement is increased by <dynamic>10 - 25</dynamic> %."
   },
@@ -85,7 +115,9 @@
     "name": "Lasting Spirit",
     "icon": "inv_icon_wing06a",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "Guardian Spirit's duration is increased 5 sec, and it increases healing received by an additional <dynamic>10 - 25</dynamic>%."
   },
@@ -94,7 +126,9 @@
     "name": "Swift Penitence",
     "icon": "spell_holy_purify",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "discipline"
+    ],
     "notes": [],
     "description": "The damage or healing of your first bolt of Penance is increased by <dynamic>15 - 30</dynamic> %."
   },
@@ -103,7 +137,9 @@
     "name": "Focused Mending",
     "icon": "achievement_bg_returnxflags_def_wsg",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "Prayer of Mending's first target is healed by an additional <dynamic>15 - 37.5</dynamic> %."
   },
@@ -112,7 +148,9 @@
     "name": "Resonant Words",
     "icon": "spell_holy_holybolt",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "Casting a Holy Word spell increases the healing of your next Heal or Flash Heal by <dynamic>10 - 25</dynamic>%."
   },
@@ -121,7 +159,11 @@
     "name": "Mental Recovery",
     "icon": "sha_ability_rogue_bloodyeye_nightborne",
     "type": "finesse",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "After Psychic Scream ends, affected targets' movement speed is reduced by <dynamic>40 - 70</dynamic>% for 5 sec."
   },
@@ -130,7 +172,11 @@
     "name": "Courageous Ascension",
     "icon": "spell_animabastion_wave",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Ascended Blast deals an additional <dynamic>20 - 50</dynamic>% damage, and Ascended Eruption deals an additional 1% damage per stack of Boon of the Ascended."
   },
@@ -139,7 +185,11 @@
     "name": "Festering Transfusion",
     "icon": "spell_animamaldraxxus_debuff",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Unholy Transfusion's duration is increased by 5 sec and deals <dynamic>10 - 25</dynamic>% more damage and healing."
   },
@@ -148,7 +198,11 @@
     "name": "Blessing of Plenty",
     "icon": "spell_animaardenweald_buff",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Fae Blessings affects 2 additional spells, and enhanced casts of Power Word: Shield, Shadow Mend, or Void Bolt have a <dynamic>15 - 30</dynamic>% chance to reduce Fae Blessings's cooldown by 5 sec."
   },
@@ -157,7 +211,11 @@
     "name": "Shattered Perceptions",
     "icon": "spell_animarevendreth_debuff",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "discipline",
+      "holy",
+      "shadow"
+    ],
     "notes": [],
     "description": "Mindgames lasts an additional 15 sec and deals an additional <dynamic>15 - 26.25</dynamic>% damage or healing."
   },
@@ -166,7 +224,9 @@
     "name": "Shimmering Apparitions",
     "icon": "sha_ability_rogue_sturdyrecuperate_nightborne",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "shadow"
+    ],
     "notes": [],
     "description": "When your Shadow Word: Pain deals non-critical damage, you have a &nbsp;<dynamic>5 - 20</dynamic>% chance to create a Shadowy Apparition."
   },
@@ -175,7 +235,9 @@
     "name": "Mind Devourer",
     "icon": "spell_arcane_mindmastery",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "shadow"
+    ],
     "notes": [],
     "description": "Mind Blast deals an additional <dynamic>5 - 20</dynamic>% damage and has a 10% chance to make your next Devouring Plague cost no insanity."
   },
@@ -184,7 +246,10 @@
     "name": "Rabid Shadows",
     "icon": "spell_deathknight_gnaw_ghoul",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "shadow",
+      "discipline"
+    ],
     "notes": [],
     "description": "Shadowfiend attack speed is increased by 20%, and it deals <dynamic>10 - 25</dynamic>% more damage."
   },
@@ -193,7 +258,9 @@
     "name": "Dissonant Echoes",
     "icon": "spell_shadow_shadowpower",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "shadow"
+    ],
     "notes": [],
     "description": "Void Bolt has a <dynamic>5 - 20</dynamic>% chance to reset the cooldown on Void Bolt."
   },
@@ -202,8 +269,8 @@
     "name": "Holy Oration",
     "icon": "ability_priest_bindingprayers",
     "type": "potency",
-    "specs": [],
+    "specs": ["holy"],
     "notes": [],
-    "description": "Spells that reduce the cooldowns of your Holy Words reduce them by &nbsp;<dynamic>5 - 20</dynamic>% more."
+    "description": "Spells that reduce the cooldowns of your Holy Words reduce them by <dynamic>5 - 20</dynamic>% more."
   }
 ]

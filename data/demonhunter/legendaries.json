@@ -7,7 +7,10 @@
       "Wrist",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "havoc",
+      "vengeance"
+    ],
     "notes": [],
     "description": "Casting [Eye Beam][Fel Devastation] summons an allied [Vengeance][Havoc] Demon Hunter who casts [Fel Devastation][Eye Beam]."
   },
@@ -19,7 +22,10 @@
       "Head",
       "Shoulder"
     ],
-    "specs": [],
+    "specs": [
+      "havoc",
+      "vengeance"
+    ],
     "notes": [],
     "description": "Metamorphosis increases your size, movement speed, and melee range by 100%."
   },
@@ -31,7 +37,10 @@
       "Neck",
       "Waist"
     ],
-    "specs": [],
+    "specs": [
+      "havoc",
+      "vengeance"
+    ],
     "notes": [],
     "description": "<spec>Havoc</spec>\n<dynamic>Eye Beam</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Fel Devastation</dynamic>\n\n has a 20% chance to not incur its cooldown."
   },
@@ -43,7 +52,10 @@
       "Chest",
       "Legs"
     ],
-    "specs": [],
+    "specs": [
+      "havoc",
+      "vengeance"
+    ],
     "notes": [],
     "description": "You automatically trigger Darkness when you fall below 35% health. This effect can only occur once every 2 min."
   },
@@ -55,7 +67,9 @@
       "Head",
       "Neck"
     ],
-    "specs": [],
+    "specs": [
+      "vengeance"
+    ],
     "notes": [],
     "description": "Your Fiery Brand now heals you for 100% of the damage done and each enemy hit by your Sigil of Flame increases the instant damage of your next Fiery Brand by 15%, stacking up to 15 times."
   },
@@ -67,7 +81,9 @@
       "Legs",
       "Wrist"
     ],
-    "specs": [],
+    "specs": [
+      "vengeance"
+    ],
     "notes": [],
     "description": "Soul Cleave reduces the remaining cooldown on a random Sigil by 8 sec."
   },
@@ -79,7 +95,10 @@
       "Waist",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "havoc",
+      "vengeance"
+    ],
     "notes": [],
     "description": "You take 15% reduced magic damage while Immolation Aura is active."
   },
@@ -91,7 +110,9 @@
       "Wrist",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "vengeance"
+    ],
     "notes": [],
     "description": "Each Soul Fragment consumed by Soul Cleave reduces the cooldown of Fiery Brand by 2 sec."
   },
@@ -103,7 +124,9 @@
       "Shoulder",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "havoc"
+    ],
     "notes": [],
     "description": "Chaos Strike has a chance to unleash your inner demon, causing it to crash into your target and deal (136.5% of Attack power) Chaos damage to all nearby enemies."
   },
@@ -115,7 +138,9 @@
       "Waist",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "havoc"
+    ],
     "notes": [],
     "description": "Blade Dance has a 10% chance to grant you Chaotic Blades, increasing the damage of Chaos Strike by 25% and its chance to refund Fury by an additional 60% for 8 sec."
   },
@@ -127,7 +152,9 @@
       "Feet",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "havoc"
+    ],
     "notes": [],
     "description": "The cooldown of Fel Rush is reduced by 30%."
   },
@@ -139,7 +166,10 @@
       "Chest",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "havoc",
+      "vengeance"
+    ],
     "notes": [],
     "description": "Immolation Aura damage has a chance to grant you a stack of Fel Bombardment, increasing the damage of your next Throw Glaive by 20% and launching an additional glaive at a nearby target. This effect stacks up to 5 times."
   }

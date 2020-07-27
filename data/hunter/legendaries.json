@@ -7,7 +7,11 @@
       "Wrist",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "beastmastery",
+      "marksmanship",
+      "survival"
+    ],
     "notes": [],
     "description": "The cooldown of all of your Aspects\n\n<spec>Marksmanship</spec>\n<dynamic>and Trueshot</dynamic>\n\n<spec>Survival</spec>\n<dynamic>and Coordinated Assault</dynamic>\n\n is reduced by 25%."
   },
@@ -19,7 +23,11 @@
       "Waist",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "beastmastery",
+      "marksmanship",
+      "survival"
+    ],
     "notes": [],
     "description": "Whenever a trap is triggered, gain 25 Focus."
   },
@@ -31,7 +39,11 @@
       "Head",
       "Shoulder"
     ],
-    "specs": [],
+    "specs": [
+      "beastmastery",
+      "marksmanship",
+      "survival"
+    ],
     "notes": [],
     "description": "Launching a Flare into your Tar Trap causes all enemies inside of the Tar Trap to burn for (900% of Attack power) Fire damage over 12 sec."
   },
@@ -43,7 +55,11 @@
       "Neck",
       "Chest"
     ],
-    "specs": [],
+    "specs": [
+      "beastmastery",
+      "marksmanship",
+      "survival"
+    ],
     "notes": [],
     "description": "Feign Death cooldown reduced by 15.0 sec, and Feign Death now removes most negative status effects from yourself."
   },
@@ -55,7 +71,9 @@
       "Chest",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "beastmastery"
+    ],
     "notes": [],
     "description": "Kill Command has a 10% chance to also summon a Dire Beast to attack your target."
   },
@@ -67,7 +85,9 @@
       "Legs",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "beastmastery"
+    ],
     "notes": [],
     "description": "Cobra Shot has a 10% chance to make your next Kill Command consume no Focus."
   },
@@ -79,7 +99,9 @@
       "Shoulder",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "beastmastery"
+    ],
     "notes": [],
     "description": "Barbed Shot reduces the cooldown of Kill Command by 4.0 sec."
   },
@@ -91,7 +113,9 @@
       "Feet",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "beastmastery"
+    ],
     "notes": [],
     "description": "While Bestial Wrath is active, your pet's critical damage dealt is increased by 30%."
   },
@@ -103,7 +127,9 @@
       "Head",
       "Waist"
     ],
-    "specs": [],
+    "specs": [
+      "marksmanship"
+    ],
     "notes": [],
     "description": "Trueshot also reduces the Focus cost of all of your abilities by 30%."
   },
@@ -115,7 +141,9 @@
       "Neck",
       "Wrist"
     ],
-    "specs": [],
+    "specs": [
+      "marksmanship"
+    ],
     "notes": [],
     "description": "Rapid Fire deals 15% additional damage, and Aimed Shot has a 15% chance to reset the cooldown of Rapid Fire."
   },
@@ -127,7 +155,9 @@
       "Shoulder",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "marksmanship"
+    ],
     "notes": [],
     "description": "When Aimed Shot hits multiple targets from the Trick Shots effect, 3 enemies struck by the Aimed Shot also get hit by an Arcane Shot."
   },
@@ -139,7 +169,9 @@
       "Wrist",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "marksmanship"
+    ],
     "notes": [],
     "description": "When you gain the Trick Shots effect, you have a 50% chance for it to not be consumed by your next Aimed Shot or Rapid Fire."
   },
@@ -151,7 +183,9 @@
       "Waist",
       "Legs"
     ],
-    "specs": [],
+    "specs": [
+      "survival"
+    ],
     "notes": [],
     "description": "Wildfire Bomb drops an additional cluster of bombs around the target, each exploding for (33% of Attack power) Fire damage."
   },
@@ -163,7 +197,9 @@
       "Legs",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "survival"
+    ],
     "notes": [],
     "description": "<condition>Mongoose Bite</condition>\n<dynamic>Mongoose Bite</dynamic>\n\nRaptor Strike has a 10% chance to reset the cooldown of Wildfire Bomb."
   },
@@ -175,7 +211,9 @@
       "Head",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "survival"
+    ],
     "notes": [],
     "description": "Serpent Sting's damage applies Latent Poison to the target, stacking up to 10 times. \n\n<condition>Mongoose Bite</condition>\n<dynamic>Mongoose Bite</dynamic>\n\nRaptor Strike consumes all stacks of Latent Poison, dealing (10% of Attack power) Nature damage to the target per stack consumed."
   },
@@ -187,7 +225,9 @@
       "Chest",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "survival"
+    ],
     "notes": [],
     "description": "<condition>Mongoose Bite</condition>\n<dynamic>Mongoose Bite</dynamic>\n\nRaptor Strike increases the damage of your next \n\n<condition>Butchery</condition>\n<dynamic>Butchery</dynamic>\n\nCarve by 10%, stacking up to 10 times."
   }
