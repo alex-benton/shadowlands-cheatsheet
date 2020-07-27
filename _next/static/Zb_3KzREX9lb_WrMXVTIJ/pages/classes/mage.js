@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{"2eGI":function(n,e,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/classes/mage",function(){return t("fxL1")}])},fxL1:function(n,e,t){"use strict";t.r(e),t.d(e,"__N_SSG",(function(){return i}));var u=t("q1tI"),o=t.n(u),r=t("O3rA"),c=o.a.createElement,i=!0;e.default=function(n){return c(r.a,n)}}},[["2eGI",0,2,4,1,3,5]]]);

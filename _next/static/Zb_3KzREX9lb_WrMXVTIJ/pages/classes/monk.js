@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{Bbwn:function(n,t,w){"use strict";w.r(t),w.d(t,"__N_SSG",(function(){return c}));var e=w("q1tI"),o=w.n(e),u=w("O3rA"),r=o.a.createElement,c=!0;t.default=function(n){return r(u.a,n)}},w4GY:function(n,t,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/classes/monk",function(){return w("Bbwn")}])}},[["w4GY",0,2,4,1,3,5]]]);
