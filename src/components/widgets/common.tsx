@@ -9,7 +9,8 @@ export const processTag = (
     rest: string,
     key: string,
     className: ClassName,
-    color: string
+    color: string,
+    filter: string | undefined,
 ): { items: JSX.Element[], offset: number } => {
     const restCopy = rest.slice().trimLeft();
     if (tag === 'condition' && restCopy.indexOf('<dynamic>') === 0) {
@@ -28,7 +29,20 @@ export const processTag = (
         }
     }
     if (tag === 'spec') {
-        const spec = stuff[0].toLowerCase();
+        const spec = stuff[0].toLowerCase().match(/^([^\(]+)/)[1].split(" ").join('');
+        if (filter && spec !== filter) {
+            const lookAhead = restCopy.indexOf('<dynamic>') === 0 ? rest.indexOf('</dynamic>') + '</dynamic>'.length : 0;
+            return {
+                items: [],
+                offset: lookAhead
+            }
+        } else if (filter && spec === filter) {
+            const lookAhead = restCopy.indexOf('<spec>') === 0 ? rest.indexOf('</spec>') + '</spec>'.length : 0;
+            return {
+                items: [<SpecIcon key={key} wowClassName={className} spec={spec}/>],
+                offset: rest.length - restCopy.length + lookAhead
+            }
+        }
         return {
             items: [<SpecIcon key={key} wowClassName={className} spec={spec}/>],
             offset: rest.length - restCopy.length
@@ -46,9 +60,13 @@ export const formatDescription = (
     description: string,
     className: ClassName,
     color: string,
+    filter: string | undefined,
     currentTag: string | null = null,
-    lineBreak = false
+    lineBreak = false,
 ): { items: JSX.Element[], offset: number } => {
+    console.log('---')
+    console.log(filter);
+    console.log('---')
     let stuff = [];
     let current = '';
 
@@ -80,13 +98,13 @@ export const formatDescription = (
                 stuff.push(current);
                 current = '';
 
-                const {items, offset} = formatDescription(id, description.substring(i), className, color, tag);
+                const {items, offset} = formatDescription(id, description.substring(i), className, color, filter, tag, lineBreak);
                 stuff.push(items);
                 i += offset - 1;
             } else if (currentTag === tag) {
                 // this is our end tag, return the items we found
                 stuff.push(current);
-                const {items, offset} = processTag(tag, stuff, description.substring(i), `${id}-${tag}-${i}`, className, color);
+                const {items, offset} = processTag(tag, stuff, description.substring(i), `${id}-${tag}-${i}`, className, color, filter);
                 return {
                     items: items,
                     offset: i + offset

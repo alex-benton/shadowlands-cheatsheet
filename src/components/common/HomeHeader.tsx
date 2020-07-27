@@ -29,6 +29,7 @@ const Container = styled.div`
     width: calc(100% - 8px);
     height: 48px;
     position: absolute;
+    filter: drop-shadow(1px 1px 4px black);
     top: 0;
 `;
 

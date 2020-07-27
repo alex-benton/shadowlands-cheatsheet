@@ -46,6 +46,75 @@ export const COVENANT_KYRIAN = 'kyrian';
 export const COVENANT_NECROLORD = 'necrolord';
 export const COVENANT_VENTHYR = 'venthyr';
 
+type SpecInfo = {
+    key: string,
+    icon: string,
+    display: string,
+};
+
+export const CLASS_SPECS: Record<ClassName, Record<string, SpecInfo>> = {
+    [CLASS_NAME_DEATHKNIGHT]: {
+        blood: {key: 'blood', icon: 'spell_deathknight_bloodpresence.jpg', display: 'Blood'},
+        frost: {key: 'frost', icon: 'spell_deathknight_frostpresence.jpg', display: 'Frost'},
+        unholy: {key: 'unholy', icon: 'spell_deathknight_unholypresence.jpg', display: 'Unholy'},
+    },
+    [CLASS_NAME_DEMONHUNTER]: {
+        havoc: {key: 'havoc', icon: 'ability_demonhunter_specdps.jpg', display: 'Havoc'},
+        vengeance: {key: 'vengeance', icon: 'ability_demonhunter_spectank.jpg', display: 'vengeance'},
+    },
+    [CLASS_NAME_DRUID]: {
+        feral: {key: 'feral', icon: 'ability_druid_catform.jpg', display: 'Feral'},
+        restoration: {key: 'restoration', icon: 'spell_nature_healingtouch.jpg', display: 'Restoration'},
+        balance: {key: 'balance', icon: 'spell_nature_starfall.jpg', display: 'Balance'},
+        guardian: {key: 'guardian', icon: 'ability_racial_bearform.jpg', display: 'Guardian'},
+    },
+    [CLASS_NAME_HUNTER]: {
+        survival: {key: 'survival', icon: 'ability_hunter_camouflage.jpg', display: 'Survival'},
+        marksmanship: {key: 'marksmanship', icon: 'ability_hunter_focusedaim.jpg', display: 'Marksmanship'},
+        beastmastery: {key: 'beastmastery', icon: 'ability_hunter_bestialdiscipline.jpg', display: 'Beast Mastery'},
+    },
+    [CLASS_NAME_MAGE]: {
+        arcane: {key: 'arcane', icon: 'spell_holy_magicalsentry.jpg', display: 'Arcane'},
+        fire: {key: 'fire', icon: 'spell_fire_firebolt02.jpg', display: 'Fire'},
+        frost: {key: 'frost', icon: 'spell_frost_frostbolt02.jpg', display: 'Frost'},
+    },
+    [CLASS_NAME_MONK]: {
+        brewmaster: {key: 'brewmaster', icon: 'spell_monk_brewmaster_spec.jpg', display: 'Brewmaster'},
+        windwalker: {key: 'windwalker', icon: 'spell_monk_windwalker_spec.jpg', display: 'Windwalker'},
+        mistweaver: {key: 'mistweaver', icon: 'spell_monk_mistweaver_spec.jpg', display: 'Mistweaver'},
+    },
+    [CLASS_NAME_PALADIN]: {
+        holy: {key: 'holy', icon: 'spell_holy_holybolt.jpg', display: 'Holy'},
+        protection: {key: 'protection', icon: 'ability_paladin_shieldofthetemplar.jpg', display: 'Protection'},
+        retribution: {key: 'retribution', icon: 'spell_holy_auraoflight.jpg', display: 'Retribution'},
+    },
+    [CLASS_NAME_PRIEST]: {
+        shadow: {key: 'shadow', icon: 'spell_shadow_shadowwordpain.jpg', display: 'Shadow'},
+        holy: {key: 'holy', icon: 'spell_holy_guardianspirit.jpg', display: 'Holy'},
+        discipline: {key: 'discipline', icon: 'spell_holy_powerwordshield.jpg', display: 'Discipline'},
+    },
+    [CLASS_NAME_ROGUE]: {
+        assassination: {key: 'assassination', icon: 'ability_rogue_deadlybrew.jpg', display: 'Assassination'},
+        subtlety: {key: 'subtlety', icon: 'ability_stealth.jpg', display: 'Subtley'},
+        outlaw: {key: 'outlaw', icon: 'ability_rogue_waylay.jpg', display: 'Outlaw'},
+    },
+    [CLASS_NAME_SHAMAN]: {
+        restoration: {key: 'restoration', icon: 'spell_nature_magicimmunity.jpg', display: 'Restoration'},
+        enhancement: {key: 'enhancement', icon: 'ability_shaman_stormstrike.jpg', display: 'Enhancement'},
+        elemental: {key: 'elemental', icon: 'spell_nature_lightning.jpg', display: 'Elemental'},
+    },
+    [CLASS_NAME_WARLOCK]: {
+        destruction: {key: 'destruction', icon: 'spell_shadow_rainoffire.jpg', display: 'Destruction'},
+        demonology: {key: 'demonology', icon: 'spell_shadow_metamorphosis.jpg', display: 'Demonology'},
+        affliction: {key: 'affliction', icon: 'spell_shadow_deathcoil.jpg', display: 'Affliction'},
+    },
+    [CLASS_NAME_WARRIOR]: {
+        protection: {key: 'protection', icon: 'inv_shield_06.jpg', display: 'Protection'},
+        arms: {key: 'arms', icon: 'ability_warrior_savageblow.jpg', display: 'Arms'},
+        fury: {key: 'fury', icon: 'ability_warrior_innerrage.jpg', display: 'Fury'},
+    },
+}
+
 /**
  * A dictionary containing icons for each class specialization.
  */

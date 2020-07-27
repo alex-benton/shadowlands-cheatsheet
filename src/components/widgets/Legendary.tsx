@@ -1,9 +1,10 @@
-import React from "react";
+import React, {useContext} from "react";
 import theme from "../theme";
 import {ClassName, LegendaryType} from "../types";
 import {formatDescription} from "./common";
 import styled from "styled-components";
 import Icon from "../common/Icon";
+import filterContext from "../../state/filterContext";
 
 const COLOR_LEGENDARY = '#ff8000';
 
@@ -14,6 +15,7 @@ type Props = {
 }
 
 const Legendary = (props: Props) => {
+    const {filter} = useContext(filterContext(props.className));
     return <Container>
         <IconContainer>
             <Icon icon={props.data.icon} color={COLOR_LEGENDARY} />
@@ -22,7 +24,7 @@ const Legendary = (props: Props) => {
             <div>{props.data.name}</div>
             <LegendarySlots>{props.data.slots.join(", ")}</LegendarySlots>
         </LegendaryName>
-        <LegendaryDescription>{formatDescription(props.data.id, props.data.description, props.className, COLOR_LEGENDARY).items}</LegendaryDescription>
+        <LegendaryDescription>{formatDescription(props.data.id, props.data.description, props.className, COLOR_LEGENDARY, filter).items}</LegendaryDescription>
     </Container>;
 };
 

@@ -7,7 +7,11 @@
       "Waist",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "arms",
+      "fury",
+      "protection"
+    ],
     "notes": [],
     "description": "Heroic Leap gains 2 additional charge."
   },
@@ -19,7 +23,9 @@
       "Feet",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "protection"
+    ],
     "notes": [],
     "description": "Each enemy you hit with Thunder Clap reduces the remaining cooldown on Demoralizing Shout by 3 sec."
   },
@@ -31,7 +37,9 @@
       "Shoulder",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "protection"
+    ],
     "notes": [],
     "description": "Shield Slam generates an additional 2 Rage and reduces the remaining cooldown of Shield Wall by 4 sec."
   },
@@ -43,7 +51,11 @@
       "Neck",
       "Chest"
     ],
-    "specs": [],
+    "specs": [
+      "arms",
+      "fury",
+      "protection"
+    ],
     "notes": [],
     "description": "Spell Reflection lasts 200% longer, and applies to your party."
   },
@@ -55,9 +67,13 @@
       "Wrist",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "arms",
+      "fury",
+      "protection"
+    ],
     "notes": [],
-    "description": "Activating &nbsp;\n\n<condition>Ravager</condition>\n<dynamic>Ravager</dynamic>\n\nBladestorm, Recklessness, or Avatar randomly casts one of the other two abilities at reduced effectiveness."
+    "description": "Activating \n\n<condition>Ravager</condition>\n<dynamic>Ravager</dynamic>\n\nBladestorm, Recklessness, or Avatar randomly casts one of the other two abilities at reduced effectiveness."
   },
   {
     "id": "335274",
@@ -67,7 +83,9 @@
       "Neck",
       "Wrist"
     ],
-    "specs": [],
+    "specs": [
+      "arms"
+    ],
     "notes": [],
     "description": "Your Slam has a 30% chance to reset the cooldown of Mortal Strike."
   },
@@ -79,7 +97,9 @@
       "Wrist",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "arms"
+    ],
     "notes": [],
     "description": "While \n\n<condition>Ravager</condition>\n<dynamic>Ravager</dynamic>\n\nBladestorm is active, you automatically cast a total of \n\n<condition>Ravager</condition>\n<dynamic>1</dynamic>\n\n2 Mortal Strikes at random nearby enemies."
   },
@@ -91,7 +111,9 @@
       "Shoulder",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "arms"
+    ],
     "notes": [],
     "description": "Execute causes the target to take 25% more damage from your next Mortal Strike, stacking up to 2 times."
   },
@@ -103,7 +125,9 @@
       "Head",
       "Waist"
     ],
-    "specs": [],
+    "specs": [
+      "arms"
+    ],
     "notes": [],
     "description": "Your Mortal Strike has a 15% chance to apply the Colossus Smash effect to your target for 5 sec."
   },
@@ -115,9 +139,11 @@
       "Waist",
       "Legs"
     ],
-    "specs": [],
+    "specs": [
+      "fury"
+    ],
     "notes": [],
-    "description": "Bloodthirst increases your Haste by2% for 5 sec, stacking up to 4 times."
+    "description": "Bloodthirst increases your Haste by 2% for 5 sec, stacking up to 4 times."
   },
   {
     "id": "335567",
@@ -127,7 +153,9 @@
       "Legs",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "fury"
+    ],
     "notes": [],
     "description": "Your Rampage has a 25% chance to apply the Siegebreaker effect to your target for 5 sec."
   },
@@ -139,7 +167,9 @@
       "Head",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "fury"
+    ],
     "notes": [],
     "description": "Rampage critical strikes reduce your Recklessness and Enraged Regeneration cooldown by 3 sec."
   },
@@ -151,7 +181,9 @@
       "Legs",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "protection"
+    ],
     "notes": [],
     "description": "Your Shield Wall ability now grants 50% of its effect to all party members."
   },
@@ -163,7 +195,9 @@
       "Chest",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "protection"
+    ],
     "notes": [],
     "description": "The first Intercepted attack granst you Ignore Pain and make your next Revenge cost no Rage."
   },
@@ -175,7 +209,11 @@
       "Head",
       "Shoulder"
     ],
-    "specs": [],
+    "specs": [
+      "arms",
+      "fury",
+      "protection"
+    ],
     "notes": [],
     "description": "If Whirlwind \n\n<spec>Protection</spec>\n<dynamic>or Revenge</dynamic>\n\nhits 3 or more enemies, it hits them 1 additional time."
   }

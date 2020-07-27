@@ -1,20 +1,23 @@
 // inv_artifact_xp02
-import React from "react";
+import React, {useContext} from "react";
 import styled from "styled-components";
 import theme from "../theme";
 import {ClassName, LegendaryType} from "../types";
 import Legendary from "./Legendary";
 import Icon from "../common/Icon";
+import filterContext from "../../state/filterContext";
 
 const COLOR_LEGENDARY = '#ff8000';
 type Props = {
     data: LegendaryType[],
-    filter?: string,
     className: ClassName,
 }
 
 const Legendaries = (props: Props) => {
-    const legendaries = props.data;
+    const {filter} = useContext(filterContext(props.className));
+    const legendaries = filter ? props.data.filter(legendary => legendary.specs.includes(filter)) : props.data;
+    if (legendaries.length === 0) return <></>;
+
     return <Container>
         <Header background={'#222'}>
             <Icon icon={'inv_artifact_xp02.jpg'} color={COLOR_LEGENDARY} />

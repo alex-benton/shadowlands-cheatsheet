@@ -265,7 +265,11 @@
     "name": "Elysian Dirge",
     "icon": "ability_monk_forcesphere",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
     "notes": [],
     "description": "Vesper Totem is <dynamic>100%</dynamic> more effective against the target nearest to it."
   },
@@ -274,7 +278,11 @@
     "name": "Essential Extraction",
     "icon": "spell_animaardenweald_debuff",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
     "notes": [],
     "description": "Fae Transfusion deals <dynamic>10%</dynamic> increased damage, and channels <dynamic>10%</dynamic> faster."
   },
@@ -283,7 +291,11 @@
     "name": "Lavish Harvest",
     "icon": "warlock_charredremains",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
     "notes": [],
     "description": "The critical strike chance of Chain Harvest is increased by <dynamic>10.0%</dynamic>."
   },
@@ -292,7 +304,11 @@
     "name": "Tumbling Waves",
     "icon": "spell_animamaldraxxus_wave",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "elemental",
+      "enhancement",
+      "restoration"
+    ],
     "notes": [],
     "description": "Primordial Wave has a <dynamic>20%</dynamic> chance to not incur its cooldown."
   }

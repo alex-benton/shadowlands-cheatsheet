@@ -1,19 +1,21 @@
-import React from "react";
+import React, {useContext} from "react";
 import styled from "styled-components";
 import theme from "../theme";
 import {ClassName, CovenantAbilityType} from "../types";
 // import {formatDescription} from "./common";
 import Icon from "../common/Icon";
 import {formatDescription} from "./common";
+import filterContext from "../../state/filterContext";
 
 type Props = {
     wowClassName: ClassName,
     data: CovenantAbilityType,
     color: string,
-    filter?: string,
 }
 
 const Covenant = (props: Props) => {
+    const {filter} = useContext(filterContext(props.wowClassName));
+
     const parseRange = (range: string) => {
         const result = /(\d+) yards/.exec(range);
         if (result && result[1] && parseInt(result[1]) > 0) return result[1];
@@ -59,7 +61,7 @@ const Covenant = (props: Props) => {
                 </CovenantName>
             </div>
             <CovenantText>
-                <CovenantDescription>{formatDescription(props.data.id, props.data.description, props.wowClassName, props.color, null, true).items}</CovenantDescription>
+                <CovenantDescription>{formatDescription(props.data.id, props.data.description, props.wowClassName, props.color, filter, null, true).items}</CovenantDescription>
             </CovenantText>
         </Content>
     </Container>;

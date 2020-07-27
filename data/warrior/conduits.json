@@ -166,7 +166,11 @@
     "name": "Piercing Verdict",
     "icon": "spell_animabastion_missile",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "arms",
+      "fury",
+      "protection"
+    ],
     "notes": [],
     "description": "Spear of Bastion's instant damage and Rage generation are increased by <dynamic>20%</dynamic>."
   },
@@ -175,7 +179,11 @@
     "name": "Veteran's Repute",
     "icon": "spell_animamaldraxxus_buff",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "arms",
+      "fury",
+      "protection"
+    ],
     "notes": [],
     "description": "Brandishing the Conqueror's Banner immediately grants you 5 Glory, and while the banner is planted your Strength is increased by <dynamic>12%</dynamic>."
   },
@@ -184,7 +192,11 @@
     "name": "Harrowing Punishment",
     "icon": "spell_animarevendreth_debuff",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "arms",
+      "fury",
+      "protection"
+    ],
     "notes": [],
     "description": "Condemn's damage dealt and prevented are increased by <dynamic>8%</dynamic> for each nearby enemy, up to <dynamic>40%</dynamic>."
   },
@@ -193,7 +205,9 @@
     "name": "Mortal Combo",
     "icon": "warrior_talent_icon_igniteweapon",
     "type": "potency",
-    "specs": [],
+    "specs": [
+      "arms",
+    ],
     "notes": [],
     "description": "Mortal Strike has a <dynamic>15%</dynamic> chance to hit an additional time."
   }

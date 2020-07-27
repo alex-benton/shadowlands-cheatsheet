@@ -1,14 +1,14 @@
-import React from "react";
+import React, {useContext} from "react";
 import styled from "styled-components";
 import theme from "../theme";
 import {ClassName, ConduitType} from "../types";
 import Conduit from "./Conduit";
 import Icon from "../common/Icon";
 import {isEmpty} from "lodash";
+import filterContext from "../../state/filterContext";
 
 type Props = {
     data: ConduitType[],
-    filter?: string,
     className: ClassName,
 }
 
@@ -35,8 +35,9 @@ const CONDUIT_CATEGORIES = {
 }
 
 const Conduits = (props: Props) => {
+    const {filter} = useContext(filterContext(props.className));
     const categorized = props.data.reduce<Record<'potency' | 'endurance' | 'finesse' | 'unknown', ConduitType[]>>((acc, val) => {
-        if (!props.filter || val.specs.includes(props.filter)) {
+        if (!filter || val.specs.includes(filter)) {
             acc[val.type].push(val);
         }
         return acc;

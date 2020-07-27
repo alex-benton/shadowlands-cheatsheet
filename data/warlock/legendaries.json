@@ -7,7 +7,11 @@
       "Wrist",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "affliction",
+      "destruction",
+      "demonology"
+    ],
     "notes": [],
     "description": "Every Soul Shard you spend reduces the cooldown of \n\n<spec>Affliction</spec>\n<dynamic>Summon Darkglare</dynamic>\n\n<spec>Demonology</spec>\n<dynamic>Summon Demonic Tyrant</dynamic>\n\n<spec>Destruction</spec>\n<dynamic>Summon Infernal</dynamic>\n\n by \n\n<spec>Affliction</spec>\n<dynamic>1.0</dynamic>\n\n<spec>Demonology</spec>\n<dynamic>0.3</dynamic>\n\n<spec>Destruction</spec>\n<dynamic>2.0</dynamic>\n\n sec."
   },
@@ -19,7 +23,11 @@
       "Waist",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "affliction",
+      "destruction",
+      "demonology"
+    ],
     "notes": [],
     "description": "Drain Life now deals damage and restores health 50% faster."
   },
@@ -31,7 +39,11 @@
       "Head",
       "Shoulder"
     ],
-    "specs": [],
+    "specs": [
+      "affliction",
+      "destruction",
+      "demonology"
+    ],
     "notes": [],
     "description": "<spec>Affliction</spec>\n<dynamic>Malefic Rapture</dynamic>\n\n<spec>Demonology</spec>\n<dynamic>Call Dreadstalkers</dynamic>\n\n<spec>Destruction</spec>\n<dynamic>Chaos Bolt</dynamic>\n\n has a \n\n<spec>Affliction</spec>\n<dynamic>10</dynamic>\n\n<spec>Demonology</spec>\n<dynamic>25</dynamic>\n\n<spec>Destruction</spec>\n<dynamic>5</dynamic>\n\n% chance to refund all Soul Shards spent."
   },
@@ -43,7 +55,11 @@
       "Neck",
       "Chest"
     ],
-    "specs": [],
+    "specs": [
+      "affliction",
+      "destruction",
+      "demonology"
+    ],
     "notes": [],
     "description": "Demonic Gateway is now instant cast, and your first use of the gateway does not trigger its cooldown."
   },
@@ -55,7 +71,9 @@
       "Chest",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "affliction"
+    ],
     "notes": [],
     "description": "Agony has a 20% increased chance to generate a Soul Shard."
   },
@@ -67,7 +85,9 @@
       "Legs",
       "Feet"
     ],
-    "specs": [],
+    "specs": [
+      "affliction"
+    ],
     "notes": [],
     "description": "Corruption damage is increased by 15%, and any target affected by your Corruption also has their movement speed slowed by 15%."
   },
@@ -79,7 +99,9 @@
       "Shoulder",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "affliction"
+    ],
     "notes": [],
     "description": "Malefic Rapture increases the damage of your \n\n<condition>Drain Soul</condition>\n<dynamic>Drain Soul</dynamic>\n\nShadow Bolt by 25% for 8 sec, stacking up to 3 times."
   },
@@ -91,7 +113,9 @@
       "Feet",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "affliction"
+    ],
     "notes": [],
     "description": "Targets with die with your Agony applied to them grant you Wrath of Consumption, increasing all periodic damage dealt by 5% for 20 sec, stacking up to 5 times."
   },
@@ -103,7 +127,9 @@
       "Head",
       "Waist"
     ],
-    "specs": [],
+    "specs": [
+      "demonology"
+    ],
     "notes": [],
     "description": "When Implosion damages at least 3 targets, gain 5% Haste for 8 sec for each Imp exploded."
   },
@@ -115,7 +141,9 @@
       "Neck",
       "Wrist"
     ],
-    "specs": [],
+    "specs": [
+      "demonology"
+    ],
     "notes": [],
     "description": "Each Soul Shard spent on Hand of Gul'dan increases the damage of your next Call Dreadstalkers by 3%."
   },
@@ -127,7 +155,9 @@
       "Shoulder",
       "Finger"
     ],
-    "specs": [],
+    "specs": [
+      "demonology"
+    ],
     "notes": [],
     "description": "Hand of Gul'dan has a 15% chance to cast a second time on your target for free."
   },
@@ -139,7 +169,9 @@
       "Wrist",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "demonology"
+    ],
     "notes": [],
     "description": "Shadow Bolt increases the damage of your next Demonbolt by 25%, stacking up to 4 times."
   },
@@ -151,7 +183,9 @@
       "Waist",
       "Legs"
     ],
-    "specs": [],
+    "specs": [
+      "destruction"
+    ],
     "notes": [],
     "description": "Enemies marked by your Havoc take 15% increased damage from your single target spells."
   },
@@ -163,7 +197,9 @@
       "Legs",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "destruction"
+    ],
     "notes": [],
     "description": "Conflagrate has 1 additional charge and has its recharge time reduced by 3.0 sec."
   },
@@ -175,7 +211,9 @@
       "Head",
       "Hands"
     ],
-    "specs": [],
+    "specs": [
+      "destruction"
+    ],
     "notes": [],
     "description": "Chaos Bolt increases the damage of Chaos Bolt by 10% and reduces the cast time of Chaos Bolt by 10% for 3 sec."
   },
@@ -187,7 +225,9 @@
       "Chest",
       "Back"
     ],
-    "specs": [],
+    "specs": [
+      "destruction"
+    ],
     "notes": [],
     "description": "Incinerate now generates 100% additional Soul Shard Fragments."
   }

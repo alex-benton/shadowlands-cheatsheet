@@ -1,9 +1,10 @@
-import React from "react";
+import React, {useContext} from "react";
 import styled from "styled-components";
 import theme from "../theme";
 import {ClassName, ConduitType} from "../types";
 import {formatDescription} from "./common";
 import Icon from "../common/Icon";
+import filterContext from "../../state/filterContext";
 
 type Props = {
     className: ClassName,
@@ -17,6 +18,7 @@ type Props = {
 }
 
 const Conduit = (props: Props) => {
+    const {filter} = useContext(filterContext(props.className));
     return <Container>
         <IconContainer>
             <Icon icon={props.data.icon} color={props.meta.color} />
@@ -25,7 +27,7 @@ const Conduit = (props: Props) => {
             {props.data.name}
         </ConduitName>
         <ConduitText>
-            <ConduitDescription>{formatDescription(props.data.id, props.data.description, props.className, props.meta.color).items}</ConduitDescription>
+            <ConduitDescription>{formatDescription(props.data.id, props.data.description, props.className, props.meta.color, filter).items}</ConduitDescription>
             {props.data.notes && props.data.notes.length ? <ConduitNotes>{props.data.notes}</ConduitNotes> : null}
         </ConduitText>
     </Container>;
