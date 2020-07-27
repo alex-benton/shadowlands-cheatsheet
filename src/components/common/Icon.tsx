@@ -1,7 +1,8 @@
 import styled from "styled-components";
 import React from "react";
-import theme, {ClassName, CovenantName} from "../theme";
+import theme from "../theme";
 import {urlPrefix} from "../util";
+import {ClassName, CovenantName} from "../types";
 
 type Props = {
     icon?: string,

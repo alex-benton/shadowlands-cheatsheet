@@ -1,9 +1,10 @@
 import React from "react";
 import styled from "styled-components";
-import theme, {ClassName} from "../theme";
+import theme from "../theme";
 import Icon from "./Icon";
 import {CLASS_DISPLAY_NAMES} from "../constants";
 import AppLink from "./AppLink";
+import {ClassName} from "../types";
 
 /**
  * Defines the props accepted by the PageHeader component.
@@ -49,6 +50,7 @@ const Container = styled.div`
     padding: 4px;
     width: calc(100% - 8px);
     position: absolute;
+    height: 48px;
 `;
 
 const Placeholder = styled.div`
@@ -57,6 +59,7 @@ const Placeholder = styled.div`
 
 const HomeContainer = styled.div`
     display: flex;
+    align-items: center;
     padding: 4px 8px;
     
     :hover {

@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import theme, {ClassName} from "../theme";
-import {ConduitType} from "../types";
+import theme from "../theme";
+import {ClassName, ConduitType} from "../types";
 import Conduit from "./Conduit";
 import Icon from "../common/Icon";
 import {isEmpty} from "lodash";

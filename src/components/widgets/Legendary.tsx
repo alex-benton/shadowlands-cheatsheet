@@ -1,6 +1,6 @@
 import React from "react";
-import theme, {ClassName} from "../theme";
-import {LegendaryType} from "../types";
+import theme from "../theme";
+import {ClassName, LegendaryType} from "../types";
 import {formatDescription} from "./common";
 import styled from "styled-components";
 import Icon from "../common/Icon";

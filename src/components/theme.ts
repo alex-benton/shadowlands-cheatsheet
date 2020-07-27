@@ -1,3 +1,6 @@
+//
+// Module containing theme and style information.
+//
 export default {
     font: {
         logo: `'Stalinist One', cursive`,
@@ -35,5 +38,3 @@ export default {
     }
 };
 
-export type ClassName = 'deathknight' | 'demonhunter' | 'druid' | 'hunter' | 'mage' | 'monk' | 'paladin' | 'priest' | 'rogue' | 'shaman' | 'warlock' | 'warrior';
-export type CovenantName = 'kyrian' | 'venthyr' | 'nightfae' | 'necrolord';

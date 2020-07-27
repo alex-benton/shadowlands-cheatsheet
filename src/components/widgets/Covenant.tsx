@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import theme, {ClassName} from "../theme";
-import {CovenantAbilityType} from "../types";
+import theme from "../theme";
+import {ClassName, CovenantAbilityType} from "../types";
 // import {formatDescription} from "./common";
 import Icon from "../common/Icon";
 import {formatDescription} from "./common";

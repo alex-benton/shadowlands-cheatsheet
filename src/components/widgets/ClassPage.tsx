@@ -6,6 +6,7 @@ import Legendaries from "./Legendaries";
 import Conduits from "./Conduits";
 import styled from "styled-components";
 import {ClassData} from "../util";
+import Footer from "../common/Footer";
 
 const ClassPage = ({wowClassName, data}: ClassData) => (<Container>
     <PageHeader wowClassName={wowClassName}/>
@@ -23,6 +24,7 @@ const ClassPage = ({wowClassName, data}: ClassData) => (<Container>
             className={wowClassName}
         /> : null}
     </Content>
+    <Footer />
 </Container>)
 
 export default ClassPage;

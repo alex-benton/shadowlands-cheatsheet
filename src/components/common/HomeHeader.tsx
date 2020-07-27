@@ -27,6 +27,7 @@ const Container = styled.div`
     justify-content: center;
     padding: 4px;
     width: calc(100% - 8px);
+    height: 48px;
     position: absolute;
     top: 0;
 `;

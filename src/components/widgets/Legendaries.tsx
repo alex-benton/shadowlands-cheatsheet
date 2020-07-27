@@ -1,8 +1,8 @@
 // inv_artifact_xp02
 import React from "react";
 import styled from "styled-components";
-import theme, {ClassName} from "../theme";
-import {LegendaryType} from "../types";
+import theme from "../theme";
+import {ClassName, LegendaryType} from "../types";
 import Legendary from "./Legendary";
 import Icon from "../common/Icon";
 

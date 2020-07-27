@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import theme, {ClassName, CovenantName} from "../theme";
-import {CovenantAbilityType} from "../types";
+import theme from "../theme";
+import {ClassName, CovenantAbilityType, CovenantName} from "../types";
 import {COVENANT_KYRIAN, COVENANT_NECROLORD, COVENANT_NIGHTFAE, COVENANT_VENTHYR} from "../constants";
 import {map} from "lodash";
 import Icon from "../common/Icon";

@@ -1,7 +1,7 @@
 import SpecIcon from "./SpecIcon";
 import React from "react";
 import styled from "styled-components";
-import {ClassName} from "../theme";
+import {ClassName} from "../types";
 
 export const processTag = (
     tag: string,
@@ -30,7 +30,7 @@ export const processTag = (
     if (tag === 'spec') {
         const spec = stuff[0].toLowerCase();
         return {
-            items: [<SpecIcon key={key} className={className} spec={spec}/>],
+            items: [<SpecIcon key={key} wowClassName={className} spec={spec}/>],
             offset: rest.length - restCopy.length
         }
     }

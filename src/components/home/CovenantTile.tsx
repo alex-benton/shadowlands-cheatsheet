@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import {CovenantName} from "../theme";
 import Icon from "../common/Icon";
+import {CovenantName} from "../types";
 
 type Props = {
     covenantName: CovenantName,

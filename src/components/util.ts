@@ -1,9 +1,19 @@
+//
+// Module containing utility functions that don't fit anywhere else.
+//
+
 import path from "path";
-import {ClassName} from "./theme";
-import {ConduitType, CovenantAbilityType, LegendaryType} from "./types";
+import {ClassName, ConduitType, CovenantAbilityType, LegendaryType} from "./types";
 
+/**
+ * Formats a local (within-the-app) URL string by adding a URL prefix based on the current deployment.
+ *
+ * All within-the-app links need a prefixed URL in order to work when this app is deployed.
+ *
+ * @param url the URL to format
+ * @return the formatted URL.
+ */
 export const urlPrefix = (url: string) : string => process.env.URL_PREFIX ? path.join(process.env.URL_PREFIX, url) : url;
-
 
 /**
  * The type definition for class page data.
