@@ -42,6 +42,8 @@
     "icon": "ability_warrior_safeguard",
     "type": "finesse",
     "specs": [
+      "arms",
+      "fury",
       "protection"
     ],
     "notes": [],
@@ -89,7 +91,11 @@
     "name": "Cacophonous Roar",
     "icon": "ability_fomor_boss_shout",
     "type": "finesse",
-    "specs": [],
+    "specs": [
+      "arms",
+      "fury",
+      "protection"
+    ],
     "notes": [],
     "description": "Intimidating Shout can withstand <dynamic>80%</dynamic> more damage before breaking."
   },
