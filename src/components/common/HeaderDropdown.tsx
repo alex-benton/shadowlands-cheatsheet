@@ -24,7 +24,7 @@ type Option = {
 const HeaderDropdown = ({iconSize, selected, options, placeholder, onSelect}: Props) => {
     const [isActive, setActive] = useState(false);
     const option = selected !== null && selected !== undefined ? options[selected] : placeholder;
-    return <div onMouseEnter={() => setActive(true)} onMouseLeave={() => setActive(false)}>
+    return <Container onMouseEnter={() => setActive(true)} onMouseLeave={() => setActive(false)}>
         <HomeContainer>
             <Icon icon={option.icon} color={option.color} size={iconSize}/>
             <Text color={option.color}>
@@ -50,7 +50,7 @@ const HeaderDropdown = ({iconSize, selected, options, placeholder, onSelect}: Pr
                 }}
             />}
         </OptionContainer>}
-    </div>
+    </Container>
 }
 
 HeaderDropdown.defaultProps = {
@@ -58,6 +58,10 @@ HeaderDropdown.defaultProps = {
 }
 
 export default HeaderDropdown;
+
+const Container = styled.div`
+    display: flex;
+`;
 
 const HomeContainer = styled.div`
     display: flex;
