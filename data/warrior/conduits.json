@@ -10,18 +10,18 @@
       "protection"
     ],
     "notes": [],
-    "description": "The cooldown of \n\n<spec>Arms</spec>\n<dynamic>Die by the Sword</dynamic>\n\n<spec>Fury</spec>\n<dynamic>Enraged Regeneration</dynamic>\n\n<spec>Protection</spec>\n<dynamic>Shield Wall</dynamic>\n\n is reduced by <dynamic>20 sec</dynamic>."
+    "description": "The cooldown of \n\n<spec>Arms</spec>\n<dynamic>Die by the Sword</dynamic>\n\n<spec>Fury</spec>\n<dynamic>Enraged Regeneration</dynamic>\n\n<spec>Protection</spec>\n<dynamic>Shield Wall</dynamic>\n\n is reduced by <dynamic>20 sec - 50 sec</dynamic>."
   },
   {
     "id": "335010",
     "name": "Brutal Vitality",
     "icon": "ability_warrior_renewedvigor",
-    "type": "potency",
+    "type": "endurance",
     "specs": [
       "protection"
     ],
     "notes": [],
-    "description": "<dynamic>6.0%</dynamic> of damage you deal adds to your active Ignore Pain."
+    "description": "<dynamic>6.0% - 12%</dynamic> of damage you deal adds to your active Ignore Pain."
   },
   {
     "id": "335034",
@@ -34,7 +34,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Rallying Cry's duration and health granted are increased by <dynamic>20%</dynamic>."
+    "description": "Rallying Cry's duration and health granted are increased by <dynamic>20% - 50%</dynamic>."
   },
   {
     "id": "335196",
@@ -47,20 +47,20 @@
       "protection"
     ],
     "notes": [],
-    "description": "Intervene reduces damage taken by the target by <dynamic>10%</dynamic>."
+    "description": "Intervene reduces damage taken by the target by <dynamic>10% - 24%</dynamic>."
   },
   {
     "id": "335225",
     "name": "Iron Maiden",
     "icon": "inv_titanium_shield_spike",
-    "type": "potency",
+    "type": "endurance",
     "specs": [
       "arms",
       "fury",
       "protection"
     ],
     "notes": [],
-    "description": "<spec>Arms</spec><spec>Fury</spec>\n<dynamic>Slam</dynamic>\n\n<spec>Protection</spec>\n<dynamic>Revenge</dynamic>\n\n has a <dynamic>4.0%</dynamic> chance to refund a charge of Shield Block."
+    "description": "<spec>Arms</spec><spec>Fury</spec>\n<dynamic>Slam</dynamic>\n\n<spec>Protection</spec>\n<dynamic>Revenge</dynamic>\n\n has a <dynamic>4.0% - 10%</dynamic> chance to refund a charge of Shield Block."
   },
   {
     "id": "335232",
@@ -73,7 +73,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Execute increases the critical strike chance of Execute by 3% for 8 sec, stacking up to <dynamic>6</dynamic> times."
+    "description": "Execute increases the critical strike chance of Execute by 3% for 8 sec, stacking up to <dynamic>6 - 20</dynamic> times."
   },
   {
     "id": "335242",
@@ -84,7 +84,7 @@
       "arms"
     ],
     "notes": [],
-    "description": "Overpower has a <dynamic>6.0%</dynamic> chance to apply Colossus Smash for 3 sec."
+    "description": "Overpower has a <dynamic>6.0% - 15%</dynamic> chance to apply Colossus Smash for 3 sec."
   },
   {
     "id": "335250",
@@ -97,7 +97,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Intimidating Shout can withstand <dynamic>80%</dynamic> more damage before breaking."
+    "description": "Intimidating Shout can withstand <dynamic>80% - 220%</dynamic> more damage before breaking."
   },
   {
     "id": "335260",
@@ -108,7 +108,7 @@
       "arms"
     ],
     "notes": [],
-    "description": "Slam critical strikes reduce the remaining cooldown of \n\n<condition>Ravager</condition>\n<dynamic>Ravager</dynamic>\n\nBladestorm by <dynamic>1.0 sec</dynamic>."
+    "description": "Slam critical strikes reduce the remaining cooldown of \n\n<condition>Ravager</condition>\n<dynamic>Ravager</dynamic>\n\nBladestorm by <dynamic>1.0 sec - 2.4 sec</dynamic>."
   },
   {
     "id": "336191",
@@ -121,18 +121,18 @@
       "protection"
     ],
     "notes": [],
-    "description": "<condition>Impending Victory</condition>\n<dynamic>Impending Victory</dynamic>\n\nVictory Rush heals you for <dynamic>400%</dynamic> of the damage it dealt over 8 sec."
+    "description": "<condition>Impending Victory</condition>\n<dynamic>Impending Victory</dynamic>\n\nVictory Rush heals you for <dynamic>400% - 800%</dynamic> of the damage it dealt over 8 sec."
   },
   {
     "id": "337154",
     "name": "Unnerving Focus",
     "icon": "rogue_shadowfocus",
-    "type": "potency",
+    "type": "endurance",
     "specs": [
       "protection"
     ],
     "notes": [],
-    "description": "Last Stand increases your Rage generation by <dynamic>30%.</dynamic>"
+    "description": "Last Stand increases your Rage generation by <dynamic>30% - 75%.</dynamic>"
   },
   {
     "id": "337162",
@@ -143,7 +143,7 @@
       "fury"
     ],
     "notes": [],
-    "description": "Recklessness lasts <dynamic>20%</dynamic> longer."
+    "description": "Recklessness lasts <dynamic>20% - 60%</dynamic> longer."
   },
   {
     "id": "337214",
@@ -154,7 +154,7 @@
       "fury"
     ],
     "notes": [],
-    "description": "Rampage has a <dynamic>10.0%</dynamic> chance to refund a charge of Raging Blow."
+    "description": "Rampage has a <dynamic>10.0% - 20%</dynamic> chance to refund a charge of Raging Blow."
   },
   {
     "id": "337302",
@@ -165,7 +165,7 @@
       "fury"
     ],
     "notes": [],
-    "description": "Bloodthirst deals <dynamic>40%</dynamic> increased damage to enemies who are below 20% health."
+    "description": "Bloodthirst deals <dynamic>40% - 80%</dynamic> increased damage to enemies who are below 20% health."
   },
   {
     "id": "339259",
@@ -178,7 +178,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Spear of Bastion's instant damage and Rage generation are increased by <dynamic>20%</dynamic>."
+    "description": "Spear of Bastion's instant damage and Rage generation are increased by <dynamic>20% - 40%</dynamic>."
   },
   {
     "id": "339265",
@@ -191,7 +191,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Brandishing the Conqueror's Banner immediately grants you 5 Glory, and while the banner is planted your Strength is increased by <dynamic>12%</dynamic>."
+    "description": "Brandishing the Conqueror's Banner immediately grants you 5 Glory, and while the banner is planted your Strength is increased by <dynamic>12% - 26%</dynamic>."
   },
   {
     "id": "339370",
@@ -204,7 +204,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Condemn's damage dealt and prevented are increased by <dynamic>8%</dynamic> for each nearby enemy, up to <dynamic>40%</dynamic>."
+    "description": "Condemn's damage dealt and prevented are increased by <dynamic>8% - 15%</dynamic> for each nearby enemy, up to <dynamic>40%</dynamic>."
   },
   {
     "id": "339386",
@@ -215,6 +215,6 @@
       "arms"
     ],
     "notes": [],
-    "description": "Mortal Strike has a <dynamic>15%</dynamic> chance to hit an additional time."
+    "description": "Mortal Strike has a <dynamic>15% - 32.5%</dynamic> chance to hit an additional time."
   }
 ]
