@@ -140,6 +140,7 @@ const CategoryHeader = styled.div<{ background: string }>`
     display: flex;
     align-items: center;
     border-radius: 4px;
+    height: 54px;
 `
 
 const CategoryHeaderText = styled.div`

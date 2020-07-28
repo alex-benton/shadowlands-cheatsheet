@@ -61,10 +61,12 @@ export default HeaderDropdown;
 
 const Container = styled.div`
     display: flex;
+    flex-direction: column;
 `;
 
 const HomeContainer = styled.div`
     display: flex;
+    height: 40px;
     align-items: center;
     padding: 4px 8px;
     
