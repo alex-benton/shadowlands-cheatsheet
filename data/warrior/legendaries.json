@@ -216,5 +216,19 @@
     ],
     "notes": [],
     "description": "If Whirlwind \n\n<spec>Protection</spec>\n<dynamic>or Revenge</dynamic>\n\nhits 3 or more enemies, it hits them 1 additional time."
+  },
+  {
+    "id": "335594",
+    "name": "Will of the Berserker",
+    "icon": "warrior_talent_icon_innerrage",
+    "slots": [
+      "Chest",
+      "Back"
+    ],
+    "specs": [
+      "fury"
+    ],
+    "notes": [],
+    "description": "When Recklessness expires, your Critical Strike is increased by 5% for 5 sec. Your Raging Blow will refresh the duration of this effect."
   }
 ]

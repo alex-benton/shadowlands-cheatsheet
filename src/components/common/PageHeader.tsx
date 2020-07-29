@@ -2,7 +2,7 @@ import React, {useContext} from "react";
 import styled from "styled-components";
 import theme from "../theme";
 import Icon from "./Icon";
-import {CLASS_DISPLAY_NAMES, CLASS_SPECS} from "../constants";
+import {CLASS_DISPLAY_NAMES, CLASS_NAMES, CLASS_SPECS} from "../constants";
 import AppLink from "./AppLink";
 import {ClassName} from "../types";
 import HeaderDropdown from "./HeaderDropdown";
@@ -23,7 +23,18 @@ type Props = {
  * header allows the user to select spec and covenant filters which apply to the class page.
  */
 const PageHeader = (props: Props) => {
-    const options = reduce<Record<string, { icon: string, display: string, key: string }>, Record<string, { icon: string, name: string, key: string, color: string }>>(CLASS_SPECS[props.wowClassName], (acc, spec) => {
+    const classOptions = CLASS_NAMES.reduce<Record<string, { icon: string, name: string, key: string, color: string, link: string }>>((acc, val) => {
+        acc[val] = {
+            icon: val,
+            name: CLASS_DISPLAY_NAMES[val],
+            key: val,
+            color: theme.color.classes[val],
+            link: `/classes/${val}`,
+        }
+        return acc;
+    }, {});
+
+    const specOptions = reduce<Record<string, { icon: string, display: string, key: string }>, Record<string, { icon: string, name: string, key: string, color: string }>>(CLASS_SPECS[props.wowClassName], (acc, spec) => {
         acc[spec.key] = {
             icon: spec.icon,
             name: spec.display,
@@ -31,7 +42,7 @@ const PageHeader = (props: Props) => {
             color: theme.color.classes[props.wowClassName]
         };
         return acc;
-    }, {})
+    }, {});
 
     const {filter, setFilter} = useContext(filterContext(props.wowClassName));
 
@@ -48,17 +59,19 @@ const PageHeader = (props: Props) => {
             <HomeContainer>
                 <Text color={'white'}> / </Text>
             </HomeContainer>
-            <HomeContainer>
-                <Icon wowClassName={props.wowClassName} size={36}/>
-                <Text color={theme.color.classes[props.wowClassName]}>{CLASS_DISPLAY_NAMES[props.wowClassName]}</Text>
-            </HomeContainer>
+            <HeaderDropdown
+                selected={props.wowClassName}
+                placeholder={{name: 'Choose a class', color: '#999'}}
+                options={classOptions}
+                clearable={false}
+            />
             <HomeContainer>
                 <Text color={'white'}> - </Text>
             </HomeContainer>
             <HeaderDropdown
                 selected={filter}
                 placeholder={{name: 'Add a spec filter', color: '#999'}}
-                options={options}
+                options={specOptions}
                 onSelect={setFilter}
             />
         </Container>
