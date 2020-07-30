@@ -63,5 +63,189 @@
     ],
     "notes": [],
     "description": "Demonic Circle increases movement speed by 0% for 5 sec."
+  },
+  {
+    "id": "339455",
+    "name": "Corrupting Leer",
+    "icon": "spell_shadow_spectralsight",
+    "type": "potency",
+    "specs": [
+      "affliction"
+    ],
+    "notes": [],
+    "description": "Agony and Unstable Affliction damage has a 3% chance to reduce the cooldown of Summon Darkglare by 5 sec."
+  },
+  {
+    "id": "339481",
+    "name": "Rolling Agony",
+    "icon": "warlock_pvp_cursefragility",
+    "type": "potency",
+    "specs": [
+      "affliction"
+    ],
+    "notes": [],
+    "description": "Increases the duration of Agony by 4 sec."
+  },
+  {
+    "id": "339500",
+    "name": "Focused Malignancy",
+    "icon": "spell_shadow_unstableaffliction_3_purple",
+    "type": "potency",
+    "specs": [
+      "affliction"
+    ],
+    "notes": [],
+    "description": "Malefic Rapture deals 30% increased damage to targets suffering from Unstable Affliction."
+  },
+  {
+    "id": "339576",
+    "name": "Cold Embrace",
+    "icon": "spell_shadow_burningspirit",
+    "type": "potency",
+    "specs": [
+      "affliction"
+    ],
+    "notes": [],
+    "description": "Increases the effectiveness of Shadow Embrace by 33%."
+  },
+  {
+    "id": "339578",
+    "name": "Borne of Blood",
+    "icon": "ability_warlock_improveddemonictactics",
+    "type": "potency",
+    "specs": [
+      "demonology"
+    ],
+    "notes": [],
+    "description": "Hand of Gul'dan has a 15% chance to generate a charge of Demonic Core."
+  },
+  {
+    "id": "339656",
+    "name": "Carnivorous Stalkers",
+    "icon": "warlock_pvp_callfelhunter",
+    "type": "potency",
+    "specs": [
+      "demonology"
+    ],
+    "notes": [],
+    "description": "Your Dreadstalkers' attacks have a 10% chance to trigger an additional Dreadbite."
+  },
+  {
+    "id": "339766",
+    "name": "Tyrant's Soul",
+    "icon": "spell_warlock_soulburn",
+    "type": "potency",
+    "specs": [
+      "demonology"
+    ],
+    "notes": [],
+    "description": "After your Demonic Tyrant expires, gain a Demonic Core and 10% increased damage from your demons for 15 sec."
+  },
+  {
+    "id": "339845",
+    "name": "Fel Commando",
+    "icon": "spell_warlock_summonwrathguard",
+    "type": "potency",
+    "specs": [
+      "demonology"
+    ],
+    "notes": [],
+    "description": "Your Felguard deals 10% more damage and takes 10% less damage."
+  },
+  {
+    "id": "339890",
+    "name": "Duplicitous Havoc",
+    "icon": "spell_fel_firebolt",
+    "type": "potency",
+    "specs": [
+      "destruction"
+    ],
+    "notes": [],
+    "description": "Havoc transfers 10% more damage."
+  },
+  {
+    "id": "339892",
+    "name": "Ashen Remains",
+    "icon": "inv_enchanting_dust",
+    "type": "potency",
+    "specs": [
+      "destruction"
+    ],
+    "notes": [],
+    "description": "Chaos Bolt and Incinerate damage on targets with Immolate increased by 10%."
+  },
+  {
+    "id": "339896",
+    "name": "Combusting Engine",
+    "icon": "ability_rhyolith_immolation",
+    "type": "potency",
+    "specs": [
+      "destruction"
+    ],
+    "notes": [],
+    "description": "Conflagrate increases your remaining Immolate damage by 15% until Immolate expires or is refreshed."
+  },
+  {
+    "id": "340041",
+    "name": "Infernal Brand",
+    "icon": "warlock_pvp_burninglegion",
+    "type": "potency",
+    "specs": [
+      "destruction"
+    ],
+    "notes": [],
+    "description": "Your Infernal's melee attacks cause its target to take 15% increased damage from its Immolation, stacking up to 15 times."
+  },
+  {
+    "id": "340229",
+    "name": "Soul Tithe",
+    "icon": "ability_demonhunter_shatteredsouls",
+    "type": "potency",
+    "specs": [
+      "affliction",
+      "destruction",
+      "demonology"
+    ],
+    "notes": [],
+    "description": "When a target dies under the effect of Scouring Tithe, gain 10% increased damage from your \n\n<spec>Affliction</spec>\n<dynamic>Malefic Rapture - Malefic Rapture</dynamic>\n\n<spec>Demonology</spec>\n<dynamic>demons</dynamic>\n\n<spec>Destruction</spec>\n<dynamic>Chaos Bolt</dynamic>\n\n for 10 sec."
+  },
+  {
+    "id": "340268",
+    "name": "Prolonged Decimation",
+    "icon": "spell_animamaldraxxus_wave",
+    "type": "potency",
+    "specs": [
+      "affliction",
+      "destruction",
+      "demonology"
+    ],
+    "notes": [],
+    "description": "<spec>Destruction (Level 10)</spec>\n<dynamic>Incinerate - Incinerate</dynamic>\n\n<spec>Affliction</spec><spec>Demonology</spec>\n<dynamic>Shadow Bolt</dynamic>\n\n has a 20% chance to not consume a charge of Decimating Bolt."
+  },
+  {
+    "id": "340316",
+    "name": "Catastrophic Origin",
+    "icon": "spell_animarevendreth_orb",
+    "type": "potency",
+    "specs": [
+      "affliction",
+      "destruction",
+      "demonology"
+    ],
+    "notes": [],
+    "description": "Impending Catastrophe's damage over time and the inflicted Curse last 50% longer against your primary target."
+  },
+  {
+    "id": "340348",
+    "name": "Exhumed Soul",
+    "icon": "spell_animaardenweald_debuff",
+    "type": "potency",
+    "specs": [
+      "affliction",
+      "destruction",
+      "demonology"
+    ],
+    "notes": [],
+    "description": "Soul Rot damage and radius increased by 20%, but costs 7% more health."
   }
 ]

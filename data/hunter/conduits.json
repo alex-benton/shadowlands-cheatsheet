@@ -89,5 +89,123 @@
     ],
     "notes": [],
     "description": "Exhilaration heals you for an additional<dynamic> 10.0% - 30%</dynamic> of your maximum health over 8 sec."
+  },
+  {
+    "id": "339459",
+    "name": "Resilience of the Hunter",
+    "icon": "spell_nature_spiritarmor",
+    "type": "endurance",
+    "specs": [
+      "beastmastery",
+      "marksmanship",
+      "survival"
+    ],
+    "notes": [],
+    "description": "When Feign Death ends the damage you take is reduced by<dynamic> 3.0% - 10%</dynamic> for until cancelled."
+  },
+  {
+    "id": "339495",
+    "name": "Reversal of Fortune",
+    "icon": "inv_trickshot",
+    "type": "finesse",
+    "specs": [
+      "beastmastery",
+      "marksmanship",
+      "survival"
+    ],
+    "notes": [],
+    "description": "Successfully interrupting an enemy with \n\n<spec>Beast Mastery</spec><spec>Marksmanship (Level 18)</spec>\n<dynamic>Counter Shot - Counter Shot</dynamic>\n\n<spec>Survival</spec>\n<dynamic>Muzzle</dynamic>\n\n grants <dynamic>1</dynamic> Focus."
+  },
+  {
+    "id": "339558",
+    "name": "Cheetah's Vigor",
+    "icon": "rogue_burstofspeed",
+    "type": "finesse",
+    "specs": [
+      "beastmastery",
+      "marksmanship",
+      "survival"
+    ],
+    "notes": [],
+    "description": "Aspect of the Cheetah secondary movement speed lasts an addtional 3 sec and the cooldown is reduced by<dynamic> 15.0 - 45</dynamic> sec."
+  },
+  {
+    "id": "339651",
+    "name": "Tactical Retreat",
+    "icon": "ability_ensnare",
+    "type": "finesse",
+    "specs": [
+      "beastmastery",
+      "marksmanship",
+      "survival"
+    ],
+    "notes": [],
+    "description": "Disengage slows nearby enemy movement speed by<dynamic> 20.0% - 50%</dynamic> for 3 sec."
+  },
+  {
+    "id": "339704",
+    "name": "Ferocious Appetite",
+    "icon": "ability_hunter_rapidkilling",
+    "type": "potency",
+    "specs": [
+      "beastmastery"
+    ],
+    "notes": [],
+    "description": "Kill Command critical hits reduce the cooldown of Aspect of the Wild by <dynamic>1.0 sec - 2.4 sec</dynamic>."
+  },
+  {
+    "id": "339750",
+    "name": "One With the Beast",
+    "icon": "spell_winston_rage",
+    "type": "potency",
+    "specs": [
+      "beastmastery"
+    ],
+    "notes": [],
+    "description": "Bestial Wrath increases all damage you and your pet deal by <dynamic> 1.0% - 15%</dynamic>."
+  },
+  {
+    "id": "339920",
+    "name": "Sharpshooter's Focus",
+    "icon": "ability_creature_cursed_04",
+    "type": "potency",
+    "specs": [
+      "marksmanship"
+    ],
+    "notes": [],
+    "description": "Trueshot lasts<dynamic> 20.0% - 50%</dynamic> longer."
+  },
+  {
+    "id": "339924",
+    "name": "Brutal Projectiles",
+    "icon": "inv_rapidfire",
+    "type": "potency",
+    "specs": [
+      "marksmanship"
+    ],
+    "notes": [],
+    "description": "Your auto attacks have a 10% chance to cause your next Rapid Fire to deal<dynamic> 1.0% - 5%</dynamic> increased damage for each shot."
+  },
+  {
+    "id": "339973",
+    "name": "Deadly Chain",
+    "icon": "ability_hunter_resistanceisfutile",
+    "type": "potency",
+    "specs": [
+      "marksmanship"
+    ],
+    "notes": [],
+    "description": "Trick Shots secondary damage is increased by<dynamic> 10.0% - 25%</dynamic>."
+  },
+  {
+    "id": "340033",
+    "name": "Powerful Precision",
+    "icon": "ability_hunter_markedshot",
+    "type": "potency",
+    "specs": [
+      "marksmanship"
+    ],
+    "notes": [],
+    "description": "Precise Shots increases the damage of your next Arcane Shot or Multi-Shot by an additional<dynamic> 5.0% - 20%</dynamic>."
   }
 ]

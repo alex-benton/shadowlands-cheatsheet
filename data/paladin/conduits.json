@@ -86,7 +86,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "After it ends, Blessing of Freedom increases the target's movement speed by <dynamic>15 - 30</dynamic>% for 8 sec. After Blessing of Protection or Blessing of Sacrifice ends, the target takes cFFFFFFFF15"
+    "description": "After it ends, Blessing of Freedom increases the target's movement speed by <dynamic>15 - 30</dynamic>% for 8 sec. After Blessing of Protection or Blessing of Sacrifice ends, the target takes <dynamic>15</dynamic>% less damage for 8 sec."
   },
   {
     "id": "339371",
@@ -109,5 +109,167 @@
     ],
     "notes": [],
     "description": "Wake of Ashes burns the target for an additional <dynamic>10 - 25</dynamic>% damage over 6 sec."
+  },
+  {
+    "id": "339518",
+    "name": "Virtuous Command",
+    "icon": "spell_holy_sealofvengeance",
+    "type": "potency",
+    "specs": [
+      "retribution"
+    ],
+    "notes": [],
+    "description": "Judgment grants you Seal of Command for 4 sec, granting your Templar's Verdict, Crusader Strike, Blade of Justice, and weapon attack a 20% chance of dealing <dynamic>10 - 25</dynamic>% additional Holy damage."
+  },
+  {
+    "id": "339531",
+    "name": "Templar's Vindication",
+    "icon": "ability_priest_evangelism",
+    "type": "potency",
+    "specs": [
+      "retribution"
+    ],
+    "notes": [],
+    "description": "Templar's Verdict has a <dynamic>10 - 20</dynamic>% chance to strike again for 6% of its damage."
+  },
+  {
+    "id": "339570",
+    "name": "Enkindled Spirit",
+    "icon": "ability_priest_spiritoftheredeemer",
+    "type": "potency",
+    "specs": [
+      "holy"
+    ],
+    "notes": [],
+    "description": "Aura Master's cooldown is reduced by <dynamic>30.0 sec - 60 sec</dynamic>."
+  },
+  {
+    "id": "339712",
+    "name": "Resplendent Light",
+    "icon": "ability_priest_voidshift",
+    "type": "potency",
+    "specs": [
+      "holy"
+    ],
+    "notes": [],
+    "description": "Holy Light heals up to 5 targets within 5 yds for <dynamic>5 - 5</dynamic>% of its healing."
+  },
+  {
+    "id": "339984",
+    "name": "Focused Light",
+    "icon": "item_holyspark",
+    "type": "potency",
+    "specs": [
+      "holy"
+    ],
+    "notes": [],
+    "description": "Holy Shock's chance to critically strike is increased by <dynamic>15 - 15</dynamic>%."
+  },
+  {
+    "id": "339987",
+    "name": "Untempered Dedication",
+    "icon": "achievement_admiral_of_the_light",
+    "type": "potency",
+    "specs": [
+      "holy"
+    ],
+    "notes": [],
+    "description": "Light of the Martyr's damage and healing is increased by <dynamic>15 - 15</dynamic>% each time it is cast. This effect can stack up to 5 times and lasts for 15 sec."
+  },
+  {
+    "id": "340006",
+    "name": "Vengeful Shock",
+    "icon": "ability_warrior_victoryrush",
+    "type": "potency",
+    "specs": [
+      "protection"
+    ],
+    "notes": [],
+    "description": "Avenger's Shield causes your target to take <dynamic>15 - 45</dynamic>% more Holy damage for 5 sec."
+  },
+  {
+    "id": "340012",
+    "name": "Punish the Guilty",
+    "icon": "inv_shield_1h_armyoflight_c_01",
+    "type": "potency",
+    "specs": [
+      "protection"
+    ],
+    "notes": [],
+    "description": "Shield of the Righteous deals <dynamic>100 - 100</dynamic>% more damage to targets affected by Judgment."
+  },
+  {
+    "id": "340023",
+    "name": "Resolute Defender",
+    "icon": "ability_crown_of_the_heavens_icon",
+    "type": "endurance",
+    "specs": [
+      "protection"
+    ],
+    "notes": [],
+    "description": "Shield of the Righteous extends Ardent Defender's duration by <dynamic>25 - 25</dynamic>%."
+  },
+  {
+    "id": "340030",
+    "name": "Royal Decree",
+    "icon": "achievement_legionpvp7tier3",
+    "type": "endurance",
+    "specs": [
+      "protection"
+    ],
+    "notes": [],
+    "description": "Guardian of Ancient Kings's cooldown is reduced by <dynamic>5 - 10</dynamic> sec, and casting it causes your next Word of Glory to cost no Holy Power."
+  },
+  {
+    "id": "340185",
+    "name": "Prolonged Autumn",
+    "icon": "spell_animaardenweald_buff",
+    "type": "potency",
+    "specs": [
+      "retribution",
+      "holy",
+      "protection"
+    ],
+    "notes": [],
+    "description": "Blessing of Autumn lasts <dynamic>30 - 60</dynamic>% longer."
+  },
+  {
+    "id": "340192",
+    "name": "Righteous Might",
+    "icon": "spell_animamaldraxxus_missile",
+    "type": "potency",
+    "specs": [
+      "retribution",
+      "holy",
+      "protection"
+    ],
+    "notes": [],
+    "description": "Vanquisher's Hammer deals <dynamic>100 - 100</dynamic>% more damage and heals you for the damage done."
+  },
+  {
+    "id": "340212",
+    "name": "Hallowed Discernment",
+    "icon": "spell_animarevendreth_groundstate",
+    "type": "potency",
+    "specs": [
+      "retribution",
+      "holy",
+      "protection"
+    ],
+    "notes": [],
+    "description": "Ashen Hallow strikes the lowest health ally and enemy within it for <dynamic>20 - 50</dynamic>% of its effect."
+  },
+  {
+    "id": "340218",
+    "name": "Ringing Clarity",
+    "icon": "spell_animabastion_orb",
+    "type": "potency",
+    "specs": [
+      "retribution",
+      "holy",
+      "protection"
+    ],
+    "notes": [],
+    "description": "Kyrian Toll has a <dynamic>30 - 30</dynamic>% chance to cast twice on any given target."
   }
 ]

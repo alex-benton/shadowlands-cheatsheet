@@ -216,5 +216,42 @@
     ],
     "notes": [],
     "description": "Mortal Strike has a <dynamic>15% - 32.5%</dynamic> chance to hit an additional time."
+  },
+  {
+    "id": "339818",
+    "name": "Show of Force",
+    "icon": "ability_rogue_reinforcedleather",
+    "type": "potency",
+    "specs": [
+      "protection"
+    ],
+    "notes": [],
+    "description": "Revenge increases the damage of your next Thunder Clap by <dynamic>20% - 40%</dynamic>."
+  },
+  {
+    "id": "339939",
+    "name": "Destructive Reverberations",
+    "icon": "spell_animaardenweald_wave",
+    "type": "potency",
+    "specs": [
+      "arms",
+      "fury",
+      "protection"
+    ],
+    "notes": [],
+    "description": "Ancient Aftershock's cooldown is reduced by <dynamic>15 sec - 28.13 sec</dynamic>."
+  },
+  {
+    "id": "339948",
+    "name": "Disturb the Peace",
+    "icon": "warrior_disruptingshout",
+    "type": "finesse",
+    "specs": [
+      "arms",
+      "fury",
+      "protection"
+    ],
+    "notes": [],
+    "description": "<spec>Protection</spec>\n<dynamic>Shockwave's</dynamic>\n\n<spec>Arms</spec><spec>Fury</spec>\n<dynamic>Piercing Howl's</dynamic>\n\n cooldown is reduced by <dynamic>5 sec</dynamic>."
   }
 ]

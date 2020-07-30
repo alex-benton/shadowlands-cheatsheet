@@ -34,7 +34,7 @@
     "range": "0 yards (Self)",
     "cast_time": "Instant",
     "cooldown": "1.5 minutes",
-    "description": "Turn into a Vulpin, increasing movement speed by 30%. You may reactivate Soulshape to teleport 10 yds forward.\n\nLasts 12 sec, or indefinitely while in a rest area.",
+    "description": "Turn into a Vulpin, teleporting 15 yds forward and increasing your movement speed by 50%. You may reactivate Soulshape every few sec to teleport again.\n\nLasts 12 sec, or indefinitely while in a rest area.",
     "type": "signature",
     "covenant": "nightfae"
   },
@@ -47,7 +47,7 @@
     "range": "0 yards (Self)",
     "cast_time": "Instant",
     "cooldown": "4 seconds",
-    "description": "Teleports you forward 10 yds or until reaching an obstacle.",
+    "description": "Teleports you forward 15 yds or until reaching an obstacle.",
     "type": "signature",
     "covenant": "nightfae"
   },
@@ -100,7 +100,7 @@
     "range": "40 yards (Long)",
     "cast_time": "Instant",
     "cooldown": "30 seconds",
-    "description": "Bless an ally for 30 sec, causing their attacks to have a high chance to deal (75% of Spell power) Holy damage.\n\n<dynamic>Blessing of the Seasons:</dynamic> Turns to Autumn after use.",
+    "description": "Bless an ally for 30 sec, causing their attacks to have a 40% chance to deal 30% additional damage as Holy.\n\n<dynamic>Blessing of the Seasons:</dynamic> Turns to Autumn after use.",
     "type": "combat",
     "className": "paladin",
     "covenant": "nightfae"
@@ -142,7 +142,7 @@
     "range": "40 yards (Long)",
     "cast_time": "Instant",
     "cooldown": "30 seconds",
-    "description": "Bless an ally for 30 sec, increasing their healing done and healing received by 20%.\n\n<dynamic>Blessing of the Seasons:</dynamic> Turns to Summer after use.",
+    "description": "Bless an ally for 30 sec, increasing their healing done by 10% and healing received by 20%.\n\n<dynamic>Blessing of the Seasons:</dynamic> Turns to Summer after use.",
     "type": "combat",
     "className": "paladin",
     "covenant": "nightfae"

@@ -20,7 +20,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Demonic Wards [an additional]<dynamic>8% - 8%</dynamic>."
+    "description": "Demonic Wards \n\n<spec>Vengeance</spec>\n<dynamic>also - also</dynamic>\n\nreduces magic damage taken by \n\n<spec>Havoc</spec>\n<dynamic>an additional</dynamic>\n\n<dynamic>8%</dynamic>."
   },
   {
     "id": "338793",
@@ -55,7 +55,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Your movement speed is increased by <dynamic>15% - 30%</dynamic> after casting \n\n<spec>Havoc</spec>\n<dynamic>Fel Rush</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Infernal Strike</dynamic>"
+    "description": "Consume Magic has a <dynamic>15% - 30%</dynamic> to dispel a second effect."
   },
   {
     "id": "339048",
@@ -113,7 +113,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Spending <dynamic>8 - 15</dynamic> Fury buffs the damage of Eye Beam by 8%."
+    "description": "Targets hit by Throw Glaive take <dynamic>8% - 15%</dynamic> increased damage from Eye Beam."
   },
   {
     "id": "339231",
@@ -126,5 +126,74 @@
     ],
     "notes": [],
     "description": "Immolation Aura's damage is increases by an additional <dynamic>5% - 12.5%</dynamic> each time it deals damage."
+  },
+  {
+    "id": "339423",
+    "name": "Soul Furnace",
+    "icon": "ability_demonhunter_soulcleave4",
+    "type": "potency",
+    "specs": [
+      "vengeance"
+    ],
+    "notes": [],
+    "description": "Every 10 Soul Fragments you consume increases the damage of your next Soul Cleave &nbsp;by <dynamic>15% - 30%</dynamic>."
+  },
+  {
+    "id": "339587",
+    "name": "Demon Muzzle",
+    "icon": "ability_demonhunter_reversemagic",
+    "type": "endurance",
+    "specs": [
+      "vengeance"
+    ],
+    "notes": [],
+    "description": "Sigil of Silence reduces magic damage done to you by <dynamic>5% - 20%</dynamic> when it ends."
+  },
+  {
+    "id": "339644",
+    "name": "Roaring Fire",
+    "icon": "spell_fire_felflamering",
+    "type": "endurance",
+    "specs": [
+      "vengeance"
+    ],
+    "notes": [],
+    "description": "Fel Devastation heals for an additional <dynamic>0% - 0%</dynamic> based on your missing health."
+  },
+  {
+    "id": "339895",
+    "name": "Repeat Decree",
+    "icon": "ability_mount_goatmountwhite",
+    "type": "potency",
+    "specs": [
+      "havoc",
+      "vengeance"
+    ],
+    "notes": [],
+    "description": "Elysian Decree echoes a second sigil 1 second later for <dynamic>50% - 36.36%</dynamic> damage."
+  },
+  {
+    "id": "340028",
+    "name": "Increased Scrutiny",
+    "icon": "spell_animarevendreth_buff",
+    "type": "potency",
+    "specs": [
+      "havoc",
+      "vengeance"
+    ],
+    "notes": [],
+    "description": "Reduce the cooldown of Sinful Brand by <dynamic>1 sec - 15 sec</dynamic>."
+  },
+  {
+    "id": "340063",
+    "name": "Brooding Pool",
+    "icon": "spell_animamaldraxxus_groundstate",
+    "type": "potency",
+    "specs": [
+      "havoc",
+      "vengeance"
+    ],
+    "notes": [],
+    "description": "Increase the duration of Fodder to the Flame by <dynamic>5 sec - 20 sec</dynamic>."
   }
 ]

@@ -269,7 +269,9 @@
     "name": "Holy Oration",
     "icon": "ability_priest_bindingprayers",
     "type": "potency",
-    "specs": ["holy"],
+    "specs": [
+      "holy"
+    ],
     "notes": [],
     "description": "Spells that reduce the cooldowns of your Holy Words reduce them by <dynamic>5 - 20</dynamic>% more."
   }

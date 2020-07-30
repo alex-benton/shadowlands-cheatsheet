@@ -34,7 +34,7 @@
     "range": "0 yards (Self)",
     "cast_time": "Instant",
     "cooldown": "1.5 minutes",
-    "description": "Turn into a Vulpin, increasing movement speed by 30%. You may reactivate Soulshape to teleport 10 yds forward.\n\nLasts 12 sec, or indefinitely while in a rest area.",
+    "description": "Turn into a Vulpin, teleporting 15 yds forward and increasing your movement speed by 50%. You may reactivate Soulshape every few sec to teleport again.\n\nLasts 12 sec, or indefinitely while in a rest area.",
     "type": "signature",
     "covenant": "nightfae"
   },
@@ -47,7 +47,7 @@
     "range": "0 yards (Self)",
     "cast_time": "Instant",
     "cooldown": "4 seconds",
-    "description": "Teleports you forward 10 yds or until reaching an obstacle.",
+    "description": "Teleports you forward 15 yds or until reaching an obstacle.",
     "type": "signature",
     "covenant": "nightfae"
   },

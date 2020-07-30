@@ -11,7 +11,7 @@
       "mistweaver"
     ],
     "notes": [],
-    "description": "Your Tiger Palm, Blackout Kick and Rising Sun Kick heal for 50% of the damage done to an injured ally within 20 yards."
+    "description": "Your Tiger Palm, Blackout Kick and Rising Sun Kick heal for 120% of the damage done to an injured ally within 20 yards."
   },
   {
     "id": "337225",
@@ -143,7 +143,7 @@
       "mistweaver"
     ],
     "notes": [],
-    "description": "Healing with Enveloping Mists or Vivify while channeling Soothing Mists increases their healing done by 6% and reduces their mana cost by 10%. Stacks up to 3 times.\n\nWhen your Soothing Mists channel ends, this effect is cancelled."
+    "description": "Healing with Enveloping Mists or Vivify while channeling Soothing Mists increases their healing done by 15% and reduces their mana cost by 15%. Stacks up to 3 times.\n\nWhen your Soothing Mists channel ends, this effect is cancelled."
   },
   {
     "id": "337473",

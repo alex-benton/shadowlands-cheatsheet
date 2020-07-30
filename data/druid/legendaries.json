@@ -14,7 +14,7 @@
       "feral"
     ],
     "notes": [],
-    "description": "Effects of Thick Hide, Astral Influence, Feline Swiftness, and Ysera's Gift increased by 100%.\n\nWhen you shift into your Affinity's form, you gain Heart of the Wild for 15 sec, once every 1 min."
+    "description": "Effects of Thick Hide, Astral Influence, Feline Swiftness, and Ysera's Gift increased by 75%.\n\nWhen you shift into your Affinity's form, you gain Heart of the Wild for 10 sec, once every 1 min."
   },
   {
     "id": "338657",
@@ -31,7 +31,7 @@
       "feral"
     ],
     "notes": [],
-    "description": "Your damage over time effects occur 25% more quickly and your healing over time effects occur 10% more quickly."
+    "description": "Your damage over time effects deal their damage in 25% less time, and your healing over time effects in 15% less time."
   },
   {
     "id": "338658",
@@ -103,7 +103,7 @@
       "restoration"
     ],
     "notes": [],
-    "description": "You may Lifebloom two targets at once, and Lifebloom's final healing is increased by 200%."
+    "description": "You may Lifebloom two targets at once, and Lifebloom's final healing is increased by 100%."
   },
   {
     "id": "338832",
@@ -131,7 +131,7 @@
       "guardian"
     ],
     "notes": [],
-    "description": "Thrash has a 15% chance to trigger an additional Thrash."
+    "description": "In Bear Form, Thrash has a 15% chance to trigger an additional Thrash."
   },
   {
     "id": "339060",
@@ -159,7 +159,7 @@
       "guardian"
     ],
     "notes": [],
-    "description": "Berserk in Bear Form grants 25% increased damage, 25% Leech, and immunity to effects that cause loss of control of your character."
+    "description": "Berserk in Bear Form grants 25% increased damage, 15% Leech, and immunity to effects that cause loss of control of your character."
   },
   {
     "id": "339063",
@@ -173,7 +173,7 @@
       "guardian"
     ],
     "notes": [],
-    "description": "Barkskin reduces damage by an additional 15%. When it begins and ends, you gain Ironfur and Frenzied Regeneration."
+    "description": "Barkskin reduces damage by an additional 15%. When it begins or ends in Bear Form, you gain Ironfur and Frenzied Regeneration."
   },
   {
     "id": "339064",
@@ -230,5 +230,64 @@
     ],
     "notes": [],
     "description": "Clearcast abilities generate 25% of their Energy cost, and your maximum energy is increased by 60."
+  },
+  {
+    "id": "339942",
+    "name": "Druid Balance Runecarve 3",
+    "icon": "classicon_druid",
+    "slots": [
+      "Legs",
+      "Feet"
+    ],
+    "specs": [
+      "balance"
+    ],
+    "notes": [],
+    "description": "Entering Eclipse increases your critical strike chance with Arcane or Nature spells by 105%, decreasing by 15% every sec."
+  },
+  {
+    "id": "339949",
+    "name": "Timeworn Dreamcatcher",
+    "icon": "ability_creature_cursed_04",
+    "slots": [
+      "Chest",
+      "Finger"
+    ],
+    "specs": [
+      "balance"
+    ],
+    "notes": [],
+    "description": "Starsurge and Starfall reduce the cost of Starsurge and Starfall by 10% for 5 sec, stacking up to 2 times."
+  },
+  {
+    "id": "340053",
+    "name": "Druid Feral Runecarve 4",
+    "icon": "ability_deathwing_bloodcorruption_earth",
+    "slots": [
+      "Wrist",
+      "Hands"
+    ],
+    "specs": [
+      "feral"
+    ],
+    "notes": [],
+    "description": "Combo point-generating abilities reduce the cooldown of \n\n<condition>Incarnation: King of the Jungle</condition>\n<dynamic>Incarnation: King of the Jungle by 0.2</dynamic>\n\nBerserk by 0.2 sec.\n\nDuring \n\n<condition>Incarnation: King of the Jungle</condition>\n<dynamic>Incarnation: King of the Jungle</dynamic>\n\nBerserk, they cause the target to bleed for an additonal 50% of their damage over 8 sec."
+  },
+  {
+    "id": "340059",
+    "name": "Lycara's Fleeting Glimpse",
+    "icon": "spell_unused",
+    "slots": [
+      "Waist",
+      "Feet"
+    ],
+    "specs": [
+      "balance",
+      "restoration",
+      "guardian",
+      "feral"
+    ],
+    "notes": [],
+    "description": "Every 45 sec while in combat, cast a spell based on your form:\n\nNo Form: <dynamic>Wild Growth</dynamic>\nCat Form: <dynamic>Primal Wrath</dynamic>\nBear Form: <dynamic>Barkskin</dynamic>\nMoonkin Form: <dynamic>Starfall</dynamic>\nTravel Form: <dynamic>Stampeding Roar</dynamic>"
   }
 ]
