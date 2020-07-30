@@ -207,7 +207,7 @@
       "demonology"
     ],
     "notes": [],
-    "description": "When a target dies under the effect of Scouring Tithe, gain 10% increased damage from your \n\n<spec>Affliction</spec>\n<dynamic>Malefic Rapture - Malefic Rapture</dynamic>\n\n<spec>Demonology</spec>\n<dynamic>demons</dynamic>\n\n<spec>Destruction</spec>\n<dynamic>Chaos Bolt</dynamic>\n\n for 10 sec."
+    "description": "When a target dies under the effect of Scouring Tithe, gain 10% increased damage from your \n\n<spec>Affliction</spec>\n<dynamic>Malefic Rapture</dynamic>\n\n<spec>Demonology</spec>\n<dynamic>demons</dynamic>\n\n<spec>Destruction</spec>\n<dynamic>Chaos Bolt</dynamic>\n\n for 10 sec."
   },
   {
     "id": "340268",
@@ -220,7 +220,7 @@
       "demonology"
     ],
     "notes": [],
-    "description": "<spec>Destruction (Level 10)</spec>\n<dynamic>Incinerate - Incinerate</dynamic>\n\n<spec>Affliction</spec><spec>Demonology</spec>\n<dynamic>Shadow Bolt</dynamic>\n\n has a 20% chance to not consume a charge of Decimating Bolt."
+    "description": "<spec>Destruction (Level 10)</spec>\n<dynamic>Incinerate</dynamic>\n\n<spec>Affliction</spec><spec>Demonology</spec>\n<dynamic>Shadow Bolt</dynamic>\n\n has a 20% chance to not consume a charge of Decimating Bolt."
   },
   {
     "id": "340316",
