@@ -9,7 +9,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "The cooldown of \n\n<spec>Havoc</spec>\n<dynamic>Blur - Blur</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Fiery Brand</dynamic>\n\n is reduced by <dynamic>10 sec</dynamic>."
+    "description": "The cooldown of \n\n<spec>Havoc</spec>\n<dynamic>Blur - Blur</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Fiery Brand</dynamic>\n\n is reduced by <dynamic>5 sec</dynamic>."
   },
   {
     "id": "338682",
@@ -43,7 +43,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Your movement speed is increased by <dynamic>5% - 20%</dynamic> after casting \n\n<spec>Havoc</spec>\n<dynamic>Fel Rush</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Infernal Strike</dynamic>"
+    "description": "<spec>Havoc</spec>\n<dynamic>Fel Rush</dynamic>\n\n<spec>Vengeance</spec>\n<dynamic>Infernal Strike</dynamic>\n\n increases your movement speed by <dynamic>5% - 20%</dynamic> for 8 sec."
   },
   {
     "id": "338835",
@@ -55,7 +55,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Consume Magic has a <dynamic>15% - 30%</dynamic> to dispel a second effect."
+    "description": "Consume Magic has a <dynamic>15% - 30%</dynamic> chance to remove a second beneficial Magic effect from the target."
   },
   {
     "id": "339048",
@@ -67,7 +67,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Enemies that leave your Imprison are snared by 50% for <dynamic>10 sec - 40 sec</dynamic>."
+    "description": "Enemies that leave your Imprison have their movement speed reduced by 50% for <dynamic>5.0 sec - 20 sec</dynamic>."
   },
   {
     "id": "339149",
@@ -79,7 +79,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Increases the duration of Spectral Sight by <dynamic>3 sec - 10 sec</dynamic>."
+    "description": "Spectral Sight lasts an additional <dynamic>3 sec - 10 sec</dynamic> if disrupted by attacking or taking damage."
   },
   {
     "id": "339151",
@@ -90,7 +90,7 @@
       "havoc"
     ],
     "notes": [],
-    "description": "Demon's Bite increases the damage of other abilities by <dynamic>5% - 16.67%</dynamic>."
+    "description": "Demon's Bite increases the damage of other abilities by <dynamic>3% - 10%</dynamic>."
   },
   {
     "id": "339228",
@@ -101,7 +101,7 @@
       "havoc"
     ],
     "notes": [],
-    "description": "Blade Dance has a <dynamic>5% - 20%</dynamic> chance to apply Essence Break."
+    "description": "Blade Dance has a <dynamic>5.0% - 20%</dynamic> chance to apply Essence Break."
   },
   {
     "id": "339230",
@@ -113,7 +113,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Targets hit by Throw Glaive take <dynamic>8% - 15%</dynamic> increased damage from Eye Beam."
+    "description": "Enemies hit by Throw Glaive take <dynamic>8.0% - 15%</dynamic> increased damage from Eye Beam."
   },
   {
     "id": "339231",
@@ -125,7 +125,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Immolation Aura's damage is increases by an additional <dynamic>5% - 12.5%</dynamic> each time it deals damage."
+    "description": "Immolation Aura's damage increases by <dynamic>10.0% - 25%</dynamic> each time it deals damage."
   },
   {
     "id": "339423",
@@ -136,7 +136,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Every 10 Soul Fragments you consume increases the damage of your next Soul Cleave &nbsp;by <dynamic>15% - 30%</dynamic>."
+    "description": "Every 10 Soul Fragments you consume increases the damage of your next Soul Cleave by <dynamic>15% - 30%</dynamic>."
   },
   {
     "id": "339587",
@@ -147,7 +147,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Sigil of Silence reduces magic damage done to you by <dynamic>5% - 20%</dynamic> when it ends."
+    "description": "When Sigil of Silence's effect ends, affected enemies deal <dynamic>5.0% - 20%</dynamic> reduced magic damage to you for 6 sec."
   },
   {
     "id": "339644",
@@ -158,7 +158,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Fel Devastation heals for an additional <dynamic>0% - 0%</dynamic> based on your missing health."
+    "description": "Fel Devastation heals you for up to <dynamic>30% - 45%</dynamic> more, based on your missing health."
   },
   {
     "id": "339895",
@@ -170,7 +170,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Elysian Decree echoes a second sigil 1 second later for <dynamic>50% - 36.36%</dynamic> damage."
+    "description": "Elysian Decree echoes a second sigil 1 second later for <dynamic>45% - 32.73%</dynamic> damage."
   },
   {
     "id": "340028",
@@ -194,6 +194,18 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Increase the duration of Fodder to the Flame by <dynamic>5 sec - 20 sec</dynamic>."
+    "description": "Increases the duration of Fodder to the Flame by <dynamic>5 sec - 20 sec</dynamic>."
+  },
+  {
+    "id": "344358",
+    "name": "Unnatural Mailce",
+    "icon": "spell_animaardenweald_missile",
+    "type": "potency",
+    "specs": [
+      "havoc",
+      "vengeance"
+    ],
+    "notes": [],
+    "description": "Increase the damage of The Hunt's strike against its primary target by <dynamic>20% - 48%</dynamic>."
   }
 ]

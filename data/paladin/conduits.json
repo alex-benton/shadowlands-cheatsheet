@@ -10,7 +10,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Divine Shield's cooldown is reduced by 5 sec when you take damage. This effect can only trigger once every <dynamic>30 - 15</dynamic> sec."
+    "description": "Divine Shield's remaining cooldown is reduced by 5 sec when you take damage. This effect can only occur once every <dynamic>30.0 sec - 15 sec</dynamic>."
   },
   {
     "id": "338787",
@@ -21,7 +21,7 @@
       "holy"
     ],
     "notes": [],
-    "description": "Word of Glory applies absorb shield that lasts 10 sec for <dynamic>15 - 30</dynamic>% healing on the Paladin when used."
+    "description": "Casting Word of Glory grants you a shield that prevents damage equal to <dynamic>15.0% - 30%</dynamic> of the healing done by Word of Glory. Lasts 10 sec."
   },
   {
     "id": "339114",
@@ -34,7 +34,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Consecration heals you for <dynamic>50 - 100</dynamic>% of Consecration's damage every sec while standing within it."
+    "description": "Consecration heals you for <dynamic>[200 / 100 * (5% of Attack power)] - [480 / 100 * (5% of Attack power)]</dynamic> every 1 sec while standing within it."
   },
   {
     "id": "339124",
@@ -47,7 +47,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Crusader Aura reduces all allies' Fear duration by <dynamic>30 - 60</dynamic>%."
+    "description": "Crusader Aura reduces the duration of incoming Fear effects on your allies by <dynamic>30.0% - 60%</dynamic>."
   },
   {
     "id": "339268",
@@ -60,7 +60,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Divine Steed's duration is increased by <dynamic>50 - 100</dynamic>%."
+    "description": "Divine Steed's duration is increased by <dynamic>50.0% - 100%</dynamic>."
   },
   {
     "id": "339292",
@@ -73,7 +73,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Turn Evil's cast time is reduced by <dynamic>50 - 100</dynamic>% and its range is increased by 10 yds."
+    "description": "Turn Evil's cast time is reduced by <dynamic>50% - 100%</dynamic>, and its range is increased by 10 yds."
   },
   {
     "id": "339316",
@@ -86,18 +86,18 @@
       "protection"
     ],
     "notes": [],
-    "description": "After it ends, Blessing of Freedom increases the target's movement speed by <dynamic>15 - 30</dynamic>% for 8 sec. After Blessing of Protection or Blessing of Sacrifice ends, the target takes <dynamic>15</dynamic>% less damage for 8 sec."
+    "description": "Blessing of Freedom increases the target's movement speed by <dynamic>5.0% - 12%</dynamic>. Blessing of Protection and Blessing of Sacrifice reduce the target's damage taken by <dynamic>5.0%</dynamic>. These effects linger for 8 sec after the Blessing ends."
   },
   {
     "id": "339371",
-    "name": "Light's Reach",
-    "icon": "ability_priest_flashoflight",
+    "name": "Expurgation",
+    "icon": "ability_paladin_bladeofjustice",
     "type": "potency",
     "specs": [
       "retribution"
     ],
     "notes": [],
-    "description": "Blade of Justice's range is increased by 2 yds and deals <dynamic>20 - 50</dynamic>% more damage."
+    "description": "Your Blade of Justice critical hits cause the target to burn for <dynamic>15.0% - 36%</dynamic> of the damage dealt every 2 sec for 6 sec."
   },
   {
     "id": "339374",
@@ -108,7 +108,7 @@
       "retribution"
     ],
     "notes": [],
-    "description": "Wake of Ashes burns the target for an additional <dynamic>10 - 25</dynamic>% damage over 6 sec."
+    "description": "Wake of Ashes burns the target for an additional <dynamic>15.0% - 36%</dynamic> damage over 6 sec."
   },
   {
     "id": "339518",
@@ -119,7 +119,7 @@
       "retribution"
     ],
     "notes": [],
-    "description": "Judgment grants you Seal of Command for 4 sec, granting your Templar's Verdict, Crusader Strike, Blade of Justice, and weapon attack a 20% chance of dealing <dynamic>10 - 25</dynamic>% additional Holy damage."
+    "description": "Judgment grants you Virtuous Command for 6 sec, which gives your Templar's Verdict, Crusader Strike, Blade of Justice, and auto attacks a 40% chance to deal <dynamic>20.0% - 48%</dynamic> additional Holy damage."
   },
   {
     "id": "339531",
@@ -130,7 +130,7 @@
       "retribution"
     ],
     "notes": [],
-    "description": "Templar's Verdict has a <dynamic>10 - 20</dynamic>% chance to strike again for 6% of its damage."
+    "description": "Templar's Verdict has a <dynamic>20.0% - 48%</dynamic> chance to strike again for 15% of its damage."
   },
   {
     "id": "339570",
@@ -141,7 +141,7 @@
       "holy"
     ],
     "notes": [],
-    "description": "Aura Master's cooldown is reduced by <dynamic>30.0 sec - 60 sec</dynamic>."
+    "description": "Aura Mastery increases the healing of your next 3 Light of Dawns by <dynamic>40.0% - 96%</dynamic>."
   },
   {
     "id": "339712",
@@ -152,7 +152,7 @@
       "holy"
     ],
     "notes": [],
-    "description": "Holy Light heals up to 5 targets within 5 yds for <dynamic>5 - 5</dynamic>% of its healing."
+    "description": "Holy Light heals up to 5 targets within 8 yds for <dynamic>5.0% - 12%</dynamic> of its healing."
   },
   {
     "id": "339984",
@@ -163,7 +163,7 @@
       "holy"
     ],
     "notes": [],
-    "description": "Holy Shock's chance to critically strike is increased by <dynamic>15 - 15</dynamic>%."
+    "description": "Holy Shock's critical effect chance is increased by <dynamic>5.0% - 12%</dynamic>."
   },
   {
     "id": "339987",
@@ -174,7 +174,7 @@
       "holy"
     ],
     "notes": [],
-    "description": "Light of the Martyr's damage and healing is increased by <dynamic>15 - 15</dynamic>% each time it is cast. This effect can stack up to 5 times and lasts for 15 sec."
+    "description": "Light of the Martyr's damage and healing is increased by <dynamic>5.0% - 5%</dynamic> each time it is cast. This effect can stack up to 5 times and lasts for 15 sec."
   },
   {
     "id": "340006",
@@ -185,7 +185,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Avenger's Shield causes your target to take <dynamic>15 - 45</dynamic>% more Holy damage for 5 sec."
+    "description": "Avenger's Shield causes your target to take <dynamic>15.0% - 45%</dynamic> increased Holy damage from you for 5 sec."
   },
   {
     "id": "340012",
@@ -196,7 +196,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Shield of the Righteous deals <dynamic>100 - 100</dynamic>% more damage to targets affected by Judgment."
+    "description": "Shield of the Righteous deals <dynamic>50% - 120%</dynamic> more damage to targets affected by Judgment."
   },
   {
     "id": "340023",
@@ -207,7 +207,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Shield of the Righteous extends Ardent Defender's duration by <dynamic>25 - 25</dynamic>%."
+    "description": "Shield of the Righteous extends Ardent Defender's duration by <dynamic>25.0% - 25%</dynamic>."
   },
   {
     "id": "340030",
@@ -218,11 +218,11 @@
       "protection"
     ],
     "notes": [],
-    "description": "Guardian of Ancient Kings's cooldown is reduced by <dynamic>5 - 10</dynamic> sec, and casting it causes your next Word of Glory to cost no Holy Power."
+    "description": "Guardian of Ancient Kings's cooldown is reduced by <dynamic>15.0 sec - 30 sec</dynamic>, and casting it causes your next Word of Glory to cost no Holy Power."
   },
   {
     "id": "340185",
-    "name": "Prolonged Autumn",
+    "name": "The Long Summer",
     "icon": "spell_animaardenweald_buff",
     "type": "potency",
     "specs": [
@@ -231,7 +231,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Blessing of Autumn lasts <dynamic>30 - 60</dynamic>% longer."
+    "description": "Blessing of Summer lasts <dynamic>30.0% - 60%</dynamic> longer."
   },
   {
     "id": "340192",
@@ -244,7 +244,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Vanquisher's Hammer deals <dynamic>100 - 100</dynamic>% more damage and heals you for the damage done."
+    "description": "Vanquisher's Hammer deals <dynamic>100% - 250%</dynamic> increased damage, and heals you for the damage done."
   },
   {
     "id": "340212",
@@ -257,7 +257,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Ashen Hallow strikes the lowest health ally and enemy within it for <dynamic>20 - 50</dynamic>% of its effect."
+    "description": "Ashen Hallow strikes the lowest health ally and enemy within it an additional time for <dynamic>40.0% - 96%</dynamic> of its effect."
   },
   {
     "id": "340218",
@@ -270,6 +270,6 @@
       "protection"
     ],
     "notes": [],
-    "description": "Kyrian Toll has a <dynamic>30 - 30</dynamic>% chance to cast twice on any given target."
+    "description": "Divine Toll has a <dynamic>40.0% - 96%</dynamic> chance to cast 2 extra time on the main target."
   }
 ]

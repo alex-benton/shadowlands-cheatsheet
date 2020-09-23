@@ -10,7 +10,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "The cooldown of \n\n<spec>Arms</spec>\n<dynamic>Die by the Sword</dynamic>\n\n<spec>Fury</spec>\n<dynamic>Enraged Regeneration</dynamic>\n\n<spec>Protection</spec>\n<dynamic>Shield Wall</dynamic>\n\n is reduced by <dynamic>20 sec - 50 sec</dynamic>."
+    "description": "The cooldown of \n\n<spec>Arms</spec>\n<dynamic>Die by the Sword</dynamic>\n\n<spec>Fury</spec>\n<dynamic>Enraged Regeneration</dynamic>\n\n<spec>Protection</spec>\n<dynamic>Shield Wall</dynamic>\n\n is reduced by ."
   },
   {
     "id": "335010",
@@ -60,7 +60,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "<spec>Arms</spec><spec>Fury</spec>\n<dynamic>Slam</dynamic>\n\n<spec>Protection</spec>\n<dynamic>Revenge</dynamic>\n\n has a <dynamic>4.0% - 10%</dynamic> chance to refund a charge of Shield Block."
+    "description": "<spec>Arms</spec><spec>Fury</spec>\n<dynamic>Slam - Slam</dynamic>\n\n<spec>Protection</spec>\n<dynamic>Revenge</dynamic>\n\n has a <dynamic>4.0%</dynamic> chance to refund a charge of Shield Block."
   },
   {
     "id": "335232",
@@ -108,7 +108,7 @@
       "arms"
     ],
     "notes": [],
-    "description": "Slam critical strikes reduce the remaining cooldown of \n\n<condition>Ravager</condition>\n<dynamic>Ravager</dynamic>\n\nBladestorm by <dynamic>1.0 sec - 2.4 sec</dynamic>."
+    "description": "Slam critical strikes reduce the remaining cooldown of \n\n<condition>Ravager</condition>\n<dynamic>Ravager</dynamic>\n\nBladestorm by <dynamic>1.0 sec</dynamic>."
   },
   {
     "id": "336191",
@@ -121,7 +121,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "<condition>Impending Victory</condition>\n<dynamic>Impending Victory</dynamic>\n\nVictory Rush heals you for <dynamic>400% - 800%</dynamic> of the damage it dealt over 8 sec."
+    "description": "<condition>Impending Victory</condition>\n<dynamic>Impending Victory</dynamic>\n\nVictory Rush heals you for <dynamic>400%</dynamic> of the damage it dealt over 8 sec."
   },
   {
     "id": "337154",
@@ -132,7 +132,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Last Stand increases your Rage generation by <dynamic>30% - 75%.</dynamic>"
+    "description": "Last Stand increases your Rage generation by <dynamic>30%. - 75%.</dynamic>"
   },
   {
     "id": "337162",
@@ -191,7 +191,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Brandishing the Conqueror's Banner immediately grants you 5 Glory, and while the banner is planted your Strength is increased by <dynamic>12% - 26%</dynamic>."
+    "description": "Brandishing the Conqueror's Banner immediately grants you 5 Glory, and while the banner is planted your Strength is increased by <dynamic>12.0% - 26%</dynamic>."
   },
   {
     "id": "339370",
@@ -204,7 +204,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Condemn's damage dealt and prevented are increased by <dynamic>8% - 15%</dynamic> for each nearby enemy, up to <dynamic>40%</dynamic>."
+    "description": "Condemn's damage dealt and prevented are increased by <dynamic>8.0% - 15%</dynamic> for each nearby enemy, up to <dynamic>40%</dynamic>."
   },
   {
     "id": "339386",
@@ -215,7 +215,7 @@
       "arms"
     ],
     "notes": [],
-    "description": "Mortal Strike has a <dynamic>15% - 32.5%</dynamic> chance to hit an additional time."
+    "description": "Mortal Strike has a <dynamic>12% - 26%</dynamic> chance to trigger a second Mortal Strike."
   },
   {
     "id": "339818",
@@ -239,7 +239,7 @@
       "protection"
     ],
     "notes": [],
-    "description": "Ancient Aftershock's cooldown is reduced by <dynamic>15 sec - 28.13 sec</dynamic>."
+    "description": "Ancient Aftershock's cooldown is reduced by <dynamic>16 sec - 30 sec</dynamic>."
   },
   {
     "id": "339948",

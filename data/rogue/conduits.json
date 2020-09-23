@@ -1,1 +1,209 @@
-[]
+[
+  {
+    "id": "341264",
+    "name": "Reverberation",
+    "icon": "ability_bastion_rogue",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Echoing Reprimand's damage is increased by <dynamic>50% - 120%</dynamic>."
+  },
+  {
+    "id": "341272",
+    "name": "Sudden Fractures",
+    "icon": "ability_maldraxxus_rogue",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Serrated Bone Spike's bleed has a <dynamic>3.0% - 10%</dynamic> chance to deal its damage a second time."
+  },
+  {
+    "id": "341309",
+    "name": "Septic Shock",
+    "icon": "ability_ardenweald_rogue",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Sepsis's damage over time is increased by <dynamic>50% - 190%</dynamic>, reduced by 10% each time it deals damage."
+  },
+  {
+    "id": "341310",
+    "name": "Slaughter Scars",
+    "icon": "ability_revendreth_rogue",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Slaughter's damage and critical strike chance are increased by <dynamic>12% - 40%</dynamic>, or by <dynamic>24%</dynamic> if Slaughter Poison is active."
+  },
+  {
+    "id": "341311",
+    "name": "Nimble Fingers",
+    "icon": "ability_paladin_handoflight",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Energy cost of Feint and Crimson Vial reduced by <dynamic>5 - 20</dynamic>."
+  },
+  {
+    "id": "341312",
+    "name": "Recuperator",
+    "icon": "ability_rogue_recuperate",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Slice and Dice heals you for up to <dynamic>18.0% - 54%</dynamic> of your maximum health over 36 sec."
+  },
+  {
+    "id": "341529",
+    "name": "Cloaked in Shadows",
+    "icon": "inv_icon_shadowcouncilorb_purple",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Entering Stealth cloaks you in shadows, absorbing <dynamic>10.0% - 24%</dynamic> of your maximum health in damage, reduced by 1% each second outside of Stealth."
+  },
+  {
+    "id": "341531",
+    "name": "Quick Decisions",
+    "icon": "inv_icon_shadowcouncilorb_purple",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "<spec>Outlaw (Level 18)</spec>\n<dynamic>Grappling Hook - Grappling Hook</dynamic>\n\n<spec>Assassination</spec><spec>Subtlety</spec>\n<dynamic>Shadowstep</dynamic>\n\n's cooldown is reduced by 10%, and its maximum range is increased by <dynamic>12%</dynamic>."
+  },
+  {
+    "id": "341532",
+    "name": "Fade to Nothing",
+    "icon": "ability_rogue_sprint_blue",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Gaining Stealth, Vanish, or Shroud of Concealment increases movement speed by <dynamic>10% - 25%</dynamic> for 3 sec."
+  },
+  {
+    "id": "341534",
+    "name": "Rushed Setup",
+    "icon": "ability_rogue_unfairadvantage",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "The Energy costs of Kidney Shot, Cheap Shot, Sap, and Distract are reduced by <dynamic>(-- 10)% - (-- 45)%</dynamic>."
+  },
+  {
+    "id": "341535",
+    "name": "Prepared for All",
+    "icon": "ability_rogue_wrongfullyaccused",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Dodging attacks reduces the remaining cooldown of Evasion by <dynamic>1.0 sec - 4 sec</dynamic>.\n\nSuccessful interrupts with Kick reduce the remaining cooldown of Cloak of Shadows by <dynamic>2.0 sec</dynamic>."
+  },
+  {
+    "id": "341536",
+    "name": "Poisoned Katar",
+    "icon": "ability_rogue_fanofknives",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Fan of Knives's damage is increased by <dynamic>8% - 36%</dynamic>, and it has a <dynamic>8%</dynamic> increased poison application chance."
+  },
+  {
+    "id": "341537",
+    "name": "Well-Placed Steel",
+    "icon": "inv_throwingknife_04",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Shiv's damage is increased by <dynamic>100% - 300%</dynamic> on bleeding targets, and it extends the duration of your Envenom by <dynamic>1.0 sec</dynamic>."
+  },
+  {
+    "id": "341538",
+    "name": "Maim, Mangle",
+    "icon": "ability_rogue_shadowstrikes",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Garrote increases the damage of your Mutilate on the target by <dynamic>20% - 60%</dynamic>."
+  },
+  {
+    "id": "341539",
+    "name": "Lethal Poisons",
+    "icon": "ability_rogue_deviouspoisons",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "The instant damage of your lethal poisons is increased by <dynamic>30% - 100%</dynamic>."
+  },
+  {
+    "id": "341540",
+    "name": "Triple Threat",
+    "icon": "ability_rogue_shadowstrikes",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Sinister Strike has a <dynamic>20% - 35%</dynamic> chance to strike with both weapons after it strikes an additional time."
+  },
+  {
+    "id": "341542",
+    "name": "Ambidexterity",
+    "icon": "ability_rogue_shadowstrikes",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Main Gauche has an additional <dynamic>10% - 24%</dynamic> chance to strike while Blade Flurry is active."
+  },
+  {
+    "id": "341543",
+    "name": "Sleight of Hand",
+    "icon": "ability_rogue_rollthebones",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Roll the Bones has a <dynamic>7.0% - 21%</dynamic> chance of instantly resetting its cooldown."
+  },
+  {
+    "id": "341546",
+    "name": "Count the Odds",
+    "icon": "ability_rogue_waylay",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Ambush\n\n<condition>Slaughter</condition>\n<dynamic>Slaughter</dynamic>\n\n and Dispatch have a <dynamic>7.0%</dynamic> chance to grant you a Roll the Bones combat enhancement buff you do not already have for 5 sec.\n\nDuration and chance tripled while Stealthed."
+  },
+  {
+    "id": "341549",
+    "name": "Deeper Daggers",
+    "icon": "ability_rogue_focusedattacks",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Eviscerate and Shadow Vault increase your Shadow damage dealt by <dynamic>30% - 150%</dynamic> for 5 sec."
+  },
+  {
+    "id": "341556",
+    "name": "Planned Execution",
+    "icon": "spell_shadow_rune",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Symbols of Death increases your critical strike chance by <dynamic>6.0% - 34%</dynamic>."
+  },
+  {
+    "id": "341559",
+    "name": "Stiletto Staccato",
+    "icon": "ability_rogue_masterofsubtlety",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Shadow Techniques now also reduces the remaining cooldown of Shadow Blades by <dynamic>1.0 sec - 2.5 sec</dynamic>."
+  },
+  {
+    "id": "341567",
+    "name": "Perforated Veins",
+    "icon": "ability_rogue_shadowstrike",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Shadowstrike increases the damage of your next Backstab by <dynamic>30% - 100%</dynamic>, stacking up to 3 times."
+  }
+]

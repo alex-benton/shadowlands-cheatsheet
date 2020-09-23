@@ -10,7 +10,7 @@
       "restoration"
     ],
     "notes": [],
-    "description": "Reincarnation's cooldown is reduced by <dynamic>3.0 - 10</dynamic> min, and reincarnating instantly grants you Astral Shift."
+    "description": "Reincarnation's cooldown is reduced by <dynamic>3 min - 10 min</dynamic>, and reincarnating instantly grants you Astral Shift."
   },
   {
     "id": "337974",
@@ -75,7 +75,7 @@
       "restoration"
     ],
     "notes": [],
-    "description": "<condition>Heroism</condition>\n<dynamic>Heroism - Heroism</dynamic>\n\nBloodlust or any similar effects also grant you <dynamic>4.0 sec</dynamic> of \n\n<spec>Enhancement</spec>\n<dynamic>Spirit Walk</dynamic>\n\n<spec>Elemental</spec><spec>Restoration</spec>\n<dynamic>Spiritwalker's Grace</dynamic>"
+    "description": "<condition>Heroism</condition>\n<dynamic>Heroism</dynamic>\n\nBloodlust or any similar effects also grant you <dynamic>4.0 sec</dynamic> of \n\n<spec>Enhancement</spec>\n<dynamic>Spirit Walk</dynamic>\n\n<spec>Elemental</spec><spec>Restoration</spec>\n<dynamic>Spiritwalker's Grace</dynamic>"
   },
   {
     "id": "338054",
@@ -99,7 +99,7 @@
       "elemental"
     ],
     "notes": [],
-    "description": "Lightning Bolt has a <dynamic>30% - 60%</dynamic> chance to generate an extra stack of Fulmination."
+    "description": "Lightning Bolt has a <dynamic>30% - 60%</dynamic> chance to generate double Maelstrom."
   },
   {
     "id": "338252",
@@ -121,7 +121,7 @@
       "elemental"
     ],
     "notes": [],
-    "description": "<condition>Storm Elemental</condition>\n<dynamic>Storm Elemental - Storm Elemental</dynamic>\n\nFire Elemental lasts <dynamic>15%</dynamic> longer."
+    "description": "<condition>Storm Elemental</condition>\n<dynamic>Storm Elemental</dynamic>\n\nFire Elemental lasts <dynamic>15%</dynamic> longer."
   },
   {
     "id": "338307",
@@ -165,7 +165,7 @@
       "enhancement"
     ],
     "notes": [],
-    "description": "Frost Shock has a <dynamic>20% - 33.33%</dynamic> chance to grant 2 stack of Maelstrom Weapon."
+    "description": "Frost Shock has a <dynamic>21% - 35%</dynamic> chance to grant 2 stack of Maelstrom Weapon."
   },
   {
     "id": "338329",
@@ -198,7 +198,7 @@
       "restoration"
     ],
     "notes": [],
-    "description": "Using Healing Stream Totem increases the healing of your next 3 Healing Surge, Healing Wave, or Riptide spells by <dynamic>20% - 40%</dynamic>."
+    "description": "Using \n\n<condition>Cloudburst Totem</condition>\n<dynamic>Cloudburst Totem</dynamic>\n\nHealing Stream Totem increases the healing of your next 3 Healing Surge, Healing Wave, or Riptide spells by <dynamic>20%</dynamic>."
   },
   {
     "id": "338343",
@@ -209,7 +209,7 @@
       "restoration"
     ],
     "notes": [],
-    "description": "Using Healing Tide Totem increases the healing of your Healing Rain by <dynamic>150% - 281.25%</dynamic> for 20 sec."
+    "description": "Using Healing Tide Totem increases the healing of your Healing Rain by <dynamic>160% - 300%</dynamic> for 20 sec."
   },
   {
     "id": "338346",
@@ -246,7 +246,7 @@
       "restoration"
     ],
     "notes": [],
-    "description": "Fae Transfusion deals <dynamic>10% - 20%</dynamic> increased damage, and channels <dynamic>10%</dynamic> faster."
+    "description": "Fae Transfusion deals <dynamic>15% - 30%</dynamic> increased damage, and channels <dynamic>15%</dynamic> faster."
   },
   {
     "id": "339185",

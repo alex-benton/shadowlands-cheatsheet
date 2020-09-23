@@ -10,7 +10,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Expel Harm's healing is increased by <dynamic>20% - 35%</dynamic>."
+    "description": "Expel Harm's healing is increased by <dynamic>20.0% - 35%</dynamic>."
   },
   {
     "id": "336452",
@@ -21,7 +21,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Fists of Fury's damage is increased by <dynamic>20% - 35%</dynamic>."
+    "description": "Fists of Fury's damage is increased by <dynamic>4.0% - 9.6%</dynamic>."
   },
   {
     "id": "336526",
@@ -32,7 +32,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Spinning Crane Kick's bonus from striking a unique target with Tiger Palm, Blackout Kick, or Rising Sun Kick is increased by an additional <dynamic>10% - 25%</dynamic>."
+    "description": "Spinning Crane Kick's bonus from striking a unique target with Tiger Palm, Blackout Kick, or Rising Sun Kick is increased by an additional <dynamic>10.0% - 25%</dynamic>."
   },
   {
     "id": "336598",
@@ -43,7 +43,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "When Storm, Earth, and Fire spirits fixate on the same target, they deal <dynamic>10% - 25%</dynamic> additional damage."
+    "description": "<condition>Serenity</condition>\n\n\nWhen your Storm, Earth, and Fire spirits fixate on the same target, they deal <dynamic>7.0% - 16.8%</dynamic> increased damage."
   },
   {
     "id": "336616",
@@ -54,7 +54,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Abilities that activate Combo Strikes reduce the cooldown of Invoke Xuen, the White Tiger by 0.5 sec, and Xuen's damage is increased by <dynamic>10% - 25%</dynamic>."
+    "description": "Abilities that activate Combo Strikes reduce the cooldown of Invoke Xuen, the White Tiger by 0.1 sec, and Xuen's damage is increased by <dynamic>8.0% - 19.2%</dynamic>."
   },
   {
     "id": "336632",
@@ -67,7 +67,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "When casting Vivify on yourself, its heal is increased by <dynamic>10% - 25%</dynamic>, and it has a chance to refund its cost."
+    "description": "When casting Vivify on yourself, its healing is increased by <dynamic>10.0% - 25%</dynamic>, and it has a 30% chance to refund its cost."
   },
   {
     "id": "336773",
@@ -78,7 +78,7 @@
       "mistweaver"
     ],
     "notes": [],
-    "description": "Abilities that activate Gust of Mist reduce the cooldown on Invoke Yul'on, the Jade Serpent by 0.5 sec, and Yu'lon's Celestial Breath healing is increased by <dynamic>10% - 25%</dynamic>."
+    "description": "Abilities that activate Gust of Mist reduce the cooldown on \n\n<condition>Invoke Chi-Ji, the Red Crane</condition>\n<dynamic>Invoke Chi-Ji, the Red Crane</dynamic>\n\nInvoke Yul'on, the Jade Serpent by 0.5 sec, and \n\n<condition>Invoke Chi-Ji, the Red Crane</condition>\n<dynamic>Chi-Ji's Gusts of Mists</dynamic>\n\nYu'lon's Celestial Breath healing is increased by <dynamic>10.0%</dynamic>."
   },
   {
     "id": "336812",
@@ -89,7 +89,7 @@
       "mistweaver"
     ],
     "notes": [],
-    "description": "Gust of Mists has a 30% chance to do <dynamic>25% - 40%</dynamic> more healing."
+    "description": "Gust of Mists has a 30% chance to do <dynamic>25.0% - 40%</dynamic> more healing."
   },
   {
     "id": "336853",
@@ -102,7 +102,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Fortifying Brew grants you a shield equal to <dynamic>5% - 20%</dynamic> of your health for 15 sec."
+    "description": "Fortifying Brew grants you a shield equal to <dynamic>5.0% - 20%</dynamic> of your maximum health for 15 sec."
   },
   {
     "id": "336884",
@@ -115,7 +115,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "When Paralysis ends, your target's movement speed is reduced by <dynamic>60% - 90%</dynamic> for 5 sec."
+    "description": "When Paralysis ends, your target's movement speed is reduced by <dynamic>60.0% - 90%</dynamic> for 5 sec."
   },
   {
     "id": "336890",
@@ -128,7 +128,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Targets affected by your Leg Sweep deal <dynamic>5% - 20%</dynamic> less damage for 5 sec."
+    "description": "Targets affected by your Leg Sweep deal <dynamic>5.0% - 20%</dynamic> less damage for 5 sec."
   },
   {
     "id": "337078",
@@ -141,7 +141,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Transcendence: Transfer increases your movement speed by <dynamic>10% - 25%</dynamic>."
+    "description": "Transcendence: Transfer increases your movement speed by <dynamic>10.0% - 25%</dynamic> for 5 sec."
   },
   {
     "id": "337084",
@@ -154,7 +154,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Blackout Kick has a <dynamic>5% - 20%</dynamic> chance to grant a charge of Roll."
+    "description": "Blackout Kick has a <dynamic>5.0% - 20%</dynamic> chance to grant a charge of Roll."
   },
   {
     "id": "337099",
@@ -165,7 +165,7 @@
       "mistweaver"
     ],
     "notes": [],
-    "description": "Rising Sun Kick reduces the remaining cooldown on Revival by 1 sec, and Revival heals targets for <dynamic>10% - 25%</dynamic> of Revival's heal over 10 sec."
+    "description": "Rising Sun Kick reduces the remaining cooldown on Revival by 1.0 sec, and Revival heals targets for <dynamic>10.0% - 24%</dynamic> of Revival's heal over 10 sec."
   },
   {
     "id": "337119",
@@ -176,7 +176,7 @@
       "brewmaster"
     ],
     "notes": [],
-    "description": "Keg Smash deals an additional <dynamic>20% - 50%</dynamic> damage to targets affected by Breath of Fire."
+    "description": "Keg Smash deals an additional <dynamic>6.0% - 14.4%</dynamic> damage to targets affected by Breath of Fire."
   },
   {
     "id": "337134",
@@ -187,7 +187,7 @@
       "brewmaster"
     ],
     "notes": [],
-    "description": "While under the effects of Celestial Brew, your effects that heal you are increased by <dynamic>20% - 35%</dynamic>."
+    "description": "While under the effects of Celestial Brew, your effects that heal you are increased by <dynamic>20.0% - 35%</dynamic>."
   },
   {
     "id": "337241",
@@ -198,7 +198,7 @@
       "mistweaver"
     ],
     "notes": [],
-    "description": "Life Cocoon increases healing over time received by an additional <dynamic>15% - 30%</dynamic>, and this bonus lingers for an additional 6 sec after the shield is broken."
+    "description": "Life Cocoon increases healing over time received by an additional <dynamic>15.0% - 30%</dynamic>, and this effect lingers for an additional 6 sec after the cocoon is removed."
   },
   {
     "id": "337250",
@@ -209,7 +209,7 @@
       "brewmaster"
     ],
     "notes": [],
-    "description": "Shuffle grants your Stagger <dynamic>5% - 20%</dynamic> additional effectiveness."
+    "description": "During Shuffle, Heavy Stagger has a <dynamic>2.0% - 5%</dynamic> chance to heal you instead of dealing damage."
   },
   {
     "id": "337264",
@@ -220,7 +220,7 @@
       "brewmaster"
     ],
     "notes": [],
-    "description": "Abilities that grant Shuffle reduce the cooldown on Invoke Niuzao, the Black Ox by 0.5 sec, and Niuzao's Stomp deals an additional <dynamic>10% - 25%</dynamic> damage."
+    "description": "Abilities that grant Shuffle reduce the cooldown on Invoke Niuzao, the Black Ox by 0.5 sec, and Niuzao's Stomp deals an additional <dynamic>20.0% - 48%</dynamic> damage."
   },
   {
     "id": "337286",
@@ -233,7 +233,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Weapons of Order's duration is increased by 5 sec, and the Mastery bonus is increased by <dynamic>5% - 20%</dynamic>."
+    "description": "Weapons of Order's duration is increased by 5.0 sec, it increases your Mastery by an additional ."
   },
   {
     "id": "337295",
@@ -246,7 +246,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Bonedust Brew's Shadow damage or healing is increased by <dynamic>20% - 50%</dynamic>, and when Bonedust Brew deals Shadow damage or healing, it reduces its cooldown by 0.5 sec."
+    "description": "Bonedust Brew's Shadow damage or healing is increased by <dynamic>32.0% - 76.8%</dynamic>, and when Bonedust Brew deals Shadow damage or healing, its cooldown is reduced by 0.5 sec."
   },
   {
     "id": "337301",
@@ -259,7 +259,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Fallen Order monks deal <dynamic>20% - 50%</dynamic> more damage and healing."
+    "description": "Fallen Order monks deal <dynamic>29.0% - 69.6%</dynamic> more damage and healing."
   },
   {
     "id": "337303",
@@ -272,6 +272,6 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Faeline Stomp deals <dynamic>10% - 25%</dynamic> additional damage per target, up to a maximum of <dynamic>50%</dynamic> additional damage."
+    "description": "Faeline Stomp deals <dynamic>4.0% - 9.64%</dynamic> additional damage per target, up to a maximum of <dynamic>20.0%</dynamic> additional damage."
   }
 ]

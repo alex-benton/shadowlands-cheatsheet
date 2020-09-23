@@ -10,7 +10,7 @@
       "survival"
     ],
     "notes": [],
-    "description": "Your attacks and abilities deal <dynamic> 5.0% - 15%</dynamic> increased damage to enemies inside Resonating Arrow."
+    "description": "Your attacks and abilities deal <dynamic>5.0% - 15%</dynamic> increased damage to enemies inside Resonating Arrow."
   },
   {
     "id": "339059",
@@ -36,7 +36,7 @@
       "survival"
     ],
     "notes": [],
-    "description": "Wild Spirits duration is increased by 3 sec and the damage dealt is increased by <dynamic> 10.0% - 25%</dynamic>."
+    "description": "Wild Spirits duration is increased by 3 sec and the damage dealt is increased by<dynamic> 10.0% - 25%</dynamic>."
   },
   {
     "id": "339129",
@@ -75,7 +75,7 @@
       "survival"
     ],
     "notes": [],
-    "description": "Aspect of the Turtle cooldown reduced by<dynamic> 10.0 - 32</dynamic> sec."
+    "description": "Aspect of the Turtle's cooldown is reduced by <dynamic>10.0 sec - 32 sec</dynamic>."
   },
   {
     "id": "339399",
@@ -101,7 +101,7 @@
       "survival"
     ],
     "notes": [],
-    "description": "When Feign Death ends the damage you take is reduced by<dynamic> 3.0% - 10%</dynamic> for until cancelled."
+    "description": "When Feign Death ends, you take <dynamic>3% - 10%</dynamic> reduced damage for 8 sec."
   },
   {
     "id": "339495",
@@ -114,7 +114,7 @@
       "survival"
     ],
     "notes": [],
-    "description": "Successfully interrupting an enemy with \n\n<spec>Beast Mastery</spec><spec>Marksmanship (Level 18)</spec>\n<dynamic>Counter Shot - Counter Shot</dynamic>\n\n<spec>Survival</spec>\n<dynamic>Muzzle</dynamic>\n\n grants <dynamic>1</dynamic> Focus."
+    "description": "Successfully interrupting an enemy with \n\n<spec>Beast Mastery</spec><spec>Marksmanship (Level 18)</spec>\n<dynamic>Counter Shot</dynamic>\n\n<spec>Survival</spec>\n<dynamic>Muzzle</dynamic>\n\n grants <dynamic>5</dynamic> Focus."
   },
   {
     "id": "339558",
@@ -127,7 +127,7 @@
       "survival"
     ],
     "notes": [],
-    "description": "Aspect of the Cheetah secondary movement speed lasts an addtional 3 sec and the cooldown is reduced by<dynamic> 15.0 - 45</dynamic> sec."
+    "description": "Aspect of the Cheetah's secondary movement speed lasts an addtional 3 sec, and its cooldown is reduced by <dynamic>15.0 sec - 45 sec</dynamic>."
   },
   {
     "id": "339651",
@@ -162,7 +162,7 @@
       "beastmastery"
     ],
     "notes": [],
-    "description": "Bestial Wrath increases all damage you and your pet deal by <dynamic> 1.0% - 15%</dynamic>."
+    "description": "Bestial Wrath increases all damage you and your pet deal by an additional <dynamic>1.0% - 15%</dynamic>."
   },
   {
     "id": "339920",
@@ -207,5 +207,59 @@
     ],
     "notes": [],
     "description": "Precise Shots increases the damage of your next Arcane Shot or Multi-Shot by an additional<dynamic> 5.0% - 20%</dynamic>."
+  },
+  {
+    "id": "340876",
+    "name": "Echoing Call",
+    "icon": "ability_fixated_state_yellow",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Wild Call has a<dynamic> 5.0% - 12%</dynamic> increased chance to reset the cooldown of Barbed Shot."
+  },
+  {
+    "id": "341222",
+    "name": "Strength of the Pack",
+    "icon": "ability_ironmaidens_swirlingvortex",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "When Kill Command's cooldown is reset, gain<dynamic> 3.0% - 10%</dynamic> increased damage for 4 sec."
+  },
+  {
+    "id": "341246",
+    "name": "Stinging Strike",
+    "icon": "ability_arakkoa_spinning_blade",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "<condition>Mongoose Bite</condition>\n<dynamic>Mongoose Bite</dynamic>\n\nRaptor Strike's damage is increased by <dynamic>14.0%</dynamic>."
+  },
+  {
+    "id": "341350",
+    "name": "Deadly Tandem",
+    "icon": "ability_boss_kilrogg_heartseeker",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Coordinated Assault's duration is increased by<dynamic> 1.0 sec - 8 sec</dynamic>."
+  },
+  {
+    "id": "341399",
+    "name": "Flame Infusion",
+    "icon": "spell_fire_flameblades",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "<condition>Butchery</condition>\n<dynamic>Butchery</dynamic>\n\nCarve increases the damage of your next Wildfire Bomb explosion by<dynamic> 10.0%</dynamic>, stacks up to 2 times."
+  },
+  {
+    "id": "341440",
+    "name": "Bloodletting",
+    "icon": "ability_warrior_bloodbath",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Barbed Shot's recharge time is reduced by 1 sec, and its damage is increased by <dynamic>10.0% - 25%</dynamic>."
   }
 ]

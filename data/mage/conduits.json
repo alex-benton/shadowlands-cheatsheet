@@ -8,7 +8,7 @@
       "frost"
     ],
     "notes": [],
-    "description": "Frozen Orb damage is increased by <dynamic>10.0% - 40%</dynamic>."
+    "description": "Frozen Orb's damage is increased by <dynamic>10.0% - 40%</dynamic>."
   },
   {
     "id": "336472",
@@ -19,7 +19,7 @@
       "frost"
     ],
     "notes": [],
-    "description": "Blizzard damage and snare increased by <dynamic>5.0% - 25%</dynamic>."
+    "description": "Blizzard's damage and movement speed reduction are increased by <dynamic>5.0% - 25%</dynamic>."
   },
   {
     "id": "336522",
@@ -30,7 +30,7 @@
       "frost"
     ],
     "notes": [],
-    "description": "While Icy Veins is active, your critical hits reduce it's cooldown by <dynamic>0.3 sec - 1.92 sec</dynamic>."
+    "description": "While Icy Veins is active, your critical hits reduce its cooldown by <dynamic>0.30 sec - 1.92 sec</dynamic>."
   },
   {
     "id": "336569",
@@ -41,7 +41,7 @@
       "frost"
     ],
     "notes": [],
-    "description": "Increases the damage of Ice Lance against frozen enemies by <dynamic>10% - 50%</dynamic>."
+    "description": "Increases the damage of Ice Lance against frozen enemies by <dynamic>10.0% - 50%</dynamic>."
   },
   {
     "id": "336613",
@@ -67,7 +67,7 @@
       "arcane"
     ],
     "notes": [],
-    "description": "The cooldown of Blink is reduced by <dynamic>1 sec - 5 sec</dynamic>."
+    "description": "The cooldown of Blink is reduced by <dynamic>1.0 sec - 5 sec</dynamic>."
   },
   {
     "id": "336777",
@@ -91,7 +91,7 @@
       "fire"
     ],
     "notes": [],
-    "description": "While Combustion is active, your Fire Blast grants you <dynamic>3% - 10%</dynamic> increased Fire Damage for 5 sec, stacking up to 3 times."
+    "description": "While Combustion is active, your Fire Blast grants you <dynamic>3.0%  - 10%</dynamic> increased Fire damage for 5 sec, stacking up to 3 times."
   },
   {
     "id": "336852",
@@ -102,7 +102,7 @@
       "fire"
     ],
     "notes": [],
-    "description": "Flamestrike damage and radius is increased by <dynamic>8.0% - 26.67%</dynamic>."
+    "description": "Flamestrike's damage and radius are increased by <dynamic>6.0% - 20%</dynamic>."
   },
   {
     "id": "336873",
@@ -163,7 +163,7 @@
       "arcane"
     ],
     "notes": [],
-    "description": "Radiant Spark increases the damage your spells deal to the target by an additional <dynamic>2% - 8%</dynamic>."
+    "description": "Radiant Spark increases the damage your spells deal to the target by an additional <dynamic>2.0% - 8%</dynamic>."
   },
   {
     "id": "337087",
@@ -176,7 +176,7 @@
       "arcane"
     ],
     "notes": [],
-    "description": "Each time a Mirror of Torment is consumed your Spell Damage is increased by <dynamic>10% - 30%</dynamic> for 10 seconds, stacking 3 times."
+    "description": "Each time a Mirror of Torment is consumed your spell damage is increased by <dynamic>1.0% - 2.4%</dynamic> for 10 sec, stacking 3 times."
   },
   {
     "id": "337123",
@@ -213,7 +213,7 @@
       "arcane"
     ],
     "notes": [],
-    "description": "Touch of Magi accumulates an additional <dynamic>5% - 15%</dynamic> of the damage you deal."
+    "description": "Touch of Magi accumulates an additional <dynamic>5.0% - 15%</dynamic> of the damage you deal."
   },
   {
     "id": "337224",
@@ -224,7 +224,7 @@
       "fire"
     ],
     "notes": [],
-    "description": "Fireball grants <dynamic>5% - 15%</dynamic> Mastery when it fails to critically strike."
+    "description": "Fireball grants <dynamic>5.0% - 15%</dynamic> Mastery when it fails to critically strike."
   },
   {
     "id": "337240",
@@ -235,7 +235,7 @@
       "arcane"
     ],
     "notes": [],
-    "description": "Your Arcane Barrage has a <dynamic>10% - 25%</dynamic> chance to grant 2 Arcane Charges."
+    "description": "Your Arcane Barrage has a <dynamic>10.0% - 25%</dynamic> chance to grant 2 Arcane Charges."
   },
   {
     "id": "337275",
@@ -248,7 +248,7 @@
       "arcane"
     ],
     "notes": [],
-    "description": "Invisibility increases your movement speed by <dynamic>20% - 45%</dynamic> for 6 sec."
+    "description": "<spec>Arcane (Level 47)</spec>\n<dynamic>Greater</dynamic>\n\nInvisibility increases your movement speed by <dynamic>20%</dynamic> for 6 sec."
   },
   {
     "id": "337293",
@@ -261,6 +261,15 @@
       "arcane"
     ],
     "notes": [],
-    "description": "Gain a shield that absorbs <dynamic>5% - 15%</dynamic> of your maximum health for 15 sec after you Blink."
+    "description": "Gain a shield that absorbs <dynamic>5.0% - 15%</dynamic> of your maximum health for 15 sec after you Blink."
+  },
+  {
+    "id": "341325",
+    "name": "Controlled Destruction",
+    "icon": "inv_misc_volatilefire",
+    "type": "potency",
+    "specs": ["fire"],
+    "notes": [],
+    "description": "Pyroblast damage increased by <dynamic>5.0% - 20%</dynamic>."
   }
 ]

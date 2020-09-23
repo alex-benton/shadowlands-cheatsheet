@@ -1,1 +1,245 @@
-[]
+[
+  {
+    "id": "340529",
+    "name": "Tough as Bark",
+    "icon": "spell_nature_stoneclawtotem",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Barkskin's cooldown is reduced by <dynamic>10% - 24%</dynamic>."
+  },
+  {
+    "id": "340540",
+    "name": "Ursine Vigor",
+    "icon": "ability_druid_markofursol",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "For 4 sec after shifting into Bear Form, your health and armor are increased by <dynamic>12.0% - 28.8%</dynamic>."
+  },
+  {
+    "id": "340543",
+    "name": "Innate Resolve",
+    "icon": "spell_nature_healingway",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Regrowth and Frenzied Regeneration healing is increased by <dynamic>12.0% - 28.8%</dynamic> on yourself."
+  },
+  {
+    "id": "340545",
+    "name": "Tireless Pursuit",
+    "icon": "spell_druid_tirelesspursuit",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "For <dynamic>2.0 sec - 4.8 sec</dynamic> after leaving Cat Form or Travel Form, you retain up to 40% movement speed."
+  },
+  {
+    "id": "340549",
+    "name": "Unstoppable Growth",
+    "icon": "ability_druid_flourish",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Wild Growth's healing falls off <dynamic>30% - 72%</dynamic> less over time."
+  },
+  {
+    "id": "340550",
+    "name": "Ready for Anything",
+    "icon": "spell_nature_ravenform",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Nature's Swiftness's cooldown is reduced by <dynamic>10% - 24%</dynamic>."
+  },
+  {
+    "id": "340552",
+    "name": "Unchecked Aggression",
+    "icon": "ability_druid_berserk",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "You gain <dynamic>10.0% - 24%</dynamic> haste during Berserk in Bear Form."
+  },
+  {
+    "id": "340553",
+    "name": "Well-Honed Instincts",
+    "icon": "ability_druid_tigersroar",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "When you fall below 25% health, you cast Frenzied Regeneration, up to once every <dynamic>90 sec - 37.5 sec</dynamic>."
+  },
+  {
+    "id": "340605",
+    "name": "Layered Mane",
+    "icon": "ability_druid_ironfur",
+    "type": "endurance",
+    "specs": [],
+    "notes": [],
+    "description": "Ironfur has an <dynamic>8.0% - 19.2%</dynamic> chance to apply two stacks."
+  },
+  {
+    "id": "340609",
+    "name": "Savage Combatant",
+    "icon": "spell_druid_bearhug",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Mangle increases the damage of your next Maul by <dynamic>10.0% - 24%</dynamic>, stacking up to 3."
+  },
+  {
+    "id": "340616",
+    "name": "Flash of Clarity",
+    "icon": "spell_nature_crystalball",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Clearcast Regrowths heal for an additional <dynamic>20.0% - 48%</dynamic>."
+  },
+  {
+    "id": "340621",
+    "name": "Floral Recycling",
+    "icon": "item_herbd",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Swiftmend's healing is increased by <dynamic>30% - 72%</dynamic> of the consumed heal over time effect."
+  },
+  {
+    "id": "340682",
+    "name": "Taste for Blood",
+    "icon": "ability_druid_ferociousbite",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Ferocious Bite deals <dynamic>3.0% - 7.2%</dynamic> increased damage for each of your Bleeds on the target."
+  },
+  {
+    "id": "340686",
+    "name": "Incessant Hunter",
+    "icon": "ability_ghoulfrenzy",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Rip damage has a <dynamic>10.0% - 24%</dynamic> chance to grant 3 Energy."
+  },
+  {
+    "id": "340694",
+    "name": "Sudden Ambush",
+    "icon": "ability_hunter_catlikereflexes",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Finishing moves have a <dynamic>3.0% - 7.2%</dynamic> chance per combo point spent to make your next Rake or Shred deal damage as though you were stealthed."
+  },
+  {
+    "id": "340705",
+    "name": "Carnivorous Instinct",
+    "icon": "ability_mount_jungletiger",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Tiger's Fury's damage bonus is increased by <dynamic>3.0% - 7.2%</dynamic>."
+  },
+  {
+    "id": "340706",
+    "name": "Precise Alignment",
+    "icon": "spell_nature_natureguardian",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "The duration of Celestial Alignment is increased by <dynamic>4.0 sec - 9.6 sec</dynamic>."
+  },
+  {
+    "id": "340708",
+    "name": "Fury of the Skies",
+    "icon": "spell_druid_equinox",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Moonfire increases your Arcane damage to the target, and Sunfire increases your Nature damage to the target, by <dynamic>3.0% - 7.2%</dynamic>."
+  },
+  {
+    "id": "340719",
+    "name": "Umbral Intensity",
+    "icon": "ability_druid_eclipse",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Eclipse's damage bonus to Wrath and Starfire starts <dynamic>20.0% - 48%</dynamic> stronger."
+  },
+  {
+    "id": "340720",
+    "name": "Stellar Inspiration",
+    "icon": "ability_skyreach_lens_flare",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Starsurge and Starfall have a <dynamic>8.0% - 19.2%</dynamic> chance to empower Eclipse or extend Moonfire and Sunfire by double the amount."
+  },
+  {
+    "id": "341280",
+    "name": "Born Anew",
+    "icon": "spell_nature_reincarnation",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Rebirth grants the target 50% movement speed for 8 sec, and Well Fed, increasing their primary stat by <dynamic>20 - 48</dynamic> for 1 hour."
+  },
+  {
+    "id": "341378",
+    "name": "Deep Allegiance",
+    "icon": "ability_bastion_druid",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Kindred Spirits's empowerment cooldown is reduced by <dynamic>10% - 24%</dynamic>."
+  },
+  {
+    "id": "341383",
+    "name": "Endless Thirst",
+    "icon": "ability_revendreth_druid",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Ravenous Frenzy increases your critical chance by <dynamic>2.0% - 4.8%</dynamic> per stack."
+  },
+  {
+    "id": "341446",
+    "name": "Conflux of Elements",
+    "icon": "ability_ardenweald_druid",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "While channeling Convoke the Spirits, your damage and healing are increased by <dynamic>12.0% - 28.8%</dynamic>."
+  },
+  {
+    "id": "341447",
+    "name": "Evolved Swarm",
+    "icon": "ability_maldraxxus_druid",
+    "type": "potency",
+    "specs": [],
+    "notes": [],
+    "description": "Adaptive Swarm increases periodic effects by an additional <dynamic>6.0% - 14.4%</dynamic>."
+  },
+  {
+    "id": "341450",
+    "name": "Front of the Pack",
+    "icon": "spell_druid_stampedingroar_cat",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "Stampeding Roar's radius and duration are increased by <dynamic>15.0% - 36%</dynamic>."
+  },
+  {
+    "id": "341451",
+    "name": "Born of the Wilds",
+    "icon": "ability_hunter_huntervswild",
+    "type": "finesse",
+    "specs": [],
+    "notes": [],
+    "description": "The cooldown of Mighty Bash, Mass Entanglement, and Heart of the Wild are reduced by <dynamic>10% - 24%</dynamic>."
+  }
+]

@@ -34,7 +34,7 @@
       "frost"
     ],
     "notes": [],
-    "description": "Successfully interrupting an enemy with Mind Freeze grants <dynamic>10 - 40</dynamic> Runic Power."
+    "description": "Successfully interrupting an enemy with Mind Freeze grants <dynamic>5 - 20</dynamic> Runic Power."
   },
   {
     "id": "337764",
@@ -47,7 +47,7 @@
       "frost"
     ],
     "notes": [],
-    "description": "Anti-Magic Zone's radius is increased by 10% and the duration is increased by <dynamic>1.0 sec - 8 sec</dynamic>."
+    "description": "Anti-Magic Zone's radius is increased by 15% and the duration is increased by <dynamic>1.0 sec - 8 sec</dynamic>."
   },
   {
     "id": "337822",
@@ -58,7 +58,7 @@
       "frost"
     ],
     "notes": [],
-    "description": "Empower Rune Weapon recharges 5% faster and the Haste amount is increased by <dynamic>10.0% - 30%</dynamic>."
+    "description": "Empower Rune Weapon recharges 10% faster and grants <dynamic>5.0% - 15%</dynamic> additional Haste."
   },
   {
     "id": "337884",
@@ -139,7 +139,7 @@
       "unholy"
     ],
     "notes": [],
-    "description": "Death's Advance grants an additional <dynamic>10% - 30%</dynamic> movement speed over the first 3 sec."
+    "description": ""
   },
   {
     "id": "338311",
@@ -152,7 +152,7 @@
       "unholy"
     ],
     "notes": [],
-    "description": "Death Grip slows enemy movement speed by <dynamic>25.0% - 60%</dynamic> for until cancelled."
+    "description": "Death Grip slows enemy movement speed by <dynamic>25.0% - 60%</dynamic> for 5 sec."
   },
   {
     "id": "338330",
@@ -179,13 +179,11 @@
     "description": "Increases the duration of Dancing Rune Weapon by 3 sec and while active, your parries increase your maximum health by <dynamic>1.0% - 8%</dynamic>, stacking up to 2 times for 15 sec."
   },
   {
-    "id": "338501",
+    "id": "338492",
     "name": "Unleashed Frenzy",
     "icon": "spell_deathknight_icetouch",
     "type": "potency",
-    "specs": [
-      "frost"
-    ],
+    "specs": [],
     "notes": [],
     "description": "Frost Strike increases your strength by <dynamic>1.0% - 4.5%</dynamic> for 6 seconds, stacks up to 5 times."
   },
@@ -220,7 +218,7 @@
       "unholy"
     ],
     "notes": [],
-    "description": "Scourge Strike extends the duration of your Virulent plague by <dynamic>0.3 sec - 4.5 sec</dynamic>."
+    "description": "Scourge Strike extends the duration of your Virulent Plague by <dynamic>0.3 sec - 4.5 sec</dynamic>."
   },
   {
     "id": "338628",
@@ -259,6 +257,19 @@
       "unholy"
     ],
     "notes": [],
-    "description": "Shackle the Unworthy has a <dynamic>100.0% - 500%</dynamic> chance to spread to a nearby enemy each time it deals damage."
+    "description": "Shackle the Unworthy has a <dynamic>2.0% - 10%</dynamic> chance to spread to a nearby enemy each time it deals damage."
+  },
+  {
+    "id": "341344",
+    "name": "Withering Ground",
+    "icon": "ability_ardenweald_deathknight",
+    "type": "potency",
+    "specs": [
+      "blood",
+      "frost",
+      "unholy"
+    ],
+    "notes": [],
+    "description": "Death's Due deals <dynamic>15.0% - 50%</dynamic> increased damage."
   }
 ]
