@@ -3,12 +3,12 @@
     "id": "324739",
     "icon": "ability_kyrian_summonsteward",
     "name": "Summon Steward",
-    "duration": "3 minutes",
+    "duration": "4.5 minutes",
     "cost": "None",
     "range": "0 yards (Self)",
     "cast_time": "Instant",
     "cooldown": "5 minutes",
-    "description": "Call your steward to bring you a Phial of Serenity that can be consumed to restore 15% health and remove all Curse, Disease, Poison, and Bleed effects.\n\nYour Steward additionally offers access to a selection of useful amenities, each once per day.",
+    "description": "Call your steward to bring you a Phial of Serenity that can be consumed to restore 20% health and remove all Curse, Disease, Poison, and Bleed effects.\n\nYour Steward additionally offers access to a selection of useful amenities for 4 min.",
     "type": "signature",
     "covenant": "kyrian"
   },
@@ -20,8 +20,8 @@
     "cost": "None",
     "range": "0 yards (Self)",
     "cast_time": "Instant",
-    "cooldown": "1 minute",
-    "description": "Restores 15% health and removes all diseases, poisons, curses, and bleeds affecting you.",
+    "cooldown": "3 minutes",
+    "description": "Restores 20% health and removes all diseases, poisons, curses, and bleeds affecting you.",
     "type": "signature",
     "covenant": "kyrian"
   },
@@ -100,7 +100,7 @@
     "range": "5 yards (Combat)",
     "cast_time": "Instant",
     "cooldown": "1.5 minutes",
-    "description": "Infect the target's blood, dealing (125.3% of Attack power) Nature damage over 10 sec. If the target survives its full duration, they suffer an additional [(12.53% of Attack power) * 25] damage and you Vanish from sight.\n\nCooldown reduced by 60 sec if Sepsis does not last its full duration.",
+    "description": "Infect the target's blood, dealing (162.89% of Attack power) Nature damage over 10 sec. If the target survives its full duration, they suffer an additional (77.5667% of Attack power) damage and you Vanish from sight.\n\nCooldown reduced by 60 sec if Sepsis does not last its full duration.",
     "type": "combat",
     "className": "rogue",
     "covenant": "nightfae"
@@ -128,7 +128,7 @@
     "range": "5 yards (Combat)",
     "cast_time": "Instant",
     "cooldown": "n/a",
-    "description": "Slaughter the target, causing (95.472% of Attack power) Physical damage. &nbsp;The target's anima mixes with your lethal poison, coating your weapons for the next 5 minutes.\n\nSlaughter Poison deals Shadow damage over 12 sec. and steals 15% of healing done to the target.\n\n<dynamic>Awards 2 combo point.</dynamic>",
+    "description": "Slaughter the target, dealing (95.472% of Attack power) Physical damage. The target's anima mixes with your lethal poison, replacing it with a more powerful lethal poison for the next 5 minutes.\n\nSlaughter Poison deals Shadow damage over 12 sec. and steals 15% of healing done to the target.\n\n<dynamic>Awards 2 combo point.</dynamic>",
     "type": "combat",
     "className": "rogue",
     "covenant": "venthyr"

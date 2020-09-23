@@ -3,12 +3,12 @@
     "id": "324739",
     "icon": "ability_kyrian_summonsteward",
     "name": "Summon Steward",
-    "duration": "3 minutes",
+    "duration": "4.5 minutes",
     "cost": "None",
     "range": "0 yards (Self)",
     "cast_time": "Instant",
     "cooldown": "5 minutes",
-    "description": "Call your steward to bring you a Phial of Serenity that can be consumed to restore 15% health and remove all Curse, Disease, Poison, and Bleed effects.\n\nYour Steward additionally offers access to a selection of useful amenities, each once per day.",
+    "description": "Call your steward to bring you a Phial of Serenity that can be consumed to restore 20% health and remove all Curse, Disease, Poison, and Bleed effects.\n\nYour Steward additionally offers access to a selection of useful amenities for 4 min.",
     "type": "signature",
     "covenant": "kyrian"
   },
@@ -20,8 +20,8 @@
     "cost": "None",
     "range": "0 yards (Self)",
     "cast_time": "Instant",
-    "cooldown": "1 minute",
-    "description": "Restores 15% health and removes all diseases, poisons, curses, and bleeds affecting you.",
+    "cooldown": "3 minutes",
+    "description": "Restores 20% health and removes all diseases, poisons, curses, and bleeds affecting you.",
     "type": "signature",
     "covenant": "kyrian"
   },
@@ -86,7 +86,7 @@
     "range": "30 yards (Medium)",
     "cast_time": "Instant",
     "cooldown": "1 minute",
-    "description": "Admonish your target for their past transgressions, reducing the damage they deal to you by 5% and dealing (175% of Attack power) Arcane damage over 14 sec.\n\nWhile Shackle the Unworthy is active on an enemy, Rune spending attacks reduce its cooldown by 4 sec.",
+    "description": "Admonish your target for their past transgressions, reducing the damage they deal to you by 5% and dealing (175% of Attack power) Arcane damage over 14 sec.\n\nWhile Shackle the Unworthy is active on an enemy, each Rune spent with attacks reduces its cooldown by 4 sec.",
     "type": "combat",
     "className": "deathknight",
     "covenant": "kyrian"
@@ -100,7 +100,7 @@
     "range": "30 yards (Medium)",
     "cast_time": "Instant",
     "cooldown": "30 seconds",
-    "description": "Corrupts the targeted ground, causing [(3.6036% of Attack power) * 11] Shadow damage over 10 sec to targets within the area.\n\nEnemies damaged deal 1% reduced damage to you, up to a maximum of 15% and their power is transferred to you as an equal amount of Strength.\n\nWhile you remain within the area, your \n\n<condition>Necrotic Strike</condition>\n<dynamic>Necrotic Strike and</dynamic>\n\n<spec>Blood</spec>\n<dynamic>Heart Strike will hit up to 0 additional targets</dynamic>\n\n<condition>Clawing Shadows</condition>\n<dynamic>Clawing Shadows will hit all enemies near the target</dynamic>\n\nScourge Strike will hit all enemies near the target.",
+    "description": "Corrupts the targeted ground, causing [(3.6036% of Attack power) * 11] Shadow damage over 10 sec to targets within the area.\n\nEnemies damaged deal 1% reduced damage to you, up to a maximum of 15% and their power is transferred to you as an equal amount of Strength.\n\n<spec>Blood</spec><spec>Unholy</spec>\n<dynamic>While you remain within the area, your</dynamic>\n\n[Necrotic Strike and]\n\n<spec>Blood</spec>\n<dynamic>Heart Strike will hit up to 0 additional targets</dynamic>\n\n[Scourge Strike will hit up to 4 enemies near the target.]",
     "type": "combat",
     "className": "deathknight",
     "covenant": "nightfae"
