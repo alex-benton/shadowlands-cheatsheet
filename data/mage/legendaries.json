@@ -2,7 +2,7 @@
   {
     "id": "327284",
     "name": "Cold Front",
-    "icon": "trade_engineering",
+    "icon": "ability_mage_coldasice",
     "slots": [
       "Chest",
       "Back"
@@ -11,12 +11,12 @@
       "frost"
     ],
     "notes": [],
-    "description": "Casting 15 Frostbolts or Flurries calls down a Frozen Orb on your target. Hitting an enemy player counts as double."
+    "description": "Casting 15 Frostbolts or Flurries calls down a Frozen Orb toward your target. Hitting an enemy player counts as double."
   },
   {
     "id": "327364",
     "name": "Freezing Winds",
-    "icon": "trade_engineering",
+    "icon": "spell_shadow_soulleech_2",
     "slots": [
       "Head",
       "Hands"
@@ -25,12 +25,12 @@
       "frost"
     ],
     "notes": [],
-    "description": "While Frozen Orb is active, you gain Fingers of Frost every 5 sec. While Frozen Orb is not active, each Frostbolt reduces the cooldown of Frozen Orb by 2.5 sec."
+    "description": "While Frozen Orb is active, you gain Fingers of Frost every 2.5 sec. While Frozen Orb is not active, each Frostbolt reduces the cooldown of Frozen Orb by 2.5 sec."
   },
   {
     "id": "327489",
     "name": "Expanded Potential",
-    "icon": "trade_engineering",
+    "icon": "ability_mage_potentspirit",
     "slots": [
       "Waist",
       "Feet"
@@ -46,7 +46,7 @@
   {
     "id": "327492",
     "name": "Glacial Fragments",
-    "icon": "trade_engineering",
+    "icon": "artifactability_frostmage_blackicicles",
     "slots": [
       "Legs",
       "Back"
@@ -60,7 +60,7 @@
   {
     "id": "327508",
     "name": "Slick Ice",
-    "icon": "trade_engineering",
+    "icon": "inv_enchant_shardshadowfrostlarge",
     "slots": [
       "Waist",
       "Legs"
@@ -153,7 +153,7 @@
       "fire"
     ],
     "notes": [],
-    "description": "Casting 30 Fireballs or Pyroblasts calls down a Meteor on your target. Hitting an enemy player counts as double."
+    "description": "Damaging an enemy with 30 Fireballs or Pyroblasts calls down a Meteor on your target. Hitting an enemy player counts as double."
   },
   {
     "id": "333313",

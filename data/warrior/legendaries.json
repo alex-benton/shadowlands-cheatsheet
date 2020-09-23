@@ -2,7 +2,7 @@
   {
     "id": "335214",
     "name": "Leaper",
-    "icon": "ability_creature_cursed_04",
+    "icon": "ability_vehicle_launchplayer",
     "slots": [
       "Waist",
       "Feet"
@@ -18,10 +18,10 @@
   {
     "id": "335229",
     "name": "Thunderlord",
-    "icon": "ability_warrior_unrelentingassault",
+    "icon": "ability_vehicle_electrocharge",
     "slots": [
       "Feet",
-      "Back"
+      "Hands"
     ],
     "specs": [
       "protection"
@@ -32,10 +32,10 @@
   {
     "id": "335239",
     "name": "The Wall",
-    "icon": "ability_warrior_unrelentingassault",
+    "icon": "ability_warrior_shieldguard",
     "slots": [
       "Shoulder",
-      "Hands"
+      "Back"
     ],
     "specs": [
       "protection"
@@ -78,7 +78,7 @@
   {
     "id": "335274",
     "name": "Battlelord",
-    "icon": "trade_engineering",
+    "icon": "ability_pvp_hardiness",
     "slots": [
       "Neck",
       "Wrist"
@@ -120,7 +120,7 @@
   {
     "id": "335458",
     "name": "Enduring Blow",
-    "icon": "trade_engineering",
+    "icon": "ability_titankeeper_piercingcorruption",
     "slots": [
       "Head",
       "Waist"
@@ -143,12 +143,12 @@
       "fury"
     ],
     "notes": [],
-    "description": "Bloodthirst increases your Haste by 2% for 5 sec, stacking up to 4 times."
+    "description": "Bloodthirst increases your Haste by 2% for 8 sec, stacking up to 4 times."
   },
   {
     "id": "335567",
     "name": "Deathmaker",
-    "icon": "trade_engineering",
+    "icon": "ability_warrior_warbringer",
     "slots": [
       "Legs",
       "Back"
@@ -162,7 +162,7 @@
   {
     "id": "335582",
     "name": "Reckless Defense",
-    "icon": "trade_engineering",
+    "icon": "spell_warrior_paintrain",
     "slots": [
       "Head",
       "Hands"
@@ -176,10 +176,10 @@
   {
     "id": "335629",
     "name": "Unbreakable Will",
-    "icon": "trade_engineering",
+    "icon": "ability_warrior_stalwartprotector",
     "slots": [
-      "Legs",
-      "Feet"
+      "Chest",
+      "Finger"
     ],
     "specs": [
       "protection"
@@ -192,19 +192,19 @@
     "name": "Reprisal",
     "icon": "ability_warrior_unrelentingassault",
     "slots": [
-      "Chest",
-      "Finger"
+      "Legs",
+      "Feet"
     ],
     "specs": [
       "protection"
     ],
     "notes": [],
-    "description": "The first Intercepted attack granst you Ignore Pain and make your next Revenge cost no Rage."
+    "description": "The first Intercepted attack grants you Ignore Pain and makes your next Revenge cost no Rage."
   },
   {
     "id": "335758",
     "name": "Seismic Reverberation",
-    "icon": "ability_warrior_unrelentingassault",
+    "icon": "ability_warrior_bloodnova",
     "slots": [
       "Head",
       "Shoulder"
@@ -216,19 +216,5 @@
     ],
     "notes": [],
     "description": "If Whirlwind \n\n<spec>Protection</spec>\n<dynamic>or Revenge</dynamic>\n\nhits 3 or more enemies, it hits them 1 additional time."
-  },
-  {
-    "id": "335594",
-    "name": "Will of the Berserker",
-    "icon": "warrior_talent_icon_innerrage",
-    "slots": [
-      "Chest",
-      "Back"
-    ],
-    "specs": [
-      "fury"
-    ],
-    "notes": [],
-    "description": "When Recklessness expires, your Critical Strike is increased by 5% for 5 sec. Your Raging Blow will refresh the duration of this effect."
   }
 ]

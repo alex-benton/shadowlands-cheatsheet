@@ -1,7 +1,7 @@
 [
   {
     "id": "337504",
-    "name": "Sigil of the Illidari",
+    "name": "Collective Anguish",
     "icon": "artifactability_havocdemonhunter_anguishofthedeceiver",
     "slots": [
       "Wrist",
@@ -16,7 +16,7 @@
   },
   {
     "id": "337532",
-    "name": "Apexis Empowerment",
+    "name": "Half-Giant Empowerment",
     "icon": "inv_archaeology_ogres_hargunn_eye",
     "slots": [
       "Head",
@@ -31,7 +31,7 @@
   },
   {
     "id": "337534",
-    "name": "Darkglare Medallion",
+    "name": "Darkglare Boon",
     "icon": "inv_jewelry_necklace_53",
     "slots": [
       "Neck",
@@ -71,7 +71,7 @@
       "vengeance"
     ],
     "notes": [],
-    "description": "Your Fiery Brand now heals you for 100% of the damage done and each enemy hit by your Sigil of Flame increases the instant damage of your next Fiery Brand by 15%, stacking up to 15 times."
+    "description": "Your Fiery Brand now heals you for 100% of its initial damage done, and each enemy hit by your Sigil of Flame increases the instant damage of your next Fiery Brand by 15%, stacking up to 15 times."
   },
   {
     "id": "337544",
@@ -89,7 +89,7 @@
   },
   {
     "id": "337545",
-    "name": "Cloak of Fel Flames",
+    "name": "Fel Flame Fortification",
     "icon": "ability_creature_cursed_04",
     "slots": [
       "Waist",

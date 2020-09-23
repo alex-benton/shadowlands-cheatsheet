@@ -15,7 +15,7 @@
   },
   {
     "id": "337225",
-    "name": "Celestial Breath",
+    "name": "Yu'lon's Whisper",
     "icon": "ability_monk_dragonkick",
     "slots": [
       "Shoulder",
@@ -25,11 +25,11 @@
       "mistweaver"
     ],
     "notes": [],
-    "description": "Activating Thunder Focus Tea causes you to exhale the breath of Yu'lon, healing up to 6 allies within 15 yards for [(40% of Spell power) * 3] over 2 sec."
+    "description": "Activating Thunder Focus Tea causes you to exhale the breath of Yu'lon, healing up to 6 allies within 15 yards for [(56% of Spell power) * 3] over 2 sec."
   },
   {
     "id": "337288",
-    "name": "Stormstout's Last Gasp",
+    "name": "Stormstout's Last Keg",
     "icon": "achievement_brewery_2",
     "slots": [
       "Shoulder",
@@ -57,7 +57,7 @@
   },
   {
     "id": "337292",
-    "name": "The Emperor's Capacitor",
+    "name": "Last Emperor's Capacitor",
     "icon": "ability_warrior_unrelentingassault",
     "slots": [
       "Waist",
@@ -83,7 +83,7 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Roll has 1 additional"
+    "description": "<condition>Chi Torpedo</condition>\n<dynamic>Chi Torpedo</dynamic>\n\nRoll has 1 additional"
   },
   {
     "id": "337296",
@@ -115,12 +115,12 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "You gain 12% haste for 338321until cancelled after summoning your Celestial."
+    "description": "You gain 12% haste for 15 sec after summoning your Celestial."
   },
   {
     "id": "337334",
-    "name": "Rushing Tiger Palm",
-    "icon": "ability_monk_tigerpalm",
+    "name": "Keefer's Skyreach",
+    "icon": "inv__fistofthewhitetiger",
     "slots": [
       "Head",
       "Hands"
@@ -129,11 +129,11 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Tiger Palm now has a 10 yard range, and increases your critical strike chance for 25% for 6 sec on the target. When used, you instantly dash to the target.\n\nThe increased critical strike effect cannot occur more than once every 30 sec per target."
+    "description": "Tiger Palm now has a 10 yard range and you to dash to the target when used.\n\nTiger Palm also applies an effect which increases your critical strike chance for 25% for 6 sec on the target. This effect cannot be applied more than once every 30 sec per target."
   },
   {
     "id": "337343",
-    "name": "Soothing Focus",
+    "name": "Clouded Focus",
     "icon": "ability_monk_soothingmists",
     "slots": [
       "Neck",
@@ -147,7 +147,7 @@
   },
   {
     "id": "337473",
-    "name": "Uplifting Mists",
+    "name": "Tear of Morning",
     "icon": "ability_monk_uplift",
     "slots": [
       "Head",
@@ -157,7 +157,7 @@
       "mistweaver"
     ],
     "notes": [],
-    "description": "Renewing Mists applies Extend Life to the initial target, instantly healing them for 50 and increasing all healing done to them by 15% for 12 sec. \n\nWhen you heal with Enveloping Mist or Vivify, 50% of the heal is also applied to targets with your Extend Life effect."
+    "description": "Renewing Mists applies Extend Life to the initial target, instantly healing them for (145 / 100 * Spell power) and increasing all healing done to them by 15% for 12 sec. \n\nWhen you heal with Enveloping Mist or Vivify, 50% of the heal is also applied to targets with your Extend Life effect."
   },
   {
     "id": "337481",
@@ -175,7 +175,7 @@
   },
   {
     "id": "337483",
-    "name": "Pressure Release",
+    "name": "Jade Ignition",
     "icon": "ability_monk_chiexplosion",
     "slots": [
       "Legs",
@@ -185,11 +185,11 @@
       "windwalker"
     ],
     "notes": [],
-    "description": "Whenever you deal damage to a target with Fists of Fury, you gain a stack of Chi Energy up to a maximum of 20 stacks.\n\nUsing Expel Harm will cause the energy to detonate in a Chi Explosion, dealing (40% of Attack power) damage to all enemies within 8 yards. The damage is increased by 5% for each stack of Chi Energy."
+    "description": "Whenever you deal damage to a target with Fists of Fury, you gain a stack of Chi Energy up to a maximum of 30 stacks.\n\nUsing Spinning Crane Kick will cause the energy to detonate in a Chi Explosion, dealing (40% of Attack power) damage to all enemies within 8 yards. The damage is increased by 5% for each stack of Chi Energy."
   },
   {
     "id": "337570",
-    "name": "Face Palm",
+    "name": "Shaohao's Might",
     "icon": "ability_monk_tigerpalm",
     "slots": [
       "Chest",
@@ -203,7 +203,7 @@
   },
   {
     "id": "338138",
-    "name": "Flaming Kicks",
+    "name": "Charred Passions",
     "icon": "ability_monk_mightyoxkick",
     "slots": [
       "Feet",
@@ -213,6 +213,18 @@
       "brewmaster"
     ],
     "notes": [],
-    "description": "Your Breath of Fire ignites your right leg in flame for 8 sec, causing your Blackout Kick and Spinning Crane Kick to deal 30% additional damage as Fire damage and refresh the duration of your Breath of Flame on the target."
+    "description": "Your Breath of Fire ignites your right leg in flame for 8 sec, causing your Blackout Kick and Spinning Crane Kick to deal 30% additional damage as Fire damage and refresh the duration of your Breath of Fire on the target."
+  },
+  {
+    "id": "343250",
+    "name": "Escape from Reality",
+    "icon": "monk_ability_transcendence",
+    "slots": [
+      "Neck",
+      "Chest"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "After you use Transcendence: Transfer, you can use Transcendence: Transfer again within 10 sec, ignoring its cooldown.\n\nDuring this time the healing done to you by your Vivify is increased by 50% and you will refunded for 50% of its cost when cast on yourself."
   }
 ]

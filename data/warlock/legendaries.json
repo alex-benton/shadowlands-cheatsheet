@@ -29,7 +29,7 @@
       "demonology"
     ],
     "notes": [],
-    "description": "Drain Life now deals damage and restores health 50% faster."
+    "description": "Drain Life now channels 100% faster and restores health 100% faster."
   },
   {
     "id": "337057",
@@ -89,7 +89,7 @@
       "affliction"
     ],
     "notes": [],
-    "description": "Corruption damage is increased by 15%, and any target affected by your Corruption also has their movement speed slowed by 15%."
+    "description": "Corruption damage is increased by 15%, and any target affected by your Corruption also has their movement speed slowed by 50%."
   },
   {
     "id": "337122",
@@ -117,7 +117,7 @@
       "affliction"
     ],
     "notes": [],
-    "description": "Targets with die with your Agony applied to them grant you Wrath of Consumption, increasing all periodic damage dealt by 5% for 20 sec, stacking up to 5 times."
+    "description": "Targets that die with your Agony applied to them grant you Wrath of Consumption, increasing all periodic damage dealt by 5% for 20 sec, stacking up to 5 times."
   },
   {
     "id": "337135",
@@ -215,7 +215,7 @@
       "destruction"
     ],
     "notes": [],
-    "description": "Chaos Bolt increases the damage of Chaos Bolt by 10% and reduces the cast time of Chaos Bolt by 10% for 3 sec."
+    "description": "Chaos Bolt increases the damage of Chaos Bolt by 10% and reduces the cast time of Chaos Bolt by 20% for 3 sec."
   },
   {
     "id": "337272",

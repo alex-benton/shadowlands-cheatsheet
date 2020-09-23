@@ -123,7 +123,7 @@
       "elemental"
     ],
     "notes": [],
-    "description": "When you consume 6 or more stacks of Fulmination with Earth Shock, gain Lava Surge and increase the damage of your next Lava Burst by 6%."
+    "description": "When you cast Earth Shock\n\n<condition>Elemental Blast</condition>\n<dynamic>or Elemental Blast</dynamic>\n\n, gain Lava Surge and increase the damage of your next Lava Burst by 30%."
   },
   {
     "id": "336215",
@@ -137,7 +137,7 @@
       "elemental"
     ],
     "notes": [],
-    "description": "When you consume 6 or more stacks of Fulmination with Earth Shock, your next Earthquake will be instant cast and deal 6% additional damage."
+    "description": "When you cast Earth Shock\n\n<condition>Elemental Blast</condition>\n<dynamic>or Elemental Blast</dynamic>\n\n, your next Earthquake will deal 250% additional damage."
   },
   {
     "id": "336730",

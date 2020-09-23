@@ -39,7 +39,7 @@
       "discipline"
     ],
     "notes": [],
-    "description": "Reduces Shadow Word: Death's cooldown by 8 sec and causes its damage to trigger Atonement."
+    "description": "Reduces Shadow Word: Death's cooldown by 8 sec and causes its damage to trigger Atonement when used on targets below 20% health."
   },
   {
     "id": "336143",
@@ -53,7 +53,7 @@
       "shadow"
     ],
     "notes": [],
-    "description": "Your Shadowfiend or Mindbender deals 20% additional damage as Shadowflame damage, and the cooldown on Shadowfiend and Mindbender is reduced by 40%."
+    "description": "Mind Blast and Shadow Word: Death cause your \n\n<condition>Mindbender</condition>\n<dynamic>Mindbender</dynamic>\n\nShadowfiend to teleport behind your target, slashing up to 5 nearby enemies for [.6 * (300% of Spell power)] Shadowflame damage. Each time a rift is triggered, the duration of \n\n<condition>Mindbender</condition>\n<dynamic>Mindbender</dynamic>\n\nShadowfiend is increased by 1.5 sec."
   },
   {
     "id": "336165",
@@ -81,7 +81,7 @@
       "shadow"
     ],
     "notes": [],
-    "description": "Mind Flay has a chance to spawn a Void Tendril that channels Mind Flay at your target for 15 sec, generating 3 insanity when it deals damage."
+    "description": "Mind Flay and Mind Sear have a chance to spawn a Void Tendril or Void Lasher that channels at your target for 15 sec, generating 3 insanity every 1 sec."
   },
   {
     "id": "336266",
@@ -95,7 +95,7 @@
       "holy"
     ],
     "notes": [],
-    "description": "Each time you cast Flash Heal, your next Heal cast within 15 sec has its casting time reduced by 0.5 sec and healing increased by 15%, stacking up to 3 times."
+    "description": "Each time you cast Flash Heal, Heal has its casting time reduced by 0.1 sec and healing increased by 3%, stacking up to 5 times."
   },
   {
     "id": "336314",
@@ -123,7 +123,7 @@
       "discipline"
     ],
     "notes": [],
-    "description": "When Shadow Word: Pain expires on a target, 5 allies within 30 yds of the target are healed for 3% of their maximum health."
+    "description": "When \n\n<condition>Purge the Wicked</condition>\n<dynamic>Purge the Wicked</dynamic>\n\nShadow Word: Pain expires on a target, 3 allies within 30 yds of the target are healed for (50% of Spell power)."
   },
   {
     "id": "336400",
@@ -169,7 +169,7 @@
       "shadow"
     ],
     "notes": [],
-    "description": "Power Word: Shield instantly heals the target for (30% of Spell power) and reflects 30% of damage absorbed."
+    "description": "Power Word: Shield instantly heals the target for (42% of Spell power) and reflects 20% of damage absorbed."
   },
   {
     "id": "336897",
@@ -200,5 +200,29 @@
     ],
     "notes": [],
     "description": "After Spirit of Redemption expires, you will revive at up to 100% health, based on your effectiveness during Spirit of Redemption. After reviving, you cannot benefit from Spirit of Redemption for 10 min."
+  },
+  {
+    "id": "341804",
+    "name": "Measured Contemplation",
+    "icon": "spell_paladin_divinecircle",
+    "slots": [
+      "Neck",
+      "Chest"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "For every 15 seconds that you do not cast \n\n<spec>Holy</spec>\n<dynamic>Flash Heal, the healing of your next Flash Heal</dynamic>\n\n<spec>Discipline</spec><spec>Shadow</spec>\n<dynamic>Shadow Mend, the healing of your next Shadow Mend</dynamic>\n\n is increased by 50%. &nbsp;This effect can stack up to 4 times."
+  },
+  {
+    "id": "342415",
+    "name": "Talbadar's Stratagem",
+    "icon": "spell_fire_twilightcano",
+    "slots": [
+      "Waist",
+      "Legs"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "While you have Shadow Word: Pain, Devouring Plague, and Vampiric Touch active on the same target, your Mind Blast deals 30% more damage."
   }
 ]

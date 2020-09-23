@@ -1,11 +1,11 @@
 [
   {
     "id": "338608",
-    "name": "Druid Runecarve 1",
+    "name": "Oath of the Elder Druid",
     "icon": "spell_holy_blessingofagility",
     "slots": [
-      "Wrist",
-      "Finger"
+      "Shoulder",
+      "Wrist"
     ],
     "specs": [
       "balance",
@@ -18,11 +18,11 @@
   },
   {
     "id": "338657",
-    "name": "Druid Runecarve 3",
-    "icon": "classicon_druid",
+    "name": "Circle of Life and Death",
+    "icon": "ability_druid_cyclone",
     "slots": [
       "Head",
-      "Shoulder"
+      "Finger"
     ],
     "specs": [
       "balance",
@@ -35,8 +35,8 @@
   },
   {
     "id": "338658",
-    "name": "Druid Runecarve 4",
-    "icon": "classicon_druid",
+    "name": "Draught of Deep Focus",
+    "icon": "trade_alchemy_dpotion_d12",
     "slots": [
       "Neck",
       "Chest"
@@ -47,7 +47,7 @@
       "feral"
     ],
     "notes": [],
-    "description": "When Moonfire, Rake, Rip, or Rejuvenation are on a single target, their effects are increased 30%"
+    "description": "When Moonfire, Rake, Rip, or Rejuvenation are active on a single target, their effects are increased 30%."
   },
   {
     "id": "338661",
@@ -75,12 +75,12 @@
       "balance"
     ],
     "notes": [],
-    "description": "Every 400 Astral Power spent grants Celestial Alignment for 9 sec."
+    "description": "Every 300 Astral Power spent grants Celestial Alignment for 9 sec."
   },
   {
     "id": "338829",
-    "name": "Druid Resto Runecarve 3",
-    "icon": "classicon_druid",
+    "name": "Verdant Infusion",
+    "icon": "inv_relics_totemoflife",
     "slots": [
       "Shoulder",
       "Hands"
@@ -103,12 +103,12 @@
       "restoration"
     ],
     "notes": [],
-    "description": "You may Lifebloom two targets at once, and Lifebloom's final healing is increased by 100%."
+    "description": "You may Lifebloom two targets at once, and Lifebloom's final healing is increased by 75%."
   },
   {
     "id": "338832",
-    "name": "Druid Resto Runecarve 4",
-    "icon": "classicon_druid",
+    "name": "Vision of Unending Growth",
+    "icon": "achievement_dungeon_everbloom",
     "slots": [
       "Head",
       "Feet"
@@ -121,8 +121,8 @@
   },
   {
     "id": "339056",
-    "name": "Druid Guardian Runecarve 3",
-    "icon": "classicon_druid",
+    "name": "Ursoc's Fury Remembered",
+    "icon": "achievement_emeraldnightmare_ursoc",
     "slots": [
       "Legs",
       "Back"
@@ -131,12 +131,12 @@
       "guardian"
     ],
     "notes": [],
-    "description": "In Bear Form, Thrash has a 15% chance to trigger an additional Thrash."
+    "description": "In Bear Form, Thrash has a 15% chance to trigger an additional Thrash.\n\nThrash grants you an absorb shield for 100% of all damage it deals."
   },
   {
     "id": "339060",
-    "name": "Druid Guardian Runecarve 1",
-    "icon": "classicon_druid",
+    "name": "Luffa-Infused Embrace",
+    "icon": "inv_misc_herb_nightmarevine_stem",
     "slots": [
       "Chest",
       "Back"
@@ -159,12 +159,12 @@
       "guardian"
     ],
     "notes": [],
-    "description": "Berserk in Bear Form grants 25% increased damage, 15% Leech, and immunity to effects that cause loss of control of your character."
+    "description": "Berserk in Bear Form grants 25% increased damage, 15% Leech, and immunity to effects that cause loss of control of your character.\n\nIts cooldown is reduced by 30 sec."
   },
   {
     "id": "339063",
-    "name": "Druid Guardian Runecarve 2",
-    "icon": "classicon_druid",
+    "name": "The Natural Order's Will",
+    "icon": "ability_druid_fortifiedbark",
     "slots": [
       "Head",
       "Hands"
@@ -195,7 +195,7 @@
     "icon": "ability_druid_primaltenacity",
     "slots": [
       "Shoulder",
-      "Finger"
+      "Waist"
     ],
     "specs": [
       "feral"
@@ -205,11 +205,11 @@
   },
   {
     "id": "339141",
-    "name": "Druid Feral Runecarve 2",
-    "icon": "ability_druid_kingofthejungle",
+    "name": "Eye of Fearful Symmetry",
+    "icon": "ability_druid_healinginstincts",
     "slots": [
-      "Neck",
-      "Wrist"
+      "Head",
+      "Hands"
     ],
     "specs": [
       "feral"
@@ -219,11 +219,11 @@
   },
   {
     "id": "339144",
-    "name": "Druid Feral Runecarve 1",
-    "icon": "classicon_druid",
+    "name": "Cat-eye Curio",
+    "icon": "inv_jewelcrafting_gem_30",
     "slots": [
-      "Head",
-      "Waist"
+      "Neck",
+      "Finger"
     ],
     "specs": [
       "feral"
@@ -233,8 +233,8 @@
   },
   {
     "id": "339942",
-    "name": "Druid Balance Runecarve 3",
-    "icon": "classicon_druid",
+    "name": "Balance of All Things",
+    "icon": "ability_druid_balanceofpower",
     "slots": [
       "Legs",
       "Feet"
@@ -243,11 +243,11 @@
       "balance"
     ],
     "notes": [],
-    "description": "Entering Eclipse increases your critical strike chance with Arcane or Nature spells by 105%, decreasing by 15% every sec."
+    "description": "Entering Eclipse increases your critical strike chance with Arcane or Nature spells by 75%, decreasing by 15% every sec."
   },
   {
     "id": "339949",
-    "name": "Timeworn Dreamcatcher",
+    "name": "Timeworn Dreambinder",
     "icon": "ability_creature_cursed_04",
     "slots": [
       "Chest",
@@ -257,15 +257,15 @@
       "balance"
     ],
     "notes": [],
-    "description": "Starsurge and Starfall reduce the cost of Starsurge and Starfall by 10% for 5 sec, stacking up to 2 times."
+    "description": "Starsurge and Starfall reduce the cost of Starsurge and Starfall by 15% for 6 sec, stacking up to 2 times."
   },
   {
     "id": "340053",
-    "name": "Druid Feral Runecarve 4",
+    "name": "Frenzyband",
     "icon": "ability_deathwing_bloodcorruption_earth",
     "slots": [
-      "Wrist",
-      "Hands"
+      "Waist",
+      "Wrist"
     ],
     "specs": [
       "feral"

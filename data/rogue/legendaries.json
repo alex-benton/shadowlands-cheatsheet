@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "id": "340076",
+    "name": "Mark of the Master Assassin",
+    "icon": "inv_weapon_shortblade_25",
+    "slots": [
+      "Wrist",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "While Stealth is active and for 5 sec after breaking Stealth, your Critical Strike chance is increased by 100%."
+  },
+  {
+    "id": "340078",
+    "name": "Tiny Toxic Blades",
+    "icon": "ability_rogue_poisonedknife",
+    "slots": [
+      "Waist",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Shiv causes your Poisons and Bleeds on the target to spread to a nearby enemy."
+  },
+  {
+    "id": "340079",
+    "name": "Essence of Bloodfang",
+    "icon": "spell_shadow_lifedrain",
+    "slots": [
+      "Head",
+      "Shoulder"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your combo point generating abilities have a chance to infect the target with Bloodfang, causing 0 Bleed damage over 6 sec, and healing the Rogue for 0 each time it deals damage."
+  },
+  {
+    "id": "340080",
+    "name": "Invigorating Shadowdust",
+    "icon": "ability_vanish",
+    "slots": [
+      "Neck",
+      "Chest"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Vanish reduces the remaining cooldown of your other abilities by 15 sec."
+  },
+  {
+    "id": "340081",
+    "name": "Dashing Scoundrel",
+    "icon": "ability_rogue_venomouswounds",
+    "slots": [
+      "Feet",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Envenom also increases the critical strike chance of your poisons by 30%, and their critical strikes generate 2 Energy."
+  },
+  {
+    "id": "340082",
+    "name": "Doomblade",
+    "icon": "ability_deathwing_bloodcorruption_earth",
+    "slots": [
+      "Shoulder",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Mutilate deals an additional 20% Bleed damage over 8 sec.\n\nEnvenom damage increased by 5% for each Bleed you have on the target."
+  },
+  {
+    "id": "340083",
+    "name": "Zoldyck Insignia",
+    "icon": "archaeology_5_0_thunderkinginsignia",
+    "slots": [
+      "Legs",
+      "Feet"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Your Poisons and Bleeds deal 30% increased damage to targets below 30% health."
+  },
+  {
+    "id": "340084",
+    "name": "Duskwalker's Patch",
+    "icon": "inv_throwingknife_04",
+    "slots": [
+      "Chest",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "The remaining cooldown on Vendetta is reduced by 1 sec for every 65 Energy you expend."
+  },
+  {
+    "id": "340085",
+    "name": "Greenskin's Wickers",
+    "icon": "ability_creature_cursed_04",
+    "slots": [
+      "Head",
+      "Waist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Between the Eyes has a 20% chance per Combo Point to increase the damage of your next Pistol Shot by 200%."
+  },
+  {
+    "id": "340086",
+    "name": "Guile Charm",
+    "icon": "ability_rogue_preyontheweak",
+    "slots": [
+      "Neck",
+      "Wrist"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Take advantage of the natural ebb and flow of combat, causing your Sinister Strike to gradually increase your damage dealt by up to 30%. This maximum effect will last for 15 sec before fading and beginning the cycle anew."
+  },
+  {
+    "id": "340087",
+    "name": "Celerity",
+    "icon": "ability_rogue_slicedice",
+    "slots": [
+      "Shoulder",
+      "Finger"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Adrenaline Rush increases your damage by 15%, and you have a chance while Slice and Dice is active to gain the Adrenaline Rush effect for 4 sec."
+  },
+  {
+    "id": "340088",
+    "name": "Concealed Blunderbuss",
+    "icon": "inv_weapon_rifle_20",
+    "slots": [
+      "Wrist",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "When Sinister Strike hits an additional time, there is a 33% chance that your next Pistol Shot will fire 3 additional times."
+  },
+  {
+    "id": "340089",
+    "name": "Finality",
+    "icon": "ability_rogue_eviscerate",
+    "slots": [
+      "Chest",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Eviscerate, Rupture, and Shadow Vault increase the damage of your next use of the finishing move by 20%."
+  },
+  {
+    "id": "340090",
+    "name": "Akaari's Soul Fragment",
+    "icon": "ability_warlock_soullink",
+    "slots": [
+      "Head",
+      "Hands"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "After using Shadowstrike or Cheap Shot, your target suffers a Shadowstrike from the shadows 2 sec later, at 50% effectiveness as Shadow damage."
+  },
+  {
+    "id": "340091",
+    "name": "The Rotten",
+    "icon": "spell_shadow_nightofthedead",
+    "slots": [
+      "Legs",
+      "Back"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "For 2 sec after activating Symbols of Death, your Shadowstrike and \n\n<condition>Gloomblade</condition>\n<dynamic>Gloomblade</dynamic>\n\nBackstab generate 4 additional combo points."
+  },
+  {
+    "id": "340092",
+    "name": "Deathly Shadows",
+    "icon": "spell_nzinsanity_chasedbyshadows",
+    "slots": [
+      "Waist",
+      "Legs"
+    ],
+    "specs": [],
+    "notes": [],
+    "description": "Vanish grants 5 combo points and increases all damage dealt by 15% for 10 sec."
+  }
+]
